@@ -1,0 +1,30 @@
+---
+type: project
+status: aktiv
+ziel: Aufbau eines molekularen Zettelkastens mit PARA-Projektverwaltung in Obsidian
+deadline: 2026-08-31
+tags:
+  - meta
+  - zettelkasten
+created: 2026-08-08
+updated: 2026-08-08
+---
+
+# 🚀 Zettelkasten Aufbau
+
+Erstes aktives PARA-Projekt: Aufsetzen und Befüllen der Verzeichnis- und Regelstruktur für `LLMWiki_V3`.
+
+## Status
+
+- [x] Grundlegende Ordnerstruktur anlegen (`Raw/`, `Literature/`, `Narrative/`, `Permanent/`, `MOC/`, `PARA/`, `00-Meta/`)
+- [x] Dashboards und Systemseiten erstellen (`Home.md`, `_Index MOC.md`)
+- [x] Templates für alle 5 Notiztypen anlegen (Literature, Narrative, Permanent, MOC, Project)
+- [x] Dokumentation (`Vault Guide.md`) erstellen
+- [x] Verbindliche `KI-Anweisungen.md` im Vault verankern
+- [x] Alte KI-Anweisungen nach `PARA/Resources/Alte_KI-Anweisungen/` verschieben
+- [ ] Erste Quelldatei in `Raw/` ablegen und Testlauf durchführen
+
+## Nächste Schritte
+
+1. Quelldateien (PDF, Clippings, KI-Chatlogs, Transkripte) in den Ordner `Raw/` legen.
+2. KI beauftragen, aus einer Quelldatei eine `Literature Note` und ggf. erste `Narrative` oder `Permanent Notes` zu erzeugen.
