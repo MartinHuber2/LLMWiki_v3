@@ -22,7 +22,7 @@ Erstes aktives PARA-Projekt: Aufsetzen und Befüllen der Verzeichnis- und Regels
 - [x] Dokumentation (`Vault Guide.md`) erstellen
 - [x] Verbindliche `KI-Anweisungen.md` im Vault verankern
 - [x] Alte KI-Anweisungen nach `60-PARA/Resources/Alte_KI-Anweisungen/` verschieben
-- [ ] Erste Quelldatei in `10-Raw/` ablegen und Testlauf durchführen
+- [x] Erste Quelldatei in `10-Raw/` ablegen und Testlauf durchführen
 
 ## Nächste Schritte
 

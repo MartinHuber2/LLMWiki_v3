@@ -17,7 +17,8 @@ updated: 2026-08-08
 
 *Sobald 5 oder mehr Permanent Notes zu einem Thema existieren, wird hier ein MOC verlinkt.*
 
-- *(Noch keine Themen-MOCs vorhanden — entstehen automatisch/emergent im laufenden Betrieb)*
+- [[Trilobiten und Aussterbeereignisse]] — Paläontologie: Trilobiten, Enrollierung, evolutionäres Wettrüsten, drei Aussterbeereignisse
+- [[Inn und Militärtransport]] — Geschichte Tirols: Innschifffahrt als Militärweg, Kufstein 1504, Galeerenstrafe
 
 ---
 

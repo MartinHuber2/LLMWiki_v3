@@ -10,7 +10,8 @@ Ein **molekularer Zettelkasten** für gemischte Wissensquellen (PDFs, Videos, B�
 
 | Ordner | Inhalt |
 |---|---|
-| `10-Raw/` | Rohe Quelldateien — PDF, Markdown-Clippings, DOCX, Transkripte. Hier landet alles, bevor die KI es verarbeitet. |
+| `10-Raw/Waiting_For_Ingestion/` | Eingangsordner für neue Rohquellen (PDF, Markdown-Clippings, DOCX, Transkripte). **Nur Dateien hier werden von der KI ingestiert.** |
+| `10-Raw/` | Verarbeitete Rohquellen: Nach der Ingestierung werden Quelldateien hierher verschoben. Liegen hier auch die Ziele der Q-Beleglinks. |
 | `20-Literature/` | Je Quelle eine KI-generierte Notiz: strukturiertes Experten-Exzerpt mit expliziten Kausalitätsketten. |
 | `30-Narrative/` | Argumentationsstrang einer oder mehrerer Quellen, verlinkt auf Permanent Notes. Ermöglicht mehrere unabhängig verlinkbare Narrative pro Quelle. |
 | `40-Permanent/` | Atomare Wissenseinheiten in eigenen Worten — das Herzstück des Zettelkastens. Dienen auch als synthetisierende (molekulare) Notizen. |
@@ -27,9 +28,9 @@ Ein **molekularer Zettelkasten** für gemischte Wissensquellen (PDFs, Videos, B�
 ## Workflow
 
 ```
-10-Raw/  ←  Quelldatei ablegen (PDF, Clipping, Transkript, ...)
+10-Raw/Waiting_For_Ingestion/  ←  Quelldatei ablegen (PDF, Clipping, Transkript, ...)
   │
-  ▼  KI liest Rohquelle
+  ▼  KI liest Rohquelle, erzeugt Notizen und verschiebt die Datei nach 10-Raw/
 20-Literature/     Experten-Exzerpt: Was steht drin? Kausalitäten explizit.
   │
   ├──▶ 30-Narrative/    Argumentationsstrang → verlinkt auf Permanent Notes

@@ -5,3 +5,6 @@
 # OS files
 .DS_Store
 Thumbs.db
+
+# Temp sync uploads
+.tmp.driveupload/

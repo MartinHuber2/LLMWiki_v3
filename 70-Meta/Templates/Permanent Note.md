@@ -11,4 +11,4 @@ status: auto
 
 Eine Idee, in eigenen Worten. Direkt beginnen — kein einleitendes „Diese Note beschreibt ...".
 
-Verwandte Konzepte: [[...]], [[...]]
+Verwandte Konzepte: [[permanent-note]], [[permanent-note]]

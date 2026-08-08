@@ -12,13 +12,13 @@ updated: {{date:YYYY-MM-DD}}
 
 ## Permanent Notes
 
-- [[Permanent/...]] — 
-- [[Permanent/...]] — 
+- [[permanent-note]] — 
+- [[permanent-note]] — 
 
 ## Narrative Notes
 
-- [[Narrative/...]] — 
+- [[narrative-note]] — 
 
 ## Verwandte MOCs
 
-- [[MOC/...]]
+- [[MOC-note]]

@@ -122,16 +122,26 @@ updated: YYYY-MM-DD
 
 ## Zitierregeln
 
+Die **Belegpflicht** gilt für **alle KI-erzeugten Aussagen in allen Notiztypen** — Literature, Narrative, Permanent und MOC. Nicht nur das Exzerpt der Literature Note ist zu belegen: Wann immer die KI in einer beliebigen Notiz eine Aussage macht, die aus einer bestimmten Text- oder Videostelle einer Quelle hergeleitet wird, folgt unmittelbar hinter der Aussage der entsprechende Beleg. Synthesen in eigenen Worten befreien nicht von der Belegpflicht.
+
 ### Textzitate aus Quellen
-Nach jeder belegten Aussage: `([[Literature/quellenname|Q]])` — Link auf die Literature Note, nicht auf die Rohdatei.
+Nach jeder belegten Aussage wird ein **Q-Alias-Wikilink** gesetzt, der **direkt auf die exakte Stelle in der Rohdatei** unter `10-Raw/` verweist — nicht auf die Literature Note:
+- **Markdown-Rohdateien** (Transkripte, Clippings): über den Überschriften-Anker der betreffenden Stelle, z.B. `([[10-Raw/dateiname.md#Passende Überschrift|Q]])`
+- **PDF-Rohdateien**: über den Seiten-Anker, z.B. `([[10-Raw/dateiname.pdf#page=12|Q]])`
+- **Andere Formate** (DOCX u.ä.): so präzise wie möglich (z.B. über Abschnitt oder Seite), ansonsten auf die Rohdatei insgesamt
+
+**Nummerierung:** Die Zahl in `Qn` bezeichnet die **Rohquelle**, nicht die Aussage. Auf einer Notiz wird jede eigenständig zitierte Rohquelle bei ihrem ersten Auftreten durchnummeriert (erste zitierte Rohquelle = Q1, zweite = Q2, usw.) und behält diese Nummer bei jeder weiteren Aussage aus derselben Rohquelle bei — auch wenn sich die Ankerstelle innerhalb der Rohquelle ändert. Wird eine Aussage durch mehrere Rohquellen belegt, stehen deren Verweise in einem einzigen Klammernpaar, durch Kommas getrennt, jeweils mit eigener Quellennummer: `([[10-Raw/datei1.md#Abschnitt|Q1]], [[10-Raw/datei2.pdf#page=5|Q2]])`.
+
+Diese Q-Konvention gilt **in allen Notiztypen** (Literature, Narrative, Permanent, MOC). Die Belegpflicht aus dem Abschnitt oben umfasst damit ausdrücklich auch Textquellen.
 
 ### Videoquellen
-Nach jeder Aussage aus einer Videoquelle direkt den Zeitstempel-Anker:
+Nach **jeder Aussage**, die aus einer bestimmten Aussage in einem Video hergeleitet wird — in **jedem** Notiztyp —, setzt die KI direkt den Zeitstempel-Anker:
 ```html
 <a href="VIDEO_URL&t=Ns" title="HH:mm:ss">(V)</a>
 ```
 - `N` = Sekunden (z.B. `t=754s` für 00:12:34)
 - `title` zeigt den Zeitstempel beim Hover
+- Gilt auch in Narrative- und Permanent Notes: Syntheseaussagen, die sich auf eine konkrete Stelle derselben Videoquelle stützen, erhalten den Anker dieser Stelle.
 
 ---
 
