@@ -24,5 +24,5 @@ updated: 2026-08-08
 ## System-MOCs
 
 - [[Home]] — Zentrales Dashboard
-- [[00-Meta/Vault Guide|Vault Guide]] — Workflow & Dokumentation
-- [[00-Meta/KI-Anweisungen|KI-Anweisungen]] — Verbindliche KI-Regeln
+- [[70-Meta/Vault Guide|Vault Guide]] — Workflow & Dokumentation
+- [[70-Meta/KI-Anweisungen|KI-Anweisungen]] — Verbindliche KI-Regeln

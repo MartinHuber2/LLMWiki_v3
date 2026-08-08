@@ -6,27 +6,27 @@
 
 ## 📥 Eingang
 
-- [[Raw/]] — Rohe Quelldateien ablegen (PDF, Clippings, Transkripte, ...)
+- [[10-Raw/]] — Rohe Quelldateien ablegen (PDF, Clippings, Transkripte, ...)
 
 ---
 
 ## 🗂 Zettelkasten
 
-- [[Literature/]] — Experten-Exzerpte je Quelle
-- [[Narrative/]] — Argumentationsstränge
-- [[Permanent/]] — Atomare Wissenseinheiten *(Herzstück)*
-- [[MOC/_Index MOC]] — Alle Maps of Content
+- [[20-Literature/]] — Experten-Exzerpte je Quelle
+- [[30-Narrative/]] — Argumentationsstränge
+- [[40-Permanent/]] — Atomare Wissenseinheiten *(Herzstück)*
+- [[50-MOC/_Index MOC]] — Alle Maps of Content
 
 ---
 
 ## 🚀 Projekte
 
-- [[PARA/Projects/Zettelkasten Aufbau]] — *aktiv*
+- [[60-PARA/Projects/Zettelkasten Aufbau]] — *aktiv*
 
 ---
 
 ## ⚙️ Meta
 
-- [[00-Meta/Vault Guide]] — Workflow & Struktur
-- [[00-Meta/KI-Anweisungen]] — Verbindliche KI-Regeln
-- [[00-Meta/Skills/ZK-ingest]] — Skill-Anweisung für Zettelkasten-Ingestion
+- [[70-Meta/Vault Guide]] — Workflow & Struktur
+- [[70-Meta/KI-Anweisungen]] — Verbindliche KI-Regeln
+- [[70-Meta/Skills/ZK-ingest]] — Skill-Anweisung für Zettelkasten-Ingestion

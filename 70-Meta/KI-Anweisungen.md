@@ -12,8 +12,8 @@ Diese Datei ist die **verbindliche und höchstpriorisierte** Anweisung für alle
 
 ## Prioritätshierarchie
 
-1. **Diese Datei** (`00-Meta/KI-Anweisungen.md`) — höchste Priorität
-2. Spezifische Anweisungen in PARA/Resources/
+1. **Diese Datei** (`70-Meta/KI-Anweisungen.md`) — höchste Priorität
+2. Spezifische Anweisungen in 60-PARA/Resources/
 3. Kontext aus bestehenden Notizen des Vaults
 
 Bei **Widersprüchen** zwischen Anweisungen: Widerspruch dem Nutzer klar benennen und drei konkrete Lösungsvorschläge präsentieren. Nicht eigenständig entscheiden.

@@ -10,34 +10,35 @@ Ein **molekularer Zettelkasten** für gemischte Wissensquellen (PDFs, Videos, B�
 
 | Ordner | Inhalt |
 |---|---|
-| `Raw/` | Rohe Quelldateien — PDF, Markdown-Clippings, DOCX, Transkripte. Hier landet alles, bevor die KI es verarbeitet. |
-| `Literature/` | Je Quelle eine KI-generierte Notiz: strukturiertes Experten-Exzerpt mit expliziten Kausalitätsketten. |
-| `Narrative/` | Argumentationsstrang einer oder mehrerer Quellen, verlinkt auf Permanent Notes. Ermöglicht mehrere unabhängig verlinkbare Narrative pro Quelle. |
-| `Permanent/` | Atomare Wissenseinheiten in eigenen Worten — das Herzstück des Zettelkastens. Dienen auch als synthetisierende (molekulare) Notizen. |
-| `MOC/` | Maps of Content — reine Navigations-Hubs, entstehen emergent ab ≥5 Permanent Notes zu einem Thema. |
-| `PARA/Projects/` | Zeitgebundene Projekte (Diplomarbeiten, Vault-Aufbau, ...). |
-| `PARA/Areas/` | Dauerhaft relevante Lebensbereiche (HTL-Unterricht, Forschungsinteressen, ...). |
-| `PARA/Resources/` | Referenzmaterial, KI-Anweisungen, Vorlagen-Ideen. |
-| `PARA/Archive/` | Abgeschlossene Projekte und inaktive Notizen. |
-| `Assets/` | Bilder, Anhänge, exportierte Dateien. |
+| `10-Raw/` | Rohe Quelldateien — PDF, Markdown-Clippings, DOCX, Transkripte. Hier landet alles, bevor die KI es verarbeitet. |
+| `20-Literature/` | Je Quelle eine KI-generierte Notiz: strukturiertes Experten-Exzerpt mit expliziten Kausalitätsketten. |
+| `30-Narrative/` | Argumentationsstrang einer oder mehrerer Quellen, verlinkt auf Permanent Notes. Ermöglicht mehrere unabhängig verlinkbare Narrative pro Quelle. |
+| `40-Permanent/` | Atomare Wissenseinheiten in eigenen Worten — das Herzstück des Zettelkastens. Dienen auch als synthetisierende (molekulare) Notizen. |
+| `50-MOC/` | Maps of Content — reine Navigations-Hubs, entstehen emergent ab ≥5 Permanent Notes zu einem Thema. |
+| `60-PARA/Projects/` | Zeitgebundene Projekte (Diplomarbeiten, Vault-Aufbau, ...). |
+| `60-PARA/Areas/` | Dauerhaft relevante Lebensbereiche (HTL-Unterricht, Forschungsinteressen, ...). |
+| `60-PARA/Resources/` | Referenzmaterial, KI-Anweisungen, Vorlagen-Ideen. |
+| `60-PARA/Archive/` | Abgeschlossene Projekte und inaktive Notizen. |
+| `70-Meta/` | `Templates/`, `Skills/`, Vault Guide und KI-Anweisungen. |
+| `80-Assets/` | Bilder, Anhänge, exportierte Dateien. |
 
 ---
 
 ## Workflow
 
 ```
-Raw/  ←  Quelldatei ablegen (PDF, Clipping, Transkript, ...)
+10-Raw/  ←  Quelldatei ablegen (PDF, Clipping, Transkript, ...)
   │
   ▼  KI liest Rohquelle
-Literature/     Experten-Exzerpt: Was steht drin? Kausalitäten explizit.
+20-Literature/     Experten-Exzerpt: Was steht drin? Kausalitäten explizit.
   │
-  ├──▶ Narrative/    Argumentationsstrang → verlinkt auf Permanent Notes
+  ├──▶ 30-Narrative/    Argumentationsstrang → verlinkt auf Permanent Notes
   │
-  └──▶ Permanent/    Eine Idee, in eigenen Worten, maximal verlinkt
+  └──▶ 40-Permanent/    Eine Idee, in eigenen Worten, maximal verlinkt
             │
             │  ab ≥5 Notes zum selben Thema (emergent)
             ▼
-          MOC/       Navigations-Hub für ein Themenfeld
+          50-MOC/       Navigations-Hub für ein Themenfeld
 ```
 
 ---
@@ -69,7 +70,7 @@ Beantwortet: *Was denke ich darüber?*
 - Entsteht emergent wenn ≥5 Notes sinnvoll zusammengefasst werden können
 
 ### AI Instruction (`type: ai_instruction`)
-- Beinhaltet Verhaltensregeln, Prompts und Handlungsanweisungen für KI-Modelle im Vault (z. B. `00-Meta/KI-Anweisungen.md` sowie archivierte KI-Anweisungsdateien in `PARA/Resources/Alte_KI-Anweisungen/`).
+- Beinhaltet Verhaltensregeln, Prompts und Handlungsanweisungen für KI-Modelle im Vault (z. B. `70-Meta/KI-Anweisungen.md` sowie archivierte KI-Anweisungsdateien in `60-PARA/Resources/Alte_KI-Anweisungen/`).
 
 ---
 

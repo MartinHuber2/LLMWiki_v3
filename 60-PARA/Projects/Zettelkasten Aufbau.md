@@ -16,15 +16,15 @@ Erstes aktives PARA-Projekt: Aufsetzen und Befüllen der Verzeichnis- und Regels
 
 ## Status
 
-- [x] Grundlegende Ordnerstruktur anlegen (`Raw/`, `Literature/`, `Narrative/`, `Permanent/`, `MOC/`, `PARA/`, `00-Meta/`)
+- [x] Grundlegende Ordnerstruktur anlegen (`10-Raw/`, `20-Literature/`, `30-Narrative/`, `40-Permanent/`, `50-MOC/`, `60-PARA/`, `70-Meta/`)
 - [x] Dashboards und Systemseiten erstellen (`Home.md`, `_Index MOC.md`)
-- [x] Templates für alle 5 Notiztypen anlegen (Literature, Narrative, Permanent, MOC, Project)
+- [x] Templates für alle Notiztypen anlegen
 - [x] Dokumentation (`Vault Guide.md`) erstellen
 - [x] Verbindliche `KI-Anweisungen.md` im Vault verankern
-- [x] Alte KI-Anweisungen nach `PARA/Resources/Alte_KI-Anweisungen/` verschieben
-- [ ] Erste Quelldatei in `Raw/` ablegen und Testlauf durchführen
+- [x] Alte KI-Anweisungen nach `60-PARA/Resources/Alte_KI-Anweisungen/` verschieben
+- [ ] Erste Quelldatei in `10-Raw/` ablegen und Testlauf durchführen
 
 ## Nächste Schritte
 
-1. Quelldateien (PDF, Clippings, KI-Chatlogs, Transkripte) in den Ordner `Raw/` legen.
+1. Quelldateien (PDF, Clippings, KI-Chatlogs, Transkripte) in den Ordner `10-Raw/` legen.
 2. KI beauftragen, aus einer Quelldatei eine `Literature Note` und ggf. erste `Narrative` oder `Permanent Notes` zu erzeugen.
