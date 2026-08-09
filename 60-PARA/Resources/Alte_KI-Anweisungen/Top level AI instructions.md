@@ -1,5 +1,7 @@
 ---
 type: ai_instruction
+created: 2026-05-19 08:30:00
+updated: 2026-05-19 08:30:00
 tags:
   - "AI_Instruction"
 ---

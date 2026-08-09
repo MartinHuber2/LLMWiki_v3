@@ -1,10 +1,10 @@
 ---
 type: ai_instruction
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-08-09
 ---
 
-# KI-Anweisungen — LLMWiki_V3
+# KI-Anweisungen — LLMWiki_V4
 
 Diese Datei ist die **verbindliche und höchstpriorisierte** Anweisung für alle KI-Interaktionen in diesem Vault. Sie hat Vorrang vor allen anderen Quellen, Notizen oder früheren Anweisungen.
 
@@ -13,8 +13,9 @@ Diese Datei ist die **verbindliche und höchstpriorisierte** Anweisung für alle
 ## Prioritätshierarchie
 
 1. **Diese Datei** (`70-Meta/KI-Anweisungen.md`) — höchste Priorität
-2. Spezifische Anweisungen in 60-PARA/Resources/
-3. Kontext aus bestehenden Notizen des Vaults
+2. **`70-Meta/Nutzerprofil.md`** — verbindliches Nutzerprofil (von Priorität 1 referenziert)
+3. Spezifische Anweisungen in 60-PARA/Resources/
+4. Kontext aus bestehenden Notizen des Vaults
 
 Bei **Widersprüchen** zwischen Anweisungen: Widerspruch dem Nutzer klar benennen und drei konkrete Lösungsvorschläge präsentieren. Nicht eigenständig entscheiden.
 
@@ -56,6 +57,27 @@ Die KI meldet **selbstständig**, wenn das aktuell gewählte Modell für die Auf
 
 In allen diesen Fällen macht die KI einen konkreten Vorschlag, welches **andere, möglichst kostengünstige Modell** für die Aufgabe geeignet wäre, und begründet die Empfehlung knapp.
 
+### Commit- und Push-Vorschläge
+Die KI schlägt **selbstständig** vor, einen Git-Commit (und — sofern ein Remote konfiguriert ist — einen Push) durchzuführen, wenn ein passender Zeitpunkt erreicht ist:
+- **Aufgabenblock abgeschlossen:** Ein in sich abgeschlossener Arbeitsabschnitt wurde beendet (z.B. Ingest einer Quelle, Health-Check, Regeländerung, Refactoring).
+- **Viele Arbeitsschritte seit letztem Commit:** Seit dem letzten Commit sind relativ viele Arbeitsschritte vergangen — bemessen in **Arbeitsschritten**, nicht nach Kalenderzeit.
+
+Der Vorschlag benennt den Umfang (betroffene Dateien) und einen konkreten Commit-Message-Vorschlag. Ausgeführt wird erst **nach expliziter Zustimmung** des Nutzers.
+
+---
+
+## Nutzerprofil
+
+Das Nutzerprofil liegt als eigene Datei unter [[70-Meta/Nutzerprofil|`70-Meta/Nutzerprofil.md`]] und ist **verbindlicher Bestandteil dieser Anweisungen** (Priorität 1). Es speichert dauerhaft alle Informationen über den Nutzer, die für die weitere Zusammenarbeit von Bedeutung sein können.
+
+### Lese- und Anwendungspflicht
+
+Vor jeder inhaltsbezogenen Arbeit — insbesondere vor Notizen-Erstellung, Inhaltsaufbereitung und Datenextraktion aus Quellen — liest die KI `70-Meta/Nutzerprofil.md` und richtet Darstellung, Tiefe und Terminologie an den dort gespeicherten Informationen aus (z.B. Nutzung physikalisch/mathematisch vertrauter Anker).
+
+### Aufnahmeregel
+
+Teilt der Nutzer in einer Sitzung neue Informationen über sich mit, die für die Zusammenarbeit relevant sind (Hintergrund, Konventionen, Präferenzen, Kontext), ergänzt die KI diese in `70-Meta/Nutzerprofil.md` unter **Bekannte Informationen** und aktualisiert dort sowie hier das Datumsfeld `updated` im Frontmatter.
+
 ---
 
 ## Vor dem Schreiben: Pre-Output-Validierung
@@ -73,6 +95,7 @@ Bevor die KI eine Note erstellt, muss sie intern prüfen und bei Bedarf bestäti
 - **Vernetzungspflicht**: Jedes bekannte Konzept und jede bekannte Entität, die im Fließtext vorkommt, wird als Wikilink gesetzt: `[[dateiname|grammatikalisch angepasster Anzeigetext]]`
 - **No Broken Links**: Es werden **ausschließlich** Links auf tatsächlich existierende Dateien gesetzt. Ist eine Zieldatei noch nicht vorhanden, bleibt der Begriff Klartext (kein Link)
 - **Entitäten-Schwelle**: Eine eigene Permanent Note für eine Entität entsteht nur, wenn ausreichend Substanz vorhanden ist (Richtwert: ~150 Wörter eigenständiger Inhalt). Beiläufige Erwähnungen bleiben Klartext
+- **Kollisionsfreiheit der Dateinamen**: Basisnamen von Dateien müssen im gesamten Vault eindeutig sein, damit bare `[[Wikilinks]]` eindeutig auflösen. Kollidiert der Basisname einer Rohquelle mit einer bestehenden Inhaltsseite (`20-Literature/`, `30-Narrative/`, `40-Permanent/`, `50-MOC/`), erhält die Rohquelle das Suffix ` (Quelle)`. Kollidiert der Basisname einer Literature Note mit einem MOC, erhält die Literature Note ein Herkunfts-Suffix (z.B. ` (Wikipedia)`). Bestehende Kollisionen werden bei einer Lint-Lauf behoben
 
 ---
 

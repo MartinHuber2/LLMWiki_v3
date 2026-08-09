@@ -1,4 +1,13 @@
-# 🏠 LLMWiki_V3
+---
+type: meta
+tags:
+  - meta
+  - index
+created: 2026-08-08
+updated: 2026-08-09
+---
+
+# 🏠 LLMWiki_V4
 
 > Persönliches Wissenssystem — molekularer Zettelkasten + PARA
 
@@ -6,15 +15,15 @@
 
 ## 📥 Eingang
 
-- [[10-Raw/]] — Rohe Quelldateien ablegen (PDF, Clippings, Transkripte, ...)
+- **`10-Raw/`** — Rohe Quelldateien ablegen (PDF, Clippings, Transkripte, ...)
 
 ---
 
 ## 🗂 Zettelkasten
 
-- [[20-Literature/]] — Experten-Exzerpte je Quelle
-- [[30-Narrative/]] — Argumentationsstränge
-- [[40-Permanent/]] — Atomare Wissenseinheiten *(Herzstück)*
+- **`20-Literature/`** — Experten-Exzerpte je Quelle
+- **`30-Narrative/`** — Argumentationsstränge
+- **`40-Permanent/`** — Atomare Wissenseinheiten *(Herzstück)*
 - [[50-MOC/_Index MOC]] — Alle Maps of Content
 
 ---

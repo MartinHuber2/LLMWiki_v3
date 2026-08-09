@@ -1,4 +1,12 @@
-# Vault Guide — LLMWiki_V3
+---
+type: meta
+tags:
+  - meta
+created: 2026-08-08
+updated: 2026-08-09
+---
+
+# Vault Guide — LLMWiki_V4
 
 ## Was ist dieses Wiki?
 

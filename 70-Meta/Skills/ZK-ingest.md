@@ -4,7 +4,7 @@ tags:
   - meta
   - skill
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-08-09
 ---
 
 # Skill: ZK-ingest (Zettelkasten Ingestion)
@@ -102,3 +102,4 @@ status: auto
 - **ISO 8601**: Datumsangaben immer im Format `YYYY-MM-DD`.
 - **Status-Handling**: Neue Notizen erhalten `status: auto`. Bestehende Notizen mit `confirmed` oder `review` werden von der KI nicht verändert.
 - **Experten-Standard**: Kausalität und Tiefe statt oberflächlicher Zusammenfassungen.
+- **Kollisionsfreiheit der Dateinamen**: Basisnamen von Dateien müssen im gesamten Vault eindeutig sein, damit bare `[[Wikilinks]]` eindeutig auflösen. Kollidiert der Basisname einer Rohquelle mit einer bestehenden Inhaltsseite (`20-Literature/`, `30-Narrative/`, `40-Permanent/`, `50-MOC/`), erhält die Rohquelle das Suffix ` (Quelle)` (z.B. `10-Raw/Trilobiten (Quelle).md`). Kollidiert der Basisname einer Literature Note mit einem MOC, erhält die Literature Note ein Herkunfts-Suffix (z.B. ` (Wikipedia)`). Bei jedem Ingest: Basisnamen der neuen Dateien gegen den Bestand prüfen.

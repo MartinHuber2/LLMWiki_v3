@@ -8,3 +8,6 @@ Thumbs.db
 
 # Temp sync uploads
 .tmp.driveupload/
+
+# Obsidian plugin local state
+.ttxfolder

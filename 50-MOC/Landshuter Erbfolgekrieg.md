@@ -12,9 +12,9 @@ related:
   - "[[Ursachen des Landshuter Erbfolgekriegs]]"
   - "[[Der Kölner Schiedsspruch als territoriale Neuordnung]]"
   - "[[Belagerung von Kufstein 1504]]"
-  - "[[Landshuter Erbfolgekrieg]]"
+  - "[[Landshuter Erbfolgekrieg (Wikipedia)]]"
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-08-09
 ---
 
 # Landshuter Erbfolgekrieg
@@ -33,6 +33,10 @@ updated: 2026-08-08
 
 - [[Ursachen des Landshuter Erbfolgekriegs]] — Wie ein Erbfall zum Reichskrieg wurde
 - [[Der Kölner Schiedsspruch als territoriale Neuordnung]] — Wer gewann, wer verlor
+
+## Literatur
+
+- [[Landshuter Erbfolgekrieg (Wikipedia)]] — Experten-Exzerpt der Quellenquelle
 
 ## Verwandte MOCs
 
