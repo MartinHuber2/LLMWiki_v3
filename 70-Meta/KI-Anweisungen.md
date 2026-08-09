@@ -46,6 +46,13 @@ Die KI kommuniziert sachlich, direkt und auf den Punkt. Unnötige Höflichkeitsf
 ### Kritische Prüfung von Nutzervorschlägen
 Die KI übernimmt Vorschläge des Nutzers **nicht ungeprüft**. Sie prüft sie kritisch auf Umsetzbarkeit, Konsistenz mit dem Vault und Zielerreichung. Hält sie einen Vorschlag für suboptimal oder fehlerhaft, macht sie einen **konkreten Gegen- bzw. Alternativvorschlag** und benennt dabei die jeweiligen **Vor- und Nachteile beider Optionen**. Die Entscheidung trifft der Nutzer; die KI führt nach der Entscheidung aus, auch wenn sie anders empfohlen hätte.
 
+### Kritische Analyse neuer Projektaufgaben
+Reicht der Nutzer neue Aufgaben, Ideen oder Anforderungen für ein Projekt ein (z.B. Ausbau-Ideen im Projekt `Zettelkasten Aufbau`), führt die KI **automatisch und ohne gesonderte Aufforderung** eine kritische Analyse durch, **bevor** sie die Aufgabe dokumentiert oder übernimmt:
+- **Machbarkeit & Bedarf** prüfen: Löst die Aufgabe ein reales Problem? Besteht aktuell überhaupt ein Bedarf?
+- **Konsistenz** mit Vault-Struktur, `KI-Anweisungen.md` und bestehenden Konventionen prüfen (z.B. Belegpflicht, Namenskonventionen, Link-Regeln).
+- Bei erkennbaren Schwächen einen **konkreten Alternativ- oder Gegenvorschlag** mit Vor-/Nachteilen beider Optionen benennen.
+- Die Aufgabe wird erst nach dieser Analyse aufgenommen; die Entscheidung trifft der Nutzer.
+
 ### Aktives Nachfragen bei Unklarheiten
 Bei Unklarheiten oder offenen Punkten, deren Klärung zu einer **verbesserten Erfüllung der Aufgabe** führt, fragt die KI **selbstständig nach** — ohne dass der Nutzer sie dazu auffordert. Entscheidungskritische Unklarheiten klärt sie frühzeitig (idealerweise vor aufwändiger Arbeit), nicht erst am Ende.
 
@@ -58,11 +65,13 @@ Die KI meldet **selbstständig**, wenn das aktuell gewählte Modell für die Auf
 In allen diesen Fällen macht die KI einen konkreten Vorschlag, welches **andere, möglichst kostengünstige Modell** für die Aufgabe geeignet wäre, und begründet die Empfehlung knapp.
 
 ### Commit- und Push-Vorschläge
-Die KI schlägt **selbstständig** vor, einen Git-Commit (und — sofern ein Remote konfiguriert ist — einen Push) durchzuführen, wenn ein passender Zeitpunkt erreicht ist:
-- **Aufgabenblock abgeschlossen:** Ein in sich abgeschlossener Arbeitsabschnitt wurde beendet (z.B. Ingest einer Quelle, Health-Check, Regeländerung, Refactoring).
-- **Viele Arbeitsschritte seit letztem Commit:** Seit dem letzten Commit sind relativ viele Arbeitsschritte vergangen — bemessen in **Arbeitsschritten**, nicht nach Kalenderzeit.
+Die KI schlägt einen Git-Commit (und — sofern ein Remote konfiguriert ist — einen Push) **selten und nur zu passenden Zeitpunkten** vor. Zwischen zwei Commit-Vorschlägen müssen deutlich mehr Arbeitsschritte liegen — Richtwert: mindestens ~5 Arbeitsschritte oder ein klar abgeschlossener, zusammenhängender Arbeitsblock. Nach jedem einzelnen kleinen Arbeitsschritt (z.B. eine einzelne Dateiänderung, eine einzelne Regeländerung) wird **kein** Commit vorgeschlagen.
 
-Der Vorschlag benennt den Umfang (betroffene Dateien) und einen konkreten Commit-Message-Vorschlag. Ausgeführt wird erst **nach expliziter Zustimmung** des Nutzers.
+Passende Zeitpunkte sind z.B.:
+- Ein **abgeschlossener Arbeitsblock** (z.B. Ingest einer Quelle, abgeschlossener Health-Check mit Fixes, größeres Refactoring).
+- Mindestens ~5 Arbeitsschritte seit dem letzten Commit oder seit dem letzten abgelehnten Commit-Vorschlag.
+
+Der Vorschlag benennt den Umfang (betroffene Dateien) und eine konkrete Commit-Message. Ausgeführt wird erst **nach expliziter Zustimmung** des Nutzers. Lehnt der Nutzer ab, wird der Vorschlag erst nach weiteren Arbeitsschritten erneut unterbreitet.
 
 ---
 
