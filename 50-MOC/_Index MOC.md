@@ -17,8 +17,10 @@ updated: 2026-08-08
 
 *Sobald 5 oder mehr Permanent Notes zu einem Thema existieren, wird hier ein MOC verlinkt.*
 
-- [[Trilobiten und Aussterbeereignisse]] — Paläontologie: Trilobiten, Enrollierung, evolutionäres Wettrüsten, drei Aussterbeereignisse
+- [[Trilobiten als Fossilgruppe]] — Paläontologie: Anatomie, Lebensweise, Ursprung, Systematik und Aussterbeereignisse der Trilobiten
 - [[Inn und Militärtransport]] — Geschichte Tirols: Innschifffahrt als Militärweg, Kufstein 1504, Galeerenstrafe
+- [[Landshuter Erbfolgekrieg]] — Reichsgeschichte: Wittelsbacher Erbfolgekonflikt, Kölner Schiedsspruch, Habsburger Gebietsgewinne
+- [[Wilson-Zyklus und Ozeanreinkarnation]] — Geologie/Paläontologie: Iapetus-Ozean, Kontinentaldrift, Trilobiten als Beleg
 
 ---
 

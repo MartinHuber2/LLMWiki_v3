@@ -7,6 +7,8 @@ tags:
 related:
   - "[[Innschifffahrt als militärischer Transportweg]]"
   - "[[Truppendurchzüge und Plünderungen]]"
+  - "[[Maximilians Gebietsgewinne im Landshuter Erbfolgekrieg]]"
+  - "[[Landshuter Erbfolgekrieg]]"
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

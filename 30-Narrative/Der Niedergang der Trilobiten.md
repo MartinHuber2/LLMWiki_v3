@@ -11,6 +11,7 @@ related:
   - "[[Ordovizium-Silur-Extinktion]]"
   - "[[Spätdevon-Extinktion]]"
   - "[[Perm-Trias-Massenaussterben]]"
+  - "[[Trilobiten als Reliktgruppe]]"
 created: 2026-08-08
 updated: 2026-08-08
 status: auto
