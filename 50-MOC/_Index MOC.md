@@ -20,6 +20,8 @@ updated: 2026-08-08
 - [[Trilobiten als Fossilgruppe]] — Paläontologie: Anatomie, Lebensweise, Ursprung, Systematik und Aussterbeereignisse der Trilobiten
 - [[Inn und Militärtransport]] — Geschichte Tirols: Innschifffahrt als Militärweg, Kufstein 1504, Galeerenstrafe
 - [[Landshuter Erbfolgekrieg]] — Reichsgeschichte: Wittelsbacher Erbfolgekonflikt, Kölner Schiedsspruch, Habsburger Gebietsgewinne
+- [[Reichsreform 1495]] — Rechtsgeschichte: Ewiger Landfrieden, Reichskammergericht, Reichskreise, Gemeiner Pfennig
+- [[Aufstieg des Hauses Habsburg]] — Dynastiegeschichte: Heiratspolitik, Burgund, Spanien, Böhmen/Ungarn, Selbstinszenierung
 - [[Wilson-Zyklus und Ozeanreinkarnation]] — Geologie/Paläontologie: Iapetus-Ozean, Kontinentaldrift, Trilobiten als Beleg
 
 ---
