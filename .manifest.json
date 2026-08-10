@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "sources": {
+    "10-Raw/Schmirn Podcasts (Quelle).md": {
+      "content_hash": "sha256:placeholder",
+      "last_ingested": "2026-08-09T00:00:00",
+      "pages_produced": [
+        "20-Literature/Schmirn Podcasts.md",
+        "30-Narrative/Das Schmirntal als geologisches Labor des Tauernfensters.md",
+        "30-Narrative/Wie der Bergkristall vom Riepenkar ein prähistorisches Handelsnetz erschloss.md",
+        "30-Narrative/Zwischen Pass und Pfarre - Wie politische Grenzen den Totenweg erzwangen.md"
+      ],
+      "source_type": "ai-chat",
+      "project": null
+    },
+    "10-Raw/Reissenschuh.md": {
+      "content_hash": "sha256:placeholder",
+      "last_ingested": "2026-08-10T00:00:00",
+      "pages_produced": [
+        "20-Literature/Reissenschuh (NotebookLM).md"
+      ],
+      "source_type": "ai-chat",
+      "project": null
+    },
+    "10-Raw/Reissenschuh (NotebookLM 2).md": {
+      "content_hash": "sha256:placeholder",
+      "last_ingested": "2026-08-10T00:00:00",
+      "pages_produced": [
+        "20-Literature/Reissenschuh (NotebookLM 2).md",
+        "30-Narrative/Der Reissenschuh als Referenzmodell tiefgreifender Hangdeformationen.md",
+        "40-Permanent/EMOD-SLAP.md"
+      ],
+      "source_type": "ai-chat",
+      "project": null
+    },
+    "10-Raw/Field trip to the Tauern Window.pdf": {
+      "content_hash": "sha256:placeholder",
+      "last_ingested": "2026-08-09T00:00:00",
+      "pages_produced": [
+        "20-Literature/Tauern Window (Field Guide).md",
+        "30-Narrative/Entstehung der Ostalpen entlang des TRANSALP-Profils.md",
+        "30-Narrative/Das Tauernfenster als tektonisches Exhumationsfenster.md",
+        "30-Narrative/Die Brenner-Normalverwerfung und die Exhumation der Ostalpen.md"
+      ],
+      "source_type": "pdf",
+      "project": null
+    }
+  },
+  "stats": {
+    "total_sources_ingested": 4,
+    "total_pages": 112
+  }
+}

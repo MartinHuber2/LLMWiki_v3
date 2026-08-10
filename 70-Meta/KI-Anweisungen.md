@@ -1,7 +1,7 @@
 ---
 type: ai_instruction
 created: 2026-08-08
-updated: 2026-08-09
+updated: 2026-08-10
 ---
 
 # KI-Anweisungen — LLMWiki_V4
@@ -70,6 +70,12 @@ Die KI schlägt einen Git-Commit (und — sofern ein Remote konfiguriert ist —
 Passende Zeitpunkte sind z.B.:
 - Ein **abgeschlossener Arbeitsblock** (z.B. Ingest einer Quelle, abgeschlossener Health-Check mit Fixes, größeres Refactoring).
 - Mindestens ~5 Arbeitsschritte seit dem letzten Commit oder seit dem letzten abgelehnten Commit-Vorschlag.
+
+**Vor riskanten Schritten** schlägt die KI **selbstständig und proaktiv** einen Commit (und Push) vor — unabhängig von der Anzahl der Arbeitsschritte seit dem letzten Commit. Ein riskanter Schritt liegt vor, wenn durch den Schritt der Vault potenziell korrumpiert werden könnte, z.B.:
+- Ausprobieren eines neuen, ungetesteten Workflows oder Skripts
+- Massenänderungen an vielen Dateien (z.B. Suchen-Ersetzen über den gesamten Vault)
+- Strukturänderungen (Ordner umbenennen, Dateien verschieben)
+- Experimentelle Ingestierungen mit ungewissem Ergebnis
 
 Der Vorschlag benennt den Umfang (betroffene Dateien) und eine konkrete Commit-Message. Ausgeführt wird erst **nach expliziter Zustimmung** des Nutzers. Lehnt der Nutzer ab, wird der Vorschlag erst nach weiteren Arbeitsschritten erneut unterbreitet.
 
@@ -195,6 +201,14 @@ Nach **jeder Aussage**, die aus einer bestimmten Aussage in einem Video hergelei
 - `N` = Sekunden (z.B. `t=754s` für 00:12:34)
 - `title` zeigt den Zeitstempel beim Hover
 - Gilt auch in Narrative- und Permanent Notes: Syntheseaussagen, die sich auf eine konkrete Stelle derselben Videoquelle stützen, erhalten den Anker dieser Stelle.
+
+### AI-Chat-Quellen (NotebookLM)
+
+AI-Chat-Quellen (NotebookLM) sind Sonderfälle, da das Rohmaterial selbst eine KI-Synthese ist:
+
+- **Primärbeleg**: Der ai-chat-Output selbst wird wie jede andere Quelle per Q-Ref belegt — die Rohdatei liegt in `10-Raw/`, der Q-Anker zeigt auf die Stelle im Fließtext.
+- **Sekundärbelege (NotebookLM zitiert externe Quellen)**: Im NotebookLM-Output sind Quellenangaben als `($"..."`)-Marker gesetzt (z.B. `($"Wikipedia-Artikel Trilobiten"`)). Diese werden während des Ingests **unverändert in Fußnoten** konvertiert. Sie bleiben Fußnoten, weil sie Belege zweiter Hand sind — die KI hat die referenzierte Quelle nicht direkt gelesen.
+- **Konvertierung beim Ingest**: Die KI wandelt `($"Beschreibung")` in `[^n]: Beschreibung` um. Bei Markern mit Link — `($"[Titel](url)")` — bleibt der Link erhalten: `[^n]: [Titel](url)`. Die Fußnoten werden am Ende der jeweiligen Notiz gesammelt, nicht im Fließtext verteilt.
 
 ---
 

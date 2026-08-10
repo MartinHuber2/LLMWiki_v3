@@ -24,6 +24,7 @@ updated: 2026-08-08
 - [[Aufstieg des Hauses Habsburg]] — Dynastiegeschichte: Heiratspolitik, Burgund, Spanien, Böhmen/Ungarn, Selbstinszenierung
 - [[Wilson-Zyklus und Ozeanreinkarnation]] — Geologie/Paläontologie: Iapetus-Ozean, Kontinentaldrift, Trilobiten als Beleg
 - [[Tauernfenster und Ostalpen]] — Alpengeologie: Tauernfenster, Deckentektonik, Alpine Metamorphose, Brenner-Normalverwerfung
+- [[Schmirntal]] — Regionalgeschichte Tirols: Geologie des Tauernfensters, Bergkristallbergbau, Schwaighöfe, Bergsteigerdorf
 
 ---
 

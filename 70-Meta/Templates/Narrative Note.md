@@ -2,7 +2,9 @@
 type: narrative
 tags: []
 sources: []
+summary: ""
 related: []
+relationships: []
 created: {{date:YYYY-MM-DD}}
 updated: {{date:YYYY-MM-DD}}
 status: auto
@@ -17,10 +19,10 @@ Worum geht es in diesem Argumentationsstrang? (1–2 Sätze Kontext)
 Verlinkte Argumentationskette in eigenen Worten.
 Jeder Schritt verweist auf die zugrundeliegende [[permanent-note]] Note.
 
-1. These: ...
-2. Begründung: ... → [[permanent-note]]
-3. Schlussfolgerung: ... → [[permanent-note]]
+1. These: ... ([[10-Raw/quelle.md#abschnitt|Q1]])
+2. Begründung: ... → [[permanent-note]] ([[10-Raw/quelle.md#abschnitt|Q1]])
+3. Schlussfolgerung: ... → [[permanent-note]] ([[10-Raw/quelle.md#abschnitt|Q1]])
 
 ### Gegenargumente / Einschränkungen
 
-- 
+-

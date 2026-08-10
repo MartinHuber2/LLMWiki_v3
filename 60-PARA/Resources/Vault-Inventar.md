@@ -1,6 +1,6 @@
 # Vault-Inventar — LLMWiki_V4
 
-_Automatisch erzeugt am 2026-08-09 22:27 aus `G:\Meine Ablage\Hidden\Synch\Obsidian\LLMWiki_V4`._
+_Automatisch erzeugt am 2026-08-10 12:21 aus `G:\Meine Ablage\Hidden\Synch\Obsidian\LLMWiki_V4`._
 
 Diese Datei fasst den Inhalt des Vaults (Pfad, Dateiname, Typ, Kurzbeschreibung) zusammen.
 
@@ -23,19 +23,23 @@ Hinweise:
 
 - **`Home.md`** — Persönliches Wissenssystem — molekularer Zettelkasten + PARA
 
-## 20-Literature — Experten-Exzerpte je Quelle (7)
+## 20-Literature — Experten-Exzerpte je Quelle (10)
 
 - **`20-Literature/Landshuter Erbfolgekrieg (Wikipedia).md`** (literature) — Der Landshuter Erbfolgekrieg 1504/05 (auch Bayerische Fehde oder bairisch-pfälzischer Erbfolgekrieg) wurde durch einen Streit um die Erbfolge in Bayern-Landshut ausgelöst, nachdem der letzte dortige H
+- **`20-Literature/Landshuter Erbfolgekrieg.md`** (literature) — Der Landshuter Erbfolgekrieg 1504/05 (auch Bayerische Fehde oder bairisch-pfälzischer Erbfolgekrieg) wurde durch einen Streit um die Erbfolge in Bayern-Landshut ausgelöst, nachdem der letzte dortige H
 - **`20-Literature/Maximilian I. (Wikipedia).md`** (literature) — Die Quelle ist der deutschsprachige Wikipedia-Artikel über Maximilian I. (1459–1519), römisch-deutscher König (ab 1486) und erster "erwählter" römisch-deutscher Kaiser (ab 1508) aus dem Haus Habsburg.
+- **`20-Literature/Reissenschuh (NotebookLM).md`** (literature) — Die Quelle ist ein NotebookLM /produce-Output — eine vertiefte wissenschaftliche Analyse der Reissenschuh-Rutschung (DSGSD) im Schmirntal, belegt mit Fachliteratur und Studien (10-Raw/Reissenschuh.md)
+- **`20-Literature/Schmirn Podcasts.md`** (literature) — Die Quelle ist ein von NotebookLM erzeugtes, fünfteiliges Podcast-Skript über das Schmirntal (Tirol), das die Geologie, Archäologie, Siedlungsgeschichte, Botanik und Zukunftsperspektive des Tals zusam
 - **`20-Literature/Tauern Window (Field Guide).md`** (literature) — Die Quelle ist ein Exkursionsführer des Geological Society of America Field Guide 22 (2011) über 20 Seiten: "Field trip to the Tauern Window region along the TRANSALP seismic profile, Eastern Alps, Au
 - **`20-Literature/The Trouble With Trilobites.md`** (literature) — Die Trilobiten waren für mehr als 270 Millionen Jahre die erfolgreichsten und möglicherweise häufigsten Tiere der Erde — bis sie im Verlauf von vier Aussterbeereignissen endgültig verschwanden, ohne d
 - **`20-Literature/There's An Invisible Ocean Between These Fossils.md`** (literature) — Der PBS-Eons-Film erzählt die hundertjährige Entdeckungsgeschichte des Wilson-Zyklus: Wie Trilobiten-Fossilien in Neufundland halfen aufzudecken, dass Ozeanbecken alle paar hundert Millionen Jahre neu
 - **`20-Literature/Trilobiten (Wikipedia).md`** (literature) — Der Wikipedia-Artikel „Trilobiten“ ist eine systematische Gesamtdarstellung der ausgestorbenen Klasse der Trilobita. Die Trilobiten („Dreilapper“, von altgriechisch tria „drei“ und lobós „Lappen“) sin
 - **`20-Literature/Truppen- und Gefangenentransporte auf dem Inn.md`** (literature) — Der Artikel von Florian Messner untersucht die Rolle des Inn als militärischen Transportweg der Frühen Neuzeit: Truppen, Waffen und Gefangene wurden auf dem Fluss befördert, weil er schnellen, günstig
 
-## 30-Narrative — Argumentationsstraenge (14)
+## 30-Narrative — Argumentationsstraenge (17)
 
 - **`30-Narrative/Aufstieg des Hauses Habsburg durch Heiratspolitik.md`** (narrative) — Kernfrage dieses Argumentationsstrangs: Wie wurde aus einem an Geldmangel leidenden Herrschergeschlecht ein Haus, dessen Reich "die Sonne nicht mehr unterging" — ohne dass es diese Länder erobert hätt
+- **`30-Narrative/Das Schmirntal als geologisches Labor des Tauernfensters.md`** (narrative) — Kernfrage dieses Argumentationsstrangs: Warum bewegt sich das Schmirntal — und warum verrät gerade dieses Tal die Tiefenstruktur der Ostalpen?
 - **`30-Narrative/Das Tauernfenster als tektonisches Exhumationsfenster.md`** (narrative) — Kernfrage dieses Argumentationsstrangs: Warum ist ausgerechnet das Tauernfenster das größte tektonische Fenster der Alpen, und welche Mechanismen brachten das Europäische Grundgebirge an die Oberfläch
 - **`30-Narrative/Der Inn als militärischer Transportweg.md`** (narrative) — Kernfrage dieses Argumentationsstrangs: Warum wurde der Inn in der Frühen Neuzeit zum wichtigsten Militärtransportweg Tirols — und warum flaute diese Rolle wieder ab?
 - **`30-Narrative/Der Kölner Schiedsspruch als territoriale Neuordnung.md`** (narrative) — Kernfrage dieses Argumentationsstrangs: Wie verteilte der Kölner Schiedsspruch das Erbe Georgs des Reichen — und warum gewannen gerade die Habsburger?
@@ -48,14 +52,21 @@ Hinweise:
 - **`30-Narrative/Maximilians Selbstinszenierung als letzter Ritter.md`** (narrative) — Kernfrage dieses Argumentationsstrangs: Wie konnte ein Herrscher, dessen Politik von modernen Verwaltungsreformen und Schulden bei Bankiers geprägt war, zugleich als "letzter Ritter" in die Geschichte
 - **`30-Narrative/Trilobiten als Zeugen der Evolution.md`** (narrative) — Kernfrage dieses Argumentationsstrangs: Was erzählt die Erfolgs- und Verfallsgeschichte der Trilobiten über die Evolutionsmechanismen des Lebens — von der kambrischen Explosion bis zum größten Massena
 - **`30-Narrative/Ursachen des Landshuter Erbfolgekriegs.md`** (narrative) — Kernfrage dieses Argumentationsstrangs: Wie konnte ein Erbfall in Bayern-Landshut zu einem Krieg werden, der auch die Habsburger Gebietsgewinne am Inn ermöglichte?
+- **`30-Narrative/Wie der Bergkristall vom Riepenkar ein prähistorisches Handelsnetz erschloss.md`** (narrative) — Kernfrage dieses Argumentationsstrangs: Wie wurde ein entlegenes Hochtal in 2.800 Metern Höhe zum zentralen Knotenpunkt eines steinzeitlichen Handelsnetzes?
 - **`30-Narrative/Wie Trilobiten den Wilson-Zyklus aufdeckten.md`** (narrative) — Kernfrage dieses Argumentationsstrangs: Wie konnte aus einem rätselhaften Verteilungsmuster von Trilobiten-Fossilien eine der Kerntheorien der Plattentektonik entstehen?
+- **`30-Narrative/Zwischen Pass und Pfarre - Wie politische Grenzen den Totenweg erzwangen.md`** (narrative) — Kernfrage dieses Argumentationsstrangs: Warum trugen die Schmirner ihre Toten über einen 2.338 Meter hohen Pass — und was sagt das über die Logik alpiner Siedlungsstrukturen?
 
-## 40-Permanent — Atomare Wissenseinheiten (57)
+## 40-Permanent — Atomare Wissenseinheiten (74)
 
+- **`40-Permanent/Alpenblumen- und Kräutergarten Toldern.md`** (permanent) — Der Alpenblumen- und Kräutergarten in Toldern ist ein lebendes Archiv der Pflanzenwelt des Schmirntals: Auf rund 1.000 m² wachsen hier über 420 dokumentierte Pflanzenarten der Region (10-Raw/Schmirn P
 - **`40-Permanent/Alpine Deckentektonik.md`** (permanent) — Die Alpine Deckentektonik beschreibt, wie der Alpenorogen durch Stapelung großräumiger, übereinander geschobener Gesteinsdecken entstanden ist — ein Modell, das in den Alpen seit über einem Jahrhunder
 - **`40-Permanent/Alpine Metamorphose.md`** (permanent) — Die Alpine Metamorphose ist die regionalmetamorphe Überprägung, die alle Einheiten der Ostalpen als Folge der Krustenverdickung während der Alpenorogenese erfasste (10-Raw/Field trip to the Tauern Win
 - **`40-Permanent/Atlantische und Pazifische Faunen.md`** (permanent) — "Atlantische" und "Pazifische" Faunen sind zwei geografisch getrennte Fossilgemeinschaften des Kambriums, die der Paläontologe Charles Doolittle Walcott 1888 in Neufundland beschrieb (V). Sie umfasste
 - **`40-Permanent/Belagerung von Kufstein 1504.md`** (permanent) — Die Belagerung von Kufstein 1504 war das größte kriegerische Ereignis, das je am Inn stattfand, und der am besten dokumentierte Artillerieeinsatz Maximilians I. (10-Raw/Inn Truppentransport.pdf#page=7
+- **`40-Permanent/Bergkristallbergbau am Riepenkar.md`** (permanent) — Der Bergkristallbergbau am Riepenkar ist die weltweit älteste nachgewiesene Abbaustelle von Bergkristall im Hochgebirge und datiert in das Mesolithikum (Mittelsteinzeit, ab etwa 8.000 v. Chr.) (10-Raw
+- **`40-Permanent/Bergkristallstraße.md`** (permanent) — Die Bergkristallstraße ist ein prähistorisches Handelsnetz, über das Bergkristall aus dem Schmirntal weit über die Alpen verbreitet wurde (10-Raw/Schmirn Podcasts (Quelle).md#Podcast-Skript Episode 2:
+- **`40-Permanent/Bergmähder.md`** (permanent) — Die Bergmähder sind die sonnseitigen, waldfreien Südhänge des Schmirntals — eine über Jahrhunderte geschaffene Kulturlandschaft, die heute zu den artenreichsten Lebensräumen Mitteleuropas zählt (10-Ra
+- **`40-Permanent/Bergsteigerdorf.md`** (permanent) — Bergsteigerdorf ist ein Konzept nachhaltigen Tourismus für alpine Gemeinden, für das sich Schmirn bewusst entschieden hat — gegen den Massentourismus mit großen Liftanlagen und Hotelburgen (10-Raw/Sch
 - **`40-Permanent/Brenner-Normalverwerfung.md`** (permanent) — Die Brenner-Normalverwerfung (Brenner-Linie, Brenner Fault) ist eine große, N-S-streichende Abschiebung, die den Westrand des Tauernfenster begrenzt: Das Hangende des Ötztal-Stubai-Kristallins (Teil d
 - **`40-Permanent/Burgundisches Erbe Maximilians.md`** (permanent) — Das burgundische Erbe bezeichnet die Länder des Hauses Burgund, die Maximilian I. durch seine Heirat mit Maria von Burgund (19. August 1477) iure uxoris — kraft des Rechts seiner Ehefrau — als Herzog 
 - **`40-Permanent/Collegium poetarum et mathematicorum.md`** (permanent) — Das Collegium poetarum et mathematicorum (1501) war eine von Maximilian I. an der Universität Wien gegründete Institution, die ein Konzept von Konrad Celtis umsetzte: zwei Lehrstühle für Poetik und Rh
@@ -63,12 +74,14 @@ Hinweise:
 - **`40-Permanent/Entwicklung der Trilobiten.md`** (permanent) — Die Entwicklung der Trilobiten erfolgte über eine Vielzahl von Stadien, bei der bei jeder Häutung Segmente in einer Wachstumszone unmittelbar vor dem Hinterende eingeschoben wurden — ein Muster, das a
 - **`40-Permanent/Eoalpine Orogenese.md`** (permanent) — Die Eoalpine Orogenese war die erste Gebirgsbildungsphase der Alpen in der Oberkreide, verursacht durch die Schließung des kleinen Hallstatt-Meliata-Ozeans im Osten (10-Raw/Field trip to the Tauern Wi
 - **`40-Permanent/Erwählter Römischer Kaiser.md`** (permanent) — Erwählter Römischer Kaiser war der Titel, den Maximilian I. am 4. Februar 1508 im Dom von Trient mit Zustimmung Papst Julius' II. annahm, nachdem sein Romzug zur Kaiserkrönung am Widerstand der Republ
+- **`40-Permanent/Ethnobotanik im Schmirntal.md`** (permanent) — Die Ethnobotanik im Schmirntal dokumentiert, wie tief die Pflanzenwelt im Volksglauben und Alltag der Schmirner verwurzelt ist — mit teils überraschenden Traditionen (10-Raw/Schmirn Podcasts (Quelle).
 - **`40-Permanent/Evolutionäres Wettrüsten.md`** (permanent) — Als evolutionäres Wettrüsten bezeichnet man die wechselseitige Eskalation von Angriffs- und Verteidigungsanpassungen zwischen Räubern und Beute. Im Kambrium, als Prädation erstmals auftrat, hinterließ
 - **`40-Permanent/Ewiger Landfrieden.md`** (permanent) — Der Ewige Landfrieden (1495) war das zeitlich unbegrenzte, immerwährende und unbedingte Fehdeverbot, das das mittelalterliche Fehderecht ersetzte und das Gewaltmonopol rechtlich dem Reich zuordnete (1
 - **`40-Permanent/Facettenaugen der Trilobiten.md`** (permanent) — Die Facettenaugen der Trilobiten sind einzigartige Sehorgane: Sie bestehen wie das Exoskelett aus dem anorganischen Material Calcit (Calciumcarbonat) und sind daher bei fossilierten Exuvien und Indivi
 - **`40-Permanent/Galeerenstrafe.md`** (permanent) — Die Galeerenstrafe war eine Mitte des 16. Jahrhunderts eingeführte Rechtsfolge für schwere Verbrechen wie Mord oder Hochverrat: Verurteilte mussten als Ruderer auf den Galeeren der Mittelmeer-Seemächt
 - **`40-Permanent/Gemeiner Pfennig.md`** (permanent) — Der Gemeine Pfennig war die erste reichsweite Steuer des Heiligen Römischen Reiches, beschlossen im Rahmen der Reichsreform von 1495 auf dem Reichstag zu Worms (10-Raw/Maximilian I. (HRR).md#Kaiserlic
 - **`40-Permanent/Gesichtsnaht und Häutung der Trilobiten.md`** (permanent) — Die Gesichtsnaht (Sutura facialis) ist eine Sollbruchstelle im Exoskelett des Kopfschilds, die es dem Trilobiten ermöglicht, bei der Körperbau der Trilobiten aus dem alten Panzer zu kriechen (10-Raw/T
+- **`40-Permanent/Gravitative Kaskadenprozesse am Reissenschuh.md`** (permanent) — Gravitative Kaskadenprozesse beschreiben die Wechselwirkung zwischen einer tiefgreifenden gravitativen Hangdeformation (DSGSD) und schnellen oberflächennahen Massenbewegungen: Die langsame, kontinuier
 - **`40-Permanent/Habsburgisch-französischer Gegensatz.md`** (permanent) — Der habsburgisch-französische Gegensatz war die jahrhundertelange strukturelle Rivalität zwischen dem Haus Habsburg und der französischen Krone, die mit dem Erbe Karls des Kühnen begann (10-Raw/Maximi
 - **`40-Permanent/Habsburgische Heiratspolitik.md`** (permanent) — Die habsburgische Heiratspolitik war die strategische Verbindung von Eheschließungen mit politischen Zielen: Durch gezielte Heiraten wurden Erbansprüche auf fremde Herrschaftsgebiete erworben, ohne da
 - **`40-Permanent/Hall in Tirol als Zentrum der Militärschifffahrt.md`** (permanent) — Hall in Tirol war der logistische Knotenpunkt der militärischen Innschifffahrt. Zuständig für die Organisation der Militärfahrten war das Pfannhausamt; ein hölzerner Rechen der Saline sperrte den Flus
@@ -83,26 +96,36 @@ Hinweise:
 - **`40-Permanent/Lebensweise der Trilobiten.md`** (permanent) — Die Lebensweise der Trilobiten war in der Regel die von Bewohnern des Meeresbodens (Benthos): Die meisten Fossilien stammen aus küstennahen (litoralen) Habitaten und Schelfgebieten mittlerer Meerestie
 - **`40-Permanent/Maximilians Gebietsgewinne im Landshuter Erbfolgekrieg.md`** (permanent) — Die Gebietsgewinne Maximilians I. im Landshuter Erbfolgekrieg bezeichnen die territorialen Zugewinne der Habsburger aus dem Konflikt von 1504/05. Maximilian hatte sich als Preis seiner Vermittlung das
 - **`40-Permanent/Maximilians Selbstinszenierung.md`** (permanent) — Die Selbstinszenierung Maximilians I. war die bewusste, nahezu modern anmutende Konstruktion des eigenen Bildes als "letzter Ritter" — als Wahrer ritterlicher Ideale und zugleich als Renaissancefürst 
+- **`40-Permanent/Metamorphe Schieferhülle (Tauernfenster).md`** (permanent) — Die metamorphe Schieferhülle ist die Gesteinseinheit, aus der der Großteil des Schmirntals aufgebaut ist; sie entspricht der Glockner-Decke (10-Raw/Schmirn Podcasts (Quelle).md#Podcast-Skript Episode 
+- **`40-Permanent/Molybdänbergwerk Alpeiner Scharte.md`** (permanent) — Das Molybdänbergwerk an der Alpeiner Scharte (2.800 m) im Schmirntal ist ein Relikt nationalsozialistischer Rüstungswirtschaft im Hochgebirge (10-Raw/Schmirn Podcasts (Quelle).md#Podcast-Skript Episod
+- **`40-Permanent/Monitoring gravitativer Hangdeformationen.md`** (permanent) — Das Monitoring gravitativer Hangdeformationen kombiniert mehrere Messverfahren, um langsame Hangbewegungen wie die Reissenschuh-Rutschung quantitativ zu erfassen und Gefahren einzuschätzen (10-Raw/Sch
 - **`40-Permanent/Ordnungen der Trilobiten.md`** (permanent) — Die ausgestorbene Klasse Trilobita umfasst gegenwärtig neun anerkannte Ordnungen (10-Raw/Trilobiten (Quelle).md):
 - **`40-Permanent/Ordovizium-Silur-Extinktion.md`** (permanent) — Die Ordovizium-Silur-Extinktion ist ein Massenaussterben vor etwa 445 Millionen Jahren, das rund 25 % aller taxonomischen Familien im Meer auslöschte — darunter etwa die Hälfte der Trilobiten-Familien
 - **`40-Permanent/Penninisch-Ligurischer Ozean.md`** (permanent) — Der Penninisch-Ligurische Ozean (auch Alpine Tethys, mit dem Valais-Ozean) war ein kleiner Ozean, der sich im Mittleren Jura als Seitenarm des Nordatlantiks bei der Auflösung Pangäas öffnete — ohne Ve
 - **`40-Permanent/Perm-Trias-Massenaussterben.md`** (permanent) — Das Perm-Trias-Massenaussterben, auch als The Great Dying bekannt, ist das größte Massensterben der Erdgeschichte. Vor 252 Millionen Jahren starben innerhalb von vermutlich weniger als einer Million J
 - **`40-Permanent/Plätten und Schiffszug.md`** (permanent) — Die Plätten und der Schiffszug waren die zentralen Elemente der Innschifffahrt. Plätten (und kleinere Zillen) besaßen einen flachen Boden, um die zahlreichen Untiefen schadlos zu überqueren; ihre Läng
 - **`40-Permanent/Pressburger Vertrag 1491.md`** (permanent) — Der Pressburger Vertrag (1491) war ein Erbvertrag zwischen Maximilian I. und König Vladislav II. von Böhmen und Ungarn: Die Kronen Böhmens und Ungarns sollten an das Haus Habsburg fallen, wenn Vladisl
+- **`40-Permanent/Quellhydrochemie des Tauernfensters.md`** (permanent) — Die chemische Zusammensetzung von Quellen im Schmirntal ist ein Informationsträger aus dem Erdinneren: Sie spiegelt exakt den Weg des Wassers durch den Fels wider (10-Raw/Schmirn Podcasts (Quelle).md#
 - **`40-Permanent/Reichsacht.md`** (permanent) — Die Reichsacht war die höchste Strafe des mittelalterlichen und frühneuzeitlichen Reichsrechts: Der Geächtete verlor seinen Frieden und seine Rechtssicherheit und stand außerhalb des Gesetzes — wer ih
 - **`40-Permanent/Reichskammergericht.md`** (permanent) — Das Reichskammergericht war die ständisch dominierte oberste Gerichtsbehörde des Heiligen Römischen Reiches, eingesetzt im Zuge der Reichsreform von 1495 (10-Raw/Maximilian I. (HRR).md#Kaiserliche Inn
 - **`40-Permanent/Reichskreise.md`** (permanent) — Die Reichskreise waren die neuen regionalen Verwaltungseinheiten des Heiligen Römischen Reiches, die als Ergebnis der Reichsreform von 1495 eingeführt wurden: Das Reichsgebiet wurde zunächst in sechs,
 - **`40-Permanent/Reichsreform von 1495.md`** (permanent) — Die Reichsreform von 1495 war ein Bündel von Reformgesetzen, die auf dem Reichstag zu Worms beschlossen wurden und einen Wendepunkt in der europäischen Geschichte markieren: den Übergang vom Mittelalt
 - **`40-Permanent/Reichsregiment.md`** (permanent) — Das Reichsregiment war eine im Zuge der Reichsreform von 1495 geplante ständische Reichsregierung — ein Regierungsorgan, das die Reichsgewalt stellvertretend für den König ausüben sollte (10-Raw/Maxim
+- **`40-Permanent/Reissenschuh-Rutschung.md`** (permanent) — Die Reissenschuh-Rutschung (2.470 m) im Schmirntal ist eine „Deep-Seated Gravitational Slope Deformation" (DSGSD), also eine tiefgreifende gravitative Hangdeformation: Ein ganzer Berghang bewegt sich 
+- **`40-Permanent/Sakrale Landschaft des Schmirntals.md`** (permanent) — Die sakrale Landschaft des Schmirntals umfasst zwei zentrale Orte des Glaubens: die Pfarrkirche St. Joseph und die Wallfahrtskapelle „Zur kalten Herberge“ (10-Raw/Schmirn Podcasts (Quelle).md#Podcast-
 - **`40-Permanent/Schulden Maximilians I..md`** (permanent) — Die Schulden Maximilians I. waren der enorme Schuldenberg, den der Kaiser durch seine Kriege, seinen prunkvollen Hofstaat und die Erblasten früherer Reichsoberhäupter hinterließ — die Kosten überstieg
+- **`40-Permanent/Schwaighöfe.md`** (permanent) — Die Schwaighöfe waren spezialisierte Viehbetriebe der mittelalterlichen Alpwirtschaft, die meist dem Adel oder Klöstern gehörten (10-Raw/Schmirn Podcasts (Quelle).md#Podcast-Skript Episode 3: „Zwische
 - **`40-Permanent/Schwarmintelligenz bei Trilobiten.md`** (permanent) — Die Schwarmintelligenz bei Trilobiten bezeichnet die Interpretation einer fossilen Reihenformation als frühestes Zeugnis kollektiven Verhaltens. 480 Millionen Jahre alte Fossilien der Art Ampyx priscu
 - **`40-Permanent/Slab Breakoff und Exhumation.md`** (permanent) — Slab Breakoff bezeichnet das Abreißen der subduzierten ozeanischen Lithosphäre und ihr Versinken in den Erdmantel — ein Schlüsselprozess der Exhumation der Ostalpen (10-Raw/Field trip to the Tauern Wi
 - **`40-Permanent/Spätdevon-Extinktion.md`** (permanent) — Die Spätdevon-Extinktion vor rund 375 Millionen Jahren löschte etwa 20 % der marinen Tierfamilien aus und reduzierte die Trilobiten auf nur noch vier Familien (V).
 - **`40-Permanent/Tauernfenster.md`** (permanent) — Das Tauernfenster ist das größte tektonische Fenster der Alpen: Es erstreckt sich vom Brennerpass im Westen über 160 km bis zum Katschbergpass im Osten und umfasst eine Fläche von 5600 km² (10-Raw/Fie
+- **`40-Permanent/Tiroler Grauvieh.md`** (permanent) — Das Tiroler Grauvieh ist eine Rinderrasse, die perfekt an die extremen Bedingungen des Hochgebirges angepasst ist: Die Tiere sind leicht und trittsicher und können selbst steilste Schieferhänge beweid
+- **`40-Permanent/Totenweg über das Tuxer Joch.md`** (permanent) — Der Totenweg war das letzte Geleit der Verstorbenen aus Hintertux über das Tuxer Joch zur Bestattung nach Mauern bei Steinach (10-Raw/Schmirn Podcasts (Quelle).md#Podcast-Skript Episode 3: „Zwischen L
 - **`40-Permanent/Trilobiten als biostratigraphisches Werkzeug.md`** (permanent) — Die Nutzung von Trilobiten als biostratigraphisches Werkzeug bezeichnet ihre Verwendung zur relativen Datierung und Korrelation von Gesteinsschichten. Die häufigen kambrischen Arthropoden begeisterten
 - **`40-Permanent/Trilobiten als Reliktgruppe.md`** (permanent) — Trilobiten als Reliktgruppe beschreibt das Endstadium ihrer Stammesgeschichte: Die spätere Evolution brachte zwar zahlreiche Neuerungen in Körperbau und Lebensweise, aber eine im Kern fast unverändert
 - **`40-Permanent/Trilobiten.md`** (permanent) — Die Trilobiten sind eine ausgestorbene Gruppe segmentierter Arthropoden, die vor rund 521 Millionen Jahren im heutigen Sibirien erstmals im Fossilbericht auftauchten (V) und mehr als 270 Millionen Jah
 - **`40-Permanent/Truppendurchzüge und Plünderungen.md`** (permanent) — Truppendurchzüge und Plünderungen beschreiben die Belastung der Zivilbevölkerung durch durchziehende Söldnerheere in der Frühen Neuzeit. Da sich Einheiten von mehreren tausend Mann nur selten selbst v
+- **`40-Permanent/Tuxer Joch.md`** (permanent) — Das Tuxer Joch (2.338 m) ist ein Schlüsselpass zwischen dem Wipptal und dem Zillertal — und war über Jahrtausende die Lebensader zwischen den beiden Tälern (10-Raw/Schmirn Podcasts (Quelle).md#Podcast
 - **`40-Permanent/Ursprung der Trilobiten.md`** (permanent) — Der Ursprung der Trilobiten liegt im Kambrium: Die ältesten Fossilien erscheinen mit Beginn der 2. Serie des Kambriums vor rund 521 Millionen Jahren (10-Raw/Trilobiten (Quelle).md). Damit ist ihr Ersc
 - **`40-Permanent/Verwandtschaft der Trilobiten.md`** (permanent) — Die Verwandtschaft der Trilobiten mit den lebenden (rezenten) Arthropodenordnungen der Spinnentiere und der Krebstiere ist durch neue Fossilfunde aus dem Kambrium zu einer offenen Frage geworden (10-R
 - **`40-Permanent/Wiener Doppelhochzeit 1515.md`** (permanent) — Die Wiener Doppelhochzeit (1515) war die Doppelverlobung zwischen den Enkeln Maximilians I. und den Kindern König Vladislavs II. von Böhmen und Ungarn: Erzherzog Ferdinand I. (alternativ Karl V.) mit 
@@ -110,20 +133,22 @@ Hinweise:
 - **`40-Permanent/Wilson-Zyklus.md`** (permanent) — Der Wilson-Zyklus ist eine Kerntheorie der Plattentektonik, benannt nach dem kanadischen Geologen John Tuzo Wilson. Er beschreibt, wie Ozeanbecken sich entlang derselben Kollisionsgrenzen schließen un
 - **`40-Permanent/Wittelsbacher Hausvertrag von Pavia.md`** (permanent) — Der Wittelsbacher Hausvertrag von Pavia regelte die Erbfolge im Haus Wittelsbach. Der Vertrag legte fest, dass bei Aussterben einer männlichen Linie die Besitzungen an die jeweils andere Linie fallen 
 
-## 50-MOC — Maps of Content (8)
+## 50-MOC — Maps of Content (9)
 
 - **`50-MOC/_Index MOC.md`** (moc) — Zentraler Überblick über alle entstehenden Themenkarten im Vault.
 - **`50-MOC/Aufstieg des Hauses Habsburg.md`** (moc) — Map of Content — reiner Navigations-Hub, kein eigener Inhalt.
 - **`50-MOC/Inn und Militärtransport.md`** (moc) — Map of Content — reiner Navigations-Hub, kein eigener Inhalt.
 - **`50-MOC/Landshuter Erbfolgekrieg.md`** (moc) — Map of Content — reiner Navigations-Hub, kein eigener Inhalt.
 - **`50-MOC/Reichsreform 1495.md`** (moc) — Map of Content — reiner Navigations-Hub, kein eigener Inhalt.
+- **`50-MOC/Schmirntal.md`** (moc) — Map of Content — reiner Navigations-Hub, kein eigener Inhalt.
 - **`50-MOC/Tauernfenster und Ostalpen.md`** (moc) — Map of Content — reiner Navigations-Hub, kein eigener Inhalt.
 - **`50-MOC/Trilobiten als Fossilgruppe.md`** (moc) — Map of Content — reiner Navigations-Hub, kein eigener Inhalt.
 - **`50-MOC/Wilson-Zyklus und Ozeanreinkarnation.md`** (moc) — Map of Content — reiner Navigations-Hub, kein eigener Inhalt.
 
-## 60-PARA — Projekte / Areas / Resources (1)
+## 60-PARA — Projekte / Areas / Resources (2)
 
 - **`60-PARA/Projects/Zettelkasten Aufbau.md`** (project) — Erstes aktives PARA-Projekt: Aufsetzen und Befüllen der Verzeichnis- und Regelstruktur für LLMWikiV4.
+- **`60-PARA/Resources/NotebookLM Prompt.md`** — Dieser Prompt wird zu Beginn einer neuen NotebookLM-Session eingegeben. Er richtet NotebookLM als Denkpartner für den Obsidian-Zettelkasten ein und definiert das /produce-Kommando.
 
 ## 70-Meta — KI-Anweisungen, Skills, Dokumentation (4)
 
@@ -137,11 +162,17 @@ Hinweise:
 - `Field trip to the Tauern Window.pdf`
 - `Inn Truppentransport.pdf`
 - `Landshuter Erbfolgekrieg (Quelle).md`
+- `Landshuter Erbfolgekrieg.md`
 - `Maximilian I. (HRR).md`
+- `Reissenschuh.md`
+- `Schmirn Podcasts (Quelle).md`
 - `The Trouble With Trilobites (Quelle).md`
+- `The Trouble With Trilobites.md`
 - `There's An Invisible Ocean Between These Fossils (Quelle).md`
+- `There's An Invisible Ocean Between These Fossils.md`
 - `Trilobiten (Quelle).md`
+- `Trilobiten.md`
 
 ---
 
-_Inventar-Summe: 91 Notizen aus 6 Ordnern, 7 Rohquellen._
+_Inventar-Summe: 116 Notizen aus 6 Ordnern, 13 Rohquellen._
