@@ -16,6 +16,7 @@ updated: 2026-08-10
 | [[Reissenschuh (NotebookLM 2)]] | ai-chat | Erweiterte 2. Ausgabe: EMOD-SLAP-Details, Transferierbarkeit |
 | [[Schmirn Podcasts]] | ai-chat | NotebookLM-Synthese: 5 Podcast-Skripte zum Schmirntal |
 | [[Tauern Window (Field Guide)]] | artikel | GSA Field Guide 22: TRANSALP-Exkursion durchs Tauernfenster |
+| [[Tauernfenster (Exkursion Pfitschtal)]] | buch | Exkursionsführer Pfitschtal: Deckenbau, Methodik, 4-Phasen-Geschichte |
 | [[The Trouble With Trilobites]] | video | PBS Eons: Herausforderungen der Trilobiten-Forschung |
 | [[There's An Invisible Ocean Between These Fossils]] | video | PBS Eons: Iapetus-Ozean und Trilobiten-Faunenprovinzen |
 | [[Trilobiten (Wikipedia)]] | artikel | Wikipedia-Artikel zur Paläontologie der Trilobiten |
@@ -29,10 +30,12 @@ updated: 2026-08-10
 | [[Das Schmirntal als geologisches Labor des Tauernfensters]] | Exhumation → Hangbewegung → Quellenchemie |
 | [[Das Tauernfenster als tektonisches Exhumationsfenster]] | Wie tief versenktes Grundgebirge an die Oberfläche kam |
 | [[Der Inn als militärischer Transportweg]] | Fluss als Logistikachse |
+| [[Der Pfitscher Bergsturz und der verschwundene Stausee]] | Bergsturz, 8-km-Stausee, katastrophale Entleerung um 1100 n. Chr. |
 | [[Der Kölner Schiedsspruch als territoriale Neuordnung]] | Wittelsbacher Erbe und Habsburger Gewinne |
 | [[Der Niedergang der Trilobiten]] | Aussterbeereignisse und ihre Folgen |
 | [[Der Reissenschuh als Referenzmodell tiefgreifender Hangdeformationen]] | Von der Tektonik zum Risikomanagement |
 | [[Die acht Phasen des Wilson-Zyklus]] | Ozeanöffnung und -schließung |
+| [[Die Deformationsgeschichte des Tauernfensters in vier Phasen]] | Überschiebung → Versenkung → Caterpillar-Kompression, mit Methodik |
 | [[Die Brenner-Normalverwerfung und die Exhumation der Ostalpen]] | Extension parallel zur Kompression |
 | [[Die Reichsreform von 1495]] | Ewiger Landfrieden, Kammergericht, Kreise |
 | [[Entstehung der Ostalpen entlang des TRANSALP-Profils]] | Sieben Schritte von Pangaea zum Orogen |
@@ -60,6 +63,7 @@ updated: 2026-08-10
 | [[Brenner-Normalverwerfung]] | Geologie | O-W-Extension und Footwall-Uplift |
 | [[Burgundisches Erbe Maximilians]] | Geschichte | Heirat mit Maria von Burgund 1477 |
 | [[Collegium poetarum et mathematicorum]] | Geschichte | Maximilians Gelehrten-Kolleg |
+| [[Diskordanz am Pfitscher Joch]] | Geologie | Der Viertelmilliarden-Jahre-Sprung im Gelände |
 | [[EMOD-SLAP]] | Geologie | Luftbild-Photogrammetrie bis 1954 |
 | [[Enrollierung]] | Paläontologie | Schutzverhalten der Trilobiten |
 | [[Entwicklung der Trilobiten]] | Paläontologie | Vom Kambrium bis Perm |
@@ -69,8 +73,10 @@ updated: 2026-08-10
 | [[Evolutionäres Wettrüsten]] | Paläontologie | Räuber-Beute-Koevolution |
 | [[Ewiger Landfrieden]] | Rechtsgeschichte | Verbot der Fehde, 1495 |
 | [[Facettenaugen der Trilobiten]] | Paläontologie | Komplexauge der Trilobiten |
+| [[Furtschaglschiefer]] | Geologie | >700 Mio. Jahre alte Schwarzschiefer der Greiner Serie |
 | [[Galeerenstrafe]] | Militärgeschichte | Zwangsarbeit auf Schiffen |
 | [[Gemeiner Pfennig]] | Rechtsgeschichte | Reichssteuer 1495 |
+| [[Geothermobarometrie]] | Geologie | Minerale als Thermometer und Uhren des P-T-Zeit-Pfads |
 | [[Gesichtsnaht und Häutung der Trilobiten]] | Paläontologie | Häutungsmechanismus |
 | [[Gravitative Kaskadenprozesse am Reissenschuh]] | Geologie | DSGSD → Mure |
 | [[Habsburgische Heiratspolitik]] | Geschichte | Strategische Ehen |
@@ -82,6 +88,7 @@ updated: 2026-08-10
 | [[Junge Pfalz]] | Geschichte | Wittelsbachisches Herzogtum |
 | [[Kontinentaldrift]] | Geologie | Wegeners Theorie |
 | [[Körperbau der Trilobiten]] | Paläontologie | Cephalon, Thorax, Pygidium |
+| [[Konglomeratgneis]] | Geologie | Unreifes Perm-Sediment als Deformationsmessgerät |
 | [[Kölner Schiedsspruch 1505]] | Geschichte | Territoriale Neuordnung |
 | [[Laterale Extrusion der Ostalpen]] | Geologie | Adriatischer Indenter |
 | [[Lebensweise der Trilobiten]] | Paläontologie | Benthische Lebensweise |
@@ -94,6 +101,7 @@ updated: 2026-08-10
 | [[Ordnungen der Trilobiten]] | Paläontologie | Systematik der Trilobiten |
 | [[Ordovizium-Silur-Extinktion]] | Paläontologie | Massenaussterben ~445 Ma |
 | [[Penninisch-Ligurischer Ozean]] | Geologie | Alpine Tethys |
+| [[Pfitscher Bergsturz]] | Geologie, Tirol | Nacheiszeitliche Talverriegelung, Dammbruch um 1100 n. Chr. |
 | [[Perm-Trias-Massenaussterben]] | Paläontologie | Größtes Massenaussterben |
 | [[Plätten und Schiffszug]] | Militärgeschichte | Inn-Flussschifffahrt |
 | [[Pressburger Vertrag 1491]] | Geschichte | Habsburgisch-ungarischer Vertrag |
@@ -124,6 +132,7 @@ updated: 2026-08-10
 | [[Wilhelm Biener]] | Militärgeschichte | Tiroler Kanzler |
 | [[Wilson-Zyklus]] | Geologie | Ozeanöffnung und -schließung |
 | [[Wittelsbacher Hausvertrag von Pavia]] | Geschichte | Erbteilung 1329 |
+| [[Zerrklüfte]] | Geologie | Dehnungsklüfte der Hebungsphase als Mineral-Fenster |
 
 ## 50-MOC (Maps of Content)
 

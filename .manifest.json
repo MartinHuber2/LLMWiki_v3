@@ -44,10 +44,27 @@
       ],
       "source_type": "pdf",
       "project": null
+    },
+    "10-Raw/Tauernfenster (Quelle).md": {
+      "content_hash": "sha256:placeholder",
+      "last_ingested": "2026-08-10T13:00:00",
+      "pages_produced": [
+        "20-Literature/Tauernfenster (Exkursion Pfitschtal).md",
+        "30-Narrative/Die Deformationsgeschichte des Tauernfensters in vier Phasen.md",
+        "30-Narrative/Der Pfitscher Bergsturz und der verschwundene Stausee.md",
+        "40-Permanent/Pfitscher Bergsturz.md",
+        "40-Permanent/Zerrklüfte.md",
+        "40-Permanent/Furtschaglschiefer.md",
+        "40-Permanent/Konglomeratgneis.md",
+        "40-Permanent/Geothermobarometrie.md",
+        "40-Permanent/Diskordanz am Pfitscher Joch.md"
+      ],
+      "source_type": "pdf",
+      "project": null
     }
   },
   "stats": {
-    "total_sources_ingested": 4,
-    "total_pages": 112
+    "total_sources_ingested": 5,
+    "total_pages": 121
   }
 }

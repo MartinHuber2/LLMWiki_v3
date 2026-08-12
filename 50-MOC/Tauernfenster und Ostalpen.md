@@ -18,6 +18,15 @@ related:
   - "[[Wilson-Zyklus und Ozeanreinkarnation]]"
   - "[[Reissenschuh (NotebookLM 2)]]"
   - "[[EMOD-SLAP]]"
+  - "[[Tauernfenster (Exkursion Pfitschtal)]]"
+  - "[[Die Deformationsgeschichte des Tauernfensters in vier Phasen]]"
+  - "[[Der Pfitscher Bergsturz und der verschwundene Stausee]]"
+  - "[[Pfitscher Bergsturz]]"
+  - "[[Zerrklüfte]]"
+  - "[[Furtschaglschiefer]]"
+  - "[[Konglomeratgneis]]"
+  - "[[Geothermobarometrie]]"
+  - "[[Diskordanz am Pfitscher Joch]]"
 created: 2026-08-09
 updated: 2026-08-10
 ---
@@ -41,6 +50,12 @@ updated: 2026-08-10
 - [[Monitoring gravitativer Hangdeformationen]] — Messtechnik gegen die langsame Katastrophe
 - [[Quellhydrochemie des Tauernfensters]] — Arsen/Uran als geochemischer Fenster-Beweis
 - [[EMOD-SLAP]] — Luftbild-Photogrammetrie verlängert Bewegungszeitreihen bis 1954
+- [[Geothermobarometrie]] — Minerale als Thermometer und Uhren des P-T-Zeit-Pfads
+- [[Zerrklüfte]] — Dehnungsklüfte der Hebungsphase als Mineral-Fenster
+- [[Konglomeratgneis]] — unreifes Perm-Sediment als Deformationsmessgerät
+- [[Furtschaglschiefer]] — >700 Mio. Jahre alte Schwarzschiefer der Greiner Serie
+- [[Diskordanz am Pfitscher Joch]] — der Viertelmilliarden-Jahre-Sprung im Gelände
+- [[Pfitscher Bergsturz]] — nacheiszeitliche Talverriegelung mit katastrophalem Dammbruch um 1100 n. Chr.
 
 ## Narrative Notes
 
@@ -49,10 +64,13 @@ updated: 2026-08-10
 - [[Die Brenner-Normalverwerfung und die Exhumation der Ostalpen]] — Extension parallel zur Kompression
 - [[Das Schmirntal als geologisches Labor des Tauernfensters]] — die lokale Manifestation der Exhumation
 - [[Der Reissenschuh als Referenzmodell tiefgreifender Hangdeformationen]] — von der Tektonik zum Risikomanagement
+- [[Die Deformationsgeschichte des Tauernfensters in vier Phasen]] — von der Überschiebung zur Caterpillar-Kompression
+- [[Der Pfitscher Bergsturz und der verschwundene Stausee]] — eine Katastrophe, die die Landschaft prägte
 
 ## Literatur
 
 - [[Reissenschuh (NotebookLM 2)]] — erweiterte 2. Ausgabe: EMOD-SLAP-Details, Transferierbarkeit, Referenzmodell
+- [[Tauernfenster (Exkursion Pfitschtal)]] — Exkursionsführer Pfitschtal: Deckenbau, Methodik, 4-Phasen-Geschichte
 
 ## Verwandte MOCs
 
