@@ -4,8 +4,10 @@ status: aktiv
 ziel: ""
 deadline: 
 tags: []
-created: {{date:YYYY-MM-DD}}
-updated: {{date:YYYY-MM-DD}}
+Rel_AI: 1
+Rel_User:
+created: {{date:YYYY-MM-DD HH:mm:ss}}
+updated: {{date:YYYY-MM-DD HH:mm:ss}}
 ---
 
 # {{title}}

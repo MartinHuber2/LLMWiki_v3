@@ -1,70 +1,82 @@
-{
-  "version": 1,
-  "sources": {
-    "10-Raw/Schmirn Podcasts (Quelle).md": {
-      "content_hash": "sha256:placeholder",
-      "last_ingested": "2026-08-09T00:00:00",
-      "pages_produced": [
-        "20-Literature/Schmirn Podcasts.md",
-        "30-Narrative/Das Schmirntal als geologisches Labor des Tauernfensters.md",
-        "30-Narrative/Wie der Bergkristall vom Riepenkar ein prähistorisches Handelsnetz erschloss.md",
-        "30-Narrative/Zwischen Pass und Pfarre - Wie politische Grenzen den Totenweg erzwangen.md"
-      ],
-      "source_type": "ai-chat",
-      "project": null
-    },
-    "10-Raw/Reissenschuh.md": {
-      "content_hash": "sha256:placeholder",
-      "last_ingested": "2026-08-10T00:00:00",
-      "pages_produced": [
-        "20-Literature/Reissenschuh (NotebookLM).md"
-      ],
-      "source_type": "ai-chat",
-      "project": null
-    },
-    "10-Raw/Reissenschuh (NotebookLM 2).md": {
-      "content_hash": "sha256:placeholder",
-      "last_ingested": "2026-08-10T00:00:00",
-      "pages_produced": [
-        "20-Literature/Reissenschuh (NotebookLM 2).md",
-        "30-Narrative/Der Reissenschuh als Referenzmodell tiefgreifender Hangdeformationen.md",
-        "40-Permanent/EMOD-SLAP.md"
-      ],
-      "source_type": "ai-chat",
-      "project": null
-    },
-    "10-Raw/Field trip to the Tauern Window.pdf": {
-      "content_hash": "sha256:placeholder",
-      "last_ingested": "2026-08-09T00:00:00",
-      "pages_produced": [
-        "20-Literature/Tauern Window (Field Guide).md",
-        "30-Narrative/Entstehung der Ostalpen entlang des TRANSALP-Profils.md",
-        "30-Narrative/Das Tauernfenster als tektonisches Exhumationsfenster.md",
-        "30-Narrative/Die Brenner-Normalverwerfung und die Exhumation der Ostalpen.md"
-      ],
-      "source_type": "pdf",
-      "project": null
-    },
-    "10-Raw/Tauernfenster (Quelle).md": {
-      "content_hash": "sha256:placeholder",
-      "last_ingested": "2026-08-10T13:00:00",
-      "pages_produced": [
-        "20-Literature/Tauernfenster (Exkursion Pfitschtal).md",
-        "30-Narrative/Die Deformationsgeschichte des Tauernfensters in vier Phasen.md",
-        "30-Narrative/Der Pfitscher Bergsturz und der verschwundene Stausee.md",
-        "40-Permanent/Pfitscher Bergsturz.md",
-        "40-Permanent/Zerrklüfte.md",
-        "40-Permanent/Furtschaglschiefer.md",
-        "40-Permanent/Konglomeratgneis.md",
-        "40-Permanent/Geothermobarometrie.md",
-        "40-Permanent/Diskordanz am Pfitscher Joch.md"
-      ],
-      "source_type": "pdf",
-      "project": null
-    }
-  },
-  "stats": {
-    "total_sources_ingested": 5,
-    "total_pages": 121
-  }
+﻿{
+    "version":  1,
+    "sources":  {
+                    "10-Raw/Schmirn Podcasts (Quelle).md":  {
+                                                                "content_hash":  "sha256:placeholder",
+                                                                "last_ingested":  "2026-08-09T00:00:00",
+                                                                "pages_produced":  [
+                                                                                       "20-Literature/Schmirn Podcasts.md",
+                                                                                       "30-Narrative/Das Schmirntal als geologisches Labor des Tauernfensters.md",
+                                                                                       "30-Narrative/Wie der Bergkristall vom Riepenkar ein prÃ¤historisches Handelsnetz erschloss.md",
+                                                                                       "30-Narrative/Zwischen Pass und Pfarre - Wie politische Grenzen den Totenweg erzwangen.md"
+                                                                                   ],
+                                                                "source_type":  "ai-chat",
+                                                                "project":  null
+                                                            },
+                    "10-Raw/Reissenschuh.md":  {
+                                                   "content_hash":  "sha256:placeholder",
+                                                   "last_ingested":  "2026-08-10T00:00:00",
+                                                   "pages_produced":  [
+                                                                          "20-Literature/Reissenschuh (NotebookLM).md"
+                                                                      ],
+                                                   "source_type":  "ai-chat",
+                                                   "project":  null
+                                               },
+                    "10-Raw/Reissenschuh (NotebookLM 2).md":  {
+                                                                  "content_hash":  "sha256:placeholder",
+                                                                  "last_ingested":  "2026-08-10T00:00:00",
+                                                                  "pages_produced":  [
+                                                                                         "20-Literature/Reissenschuh (NotebookLM 2).md",
+                                                                                         "30-Narrative/Der Reissenschuh als Referenzmodell tiefgreifender Hangdeformationen.md",
+                                                                                         "40-Permanent/EMOD-SLAP.md"
+                                                                                     ],
+                                                                  "source_type":  "ai-chat",
+                                                                  "project":  null
+                                                              },
+                    "10-Raw/Field trip to the Tauern Window.pdf":  {
+                                                                       "content_hash":  "sha256:placeholder",
+                                                                       "last_ingested":  "2026-08-09T00:00:00",
+                                                                       "pages_produced":  [
+                                                                                              "20-Literature/Tauern Window (Field Guide).md",
+                                                                                              "30-Narrative/Entstehung der Ostalpen entlang des TRANSALP-Profils.md",
+                                                                                              "30-Narrative/Das Tauernfenster als tektonisches Exhumationsfenster.md",
+                                                                                              "30-Narrative/Die Brenner-Normalverwerfung und die Exhumation der Ostalpen.md"
+                                                                                          ],
+                                                                       "source_type":  "pdf",
+                                                                       "project":  null
+                                                                   },
+                    "10-Raw/Tauernfenster (Quelle).md":  {
+                                                             "content_hash":  "sha256:placeholder",
+                                                             "last_ingested":  "2026-08-10T13:00:00",
+                                                             "pages_produced":  [
+                                                                                    "20-Literature/Tauernfenster (Exkursion Pfitschtal).md",
+                                                                                    "30-Narrative/Die Deformationsgeschichte des Tauernfensters in vier Phasen.md",
+                                                                                    "30-Narrative/Der Pfitscher Bergsturz und der verschwundene Stausee.md",
+                                                                                    "40-Permanent/Pfitscher Bergsturz.md",
+                                                                                    "40-Permanent/ZerrklÃ¼fte.md",
+                                                                                    "40-Permanent/Furtschaglschiefer.md",
+                                                                                    "40-Permanent/Konglomeratgneis.md",
+                                                                                    "40-Permanent/Geothermobarometrie.md",
+                                                                                    "40-Permanent/Diskordanz am Pfitscher Joch.md"
+                                                                                ],
+                                                             "source_type":  "pdf",
+                                                             "project":  null
+                                                         },
+                    "10-Raw/1_TFLE1 Bildung in der digitalisierten Gesellschaft.pdf":  {
+                                                                                           "content_hash":  "sha256:placeholder",
+                                                                                           "last_ingested":  "2026-08-15T15:00:00",
+                                                                                           "pages_produced":  [
+                                                                                                                  "20-Literature/Bildung in der digitalisierten Gesellschaft.md",
+                                                                                                                  "30-Narrative/Bildung in einer vernetzten und mediatisierten Lebenswelt.md",
+                                                                                                                  "40-Permanent/Mediatisierung und Digitalisierung.md",
+                                                                                                                  "40-Permanent/Seamless Learning.md"
+                                                                                                              ],
+                                                                                           "source_type":  "pdf",
+                                                                                           "project":  null
+                                                                                       }
+                },
+    "stats":  {
+                  "total_sources_ingested":  6,
+                  "total_pages":  25
+              }
 }

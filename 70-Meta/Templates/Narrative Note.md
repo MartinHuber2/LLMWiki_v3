@@ -5,14 +5,19 @@ sources: []
 summary: ""
 related: []
 relationships: []
-created: {{date:YYYY-MM-DD}}
-updated: {{date:YYYY-MM-DD}}
+Rel_AI: 2
+Rel_User:
+# Lernpfad: 1 = zentraler Grundbaustein; 2 = wichtige Verbindung; 3 = vertiefende Wiederholung; 4 = Detail; 5 = Randaspekt
+created: {{date:YYYY-MM-DD HH:mm:ss}}
+updated: {{date:YYYY-MM-DD HH:mm:ss}}
 status: auto
 ---
 
 # {{title}}
 
 Worum geht es in diesem Argumentationsstrang? (1–2 Sätze Kontext)
+
+> Hinweis: Im Fließtext müssen passende Alias-Wikilinks zu verwandten Notizen gesetzt werden, zusätzlich zu den Q-/V-Belegen. Beispiel: [[permanent-note|permanenter Begriff]], [[literature-note|zugehörige Quelle]].
 
 ### Argument
 

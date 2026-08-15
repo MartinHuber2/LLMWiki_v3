@@ -9,12 +9,15 @@ summary: ""
 tier: supporting
 related: []
 relationships: []
+Rel_AI: 1
+Rel_User:
+# Lernpfad: 1 = zentraler Grundbaustein; 2 = wichtige Verbindung; 3 = vertiefende Wiederholung; 4 = Detail; 5 = Randaspekt
 provenance:
   extracted: 0.0
   inferred: 0.0
   ambiguous: 0.0
-created: {{date:YYYY-MM-DD}}
-updated: {{date:YYYY-MM-DD}}
+created: {{date:YYYY-MM-DD HH:mm:ss}}
+updated: {{date:YYYY-MM-DD HH:mm:ss}}
 status: auto
 ---
 
@@ -31,3 +34,12 @@ Jede Aussage mit (Q1), (Q2), … belegen. Synthesen erhalten ^[inferred], unsich
 ### Offene Fragen
 
 -
+
+## Aus dieser Quelle hervorgegangene Notizen
+
+- [[30-Narrative/<titel-der-narrative-note>]]
+- [[40-Permanent/<titel-der-permanent-note-1>]]
+- [[40-Permanent/<titel-der-permanent-note-2>]]
+- [[40-Permanent/<titel-der-permanent-note-3>]]
+
+> Diese Liste muss alle aus der Quelle neu angelegten oder aktualisierten Notizen enthalten. Sie ist verbindlicher Abschlussblock jeder Literature Note.

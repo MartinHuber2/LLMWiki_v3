@@ -5,12 +5,15 @@ summary: ""
 tier: supporting
 related: []
 relationships: []
+Rel_AI: 2
+Rel_User:
+# Lernpfad: 1 = zentraler Grundbaustein; 2 = wichtige Verbindung; 3 = vertiefende Wiederholung; 4 = Detail; 5 = Randaspekt
 provenance:
   extracted: 0.0
   inferred: 0.0
   ambiguous: 0.0
-created: {{date:YYYY-MM-DD}}
-updated: {{date:YYYY-MM-DD}}
+created: {{date:YYYY-MM-DD HH:mm:ss}}
+updated: {{date:YYYY-MM-DD HH:mm:ss}}
 status: auto
 ---
 
@@ -18,5 +21,6 @@ status: auto
 
 Eine Idee, in eigenen Worten. Direkt beginnen — kein einleitendes „Diese Note beschreibt ...".
 Jede Aussage mit (Q1), (Q2), … belegen. Synthesen und Analogien erhalten ^[inferred].
+Im Fließtext ebenfalls passende Alias-Wikilinks zu verwandten Notizen setzen, wenn sie den Satzfluss sinnvoll verstärken.
 
 Verwandte Konzepte: [[permanent-note]], [[permanent-note]]

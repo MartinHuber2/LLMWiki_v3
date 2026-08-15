@@ -4,6 +4,7 @@ updated: 2026-08-10
 ---
 ## Recent Activity
 
+- 2026-08-15: ZK-ingest — Finaler Reingest der PDF „Bildung in der digitalisierten Gesellschaft“ nach sauberem Reset. 1 Literature-Note, 1 Narrative-Note und 2 Permanent-Notes neu erstellt; Fokus auf Digitalisierung, Mediatisierung, Vernetzung und Seamless Learning.
 - 2026-08-10: ZK-ingest — Tauernfenster (Exkursion Pfitschtal) ingestiert. OCR-Extrakt eines gescannten PDFs (neues Skript 60-PARA/Resources/Skripte/pdf-ocr.py, Tesseract + deu). 1 Literature-, 2 Narrative-, 6 Permanent-Notes erstellt, 3 Permanent-/Narrative-Notes aktualisiert, MOC erweitert.
 - 2026-08-10: ZK-ingest — Reissenschuh (NotebookLM 2) ingestiert. Erweiterte Ausgabe mit EMOD-SLAP-Details, DGNSS, Kalktuff/SAL als Stabilitätsindikatoren, Transferierbarkeit auf Steinlehnen-Rutschung. 1 Literature-, 1 Narrative-, 1 Permanent-Note erstellt, 4 Permanent-Notes aktualisiert.
 - 2026-08-10: Wiki-lint — Vault Health Check. 0 Orphans, 0 Broken Links, 0 Frontmatter-Issues. 2 fragmentierte Tag-Cluster (#Geschichte 0.103, #Tirol 0.148).

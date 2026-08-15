@@ -9,6 +9,7 @@ updated: 2026-08-10
 
 | Datei | Typ | Beschreibung |
 |---|---|---|
+| [[Bildung in der digitalisierten Gesellschaft]] | pdf | Einführung in Digitalisierung, Mediatisierung, Vernetzung und Seamless Learning in der Gegenwart |
 | [[Landshuter Erbfolgekrieg]] | buch | Truppen- und Gefangenentransporte auf dem Inn im 17. Jhd. |
 | [[Landshuter Erbfolgekrieg (Wikipedia)]] | artikel | Wikipedia-Artikel zum Landshuter Erbfolgekrieg 1503–1505 |
 | [[Maximilian I. (Wikipedia)]] | artikel | Wikipedia-Artikel zu Maximilian I. (HRR) |
@@ -26,6 +27,7 @@ updated: 2026-08-10
 
 | Datei | Beschreibung |
 |---|---|
+| [[Bildung in einer vernetzten und mediatisierten Lebenswelt]] | Bildung als lebensweltlicher, digitaler und mediatisierter Prozess |
 | [[Aufstieg des Hauses Habsburg durch Heiratspolitik]] | Heiratspolitik als strategisches Instrument |
 | [[Das Schmirntal als geologisches Labor des Tauernfensters]] | Exhumation → Hangbewegung → Quellenchemie |
 | [[Das Tauernfenster als tektonisches Exhumationsfenster]] | Wie tief versenktes Grundgebirge an die Oberfläche kam |
@@ -51,6 +53,8 @@ updated: 2026-08-10
 
 | Datei | Tags | Beschreibung |
 |---|---|---|
+| [[Mediatisierung und Digitalisierung]] | Bildung, Medien, Digitalisierung | Digitalisierung und Mediatisierung als unterschiedliche, aber eng verbundene Prozesse |
+| [[Seamless Learning]] | Bildung, Lernen, Digitalisierung | Lernen als durchgängiger, mobiler und kontextübergreifender Prozess |
 | [[Alpenblumen- und Kräutergarten Toldern]] | Botanik, Tirol | 420 alpine Arten |
 | [[Alpine Deckentektonik]] | Geologie | Deckenstapelung und Krustenverdickung |
 | [[Alpine Metamorphose]] | Geologie | Versenkung bis 35–40 km, Höhepunkt ~25–30 Ma |

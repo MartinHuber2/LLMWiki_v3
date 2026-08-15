@@ -30,6 +30,17 @@ Notizen sind **keine oberflächlichen Zusammenfassungen**. Sie müssen:
 - Querverbindungen zu anderen Inhalten des Vaults aufzeigen
 - Inhalte so aufbereiten, dass sie eigenständig lesbar und lehrbar sind
 
+### Prüfungslern-Standard
+Notizen müssen nicht nur wichtige Kernaussagen, sondern den **vollen Stoffumfang** einer Quelle über einen abgestuften Lernpfad abbilden. Dafür gilt:
+- `Rel_AI = 1` deckt den ersten groben Überblick über die wichtigsten Inhalte ab; diese Notizen sind der Einstieg, nicht das gesamte Prüfungswissen.
+- `Rel_AI = 2` erweitert den Überblick mit den wichtigsten Verbindungen, Zusammenhängen und Interpretationsebenen.
+- `Rel_AI = 3` vertieft die systematische Wiederholung, Kausalitäten und die fachliche Struktur.
+- `Rel_AI = 4` ergänzt Detailwissen und Spezialaspekte, die nach dem Verständnis der Kernlogik relevant werden.
+- `Rel_AI = 5` erfasst die weniger relevanten, aber stofflich vollständigen Detailpunkte und Randaspekte der Quelle.
+- Der gesamte Stoff einer Quelle muss in den Notizen abgebildet sein: Es ist **nicht erlaubt**, nur die `1`- und `2`-Notizen zu erzeugen, weil so Stofflücken für die Prüfung entstehen.
+- Die KI erzeugt beim Ingest bewusst auch die weniger relevanten `4`- und `5`-Notizen, damit man allein durch die Notizen das gesamte Quellenmaterial für die Prüfung lernen kann.
+- Im Frontmatter gibt es **keine `rel_KI`- oder `Rel_KI`-Felder mehr**. Das einzige kanonische Relevanzfeld ist `Rel_AI`.
+
 ### Atomarität
 Jede Permanent Note beschreibt **genau eine Idee**. Wenn aus einer Quelle mehrere unabhängige Ideen entstehen, entstehen mehrere Permanent Notes.
 
@@ -108,6 +119,7 @@ Bevor die KI eine Note erstellt, muss sie intern prüfen und bei Bedarf bestäti
 ## Verlinkungsregeln
 
 - **Vernetzungspflicht**: Jedes bekannte Konzept und jede bekannte Entität, die im Fließtext vorkommt, wird als Wikilink gesetzt: `[[dateiname|grammatikalisch angepasster Anzeigetext]]`
+- **Zusätzliche Kontext-Verlinkungen im Fließtext**: Zusätzlich zu den Q- und V-Verweisen müssen thematisch passende Verknüpfungen zu anderen Notizen im Fließtext mit passenden Alias-Wikilinks erfolgen, sofern der Satzfluss dies sinnvoll erlaubt. Das gilt für alle Notiztypen: Literature, Narrative, Permanent und MOC. Die Verknüpfung dient der inhaltlichen Vernetzung und muss im Text nicht künstlich wirken; sie ist dann erforderlich, wenn ein bereits bekannter Fachbegriff, ein Thema oder eine inhaltliche Referenz im Fließtext erwähnt wird und ein passender interner Zusammenhang besteht.
 - **No Broken Links**: Es werden **ausschließlich** Links auf tatsächlich existierende Dateien gesetzt. Ist eine Zieldatei noch nicht vorhanden, bleibt der Begriff Klartext (kein Link)
 - **Entitäten-Schwelle**: Eine eigene Permanent Note für eine Entität entsteht nur, wenn ausreichend Substanz vorhanden ist (Richtwert: ~150 Wörter eigenständiger Inhalt). Beiläufige Erwähnungen bleiben Klartext
 - **Kollisionsfreiheit der Dateinamen**: Basisnamen von Dateien müssen im gesamten Vault eindeutig sein, damit bare `[[Wikilinks]]` eindeutig auflösen. Kollidiert der Basisname einer Rohquelle mit einer bestehenden Inhaltsseite (`20-Literature/`, `30-Narrative/`, `40-Permanent/`, `50-MOC/`), erhält die Rohquelle das Suffix ` (Quelle)`. Kollidiert der Basisname einer Literature Note mit einem MOC, erhält die Literature Note ein Herkunfts-Suffix (z.B. ` (Wikipedia)`). Bestehende Kollisionen werden bei einer Lint-Lauf behoben
@@ -117,9 +129,17 @@ Bevor die KI eine Note erstellt, muss sie intern prüfen und bei Bedarf bestäti
 ## Frontmatter-Regeln
 
 - **`status`**: Immer `auto` bei KI-Erstellung. `confirmed` und `review` werden **ausschließlich vom Nutzer** vergeben. Ein bestehender `confirmed`- oder `review`-Status darf von der KI **niemals** auf `auto` zurückgesetzt werden
-- **Datumsformat**: Ausnahmslos ISO 8601: `YYYY-MM-DD`
+- **Datums- und Zeitformat**: Ausnahmslos `YYYY-MM-DD hh:mm:ss` (z.B. `2026-08-15 14:32:18`). Diese Vorgabe gilt **für alle neuen und aktualisierten Notizen im ganzen Vault** — nicht nur für die aktuelle Quelle oder das aktuelle Gespräch.
 - **`tags`**: Ohne `#`-Zeichen (z.B. `- Geologie`, nicht `- #Geologie`)
 - **`related`**: Nur Links auf existierende Dateien
+- **`Rel_AI`** (kanonisches Feld; es gibt keine `Rel_KI`-Variante mehr): Zahlenwert von `1` bis `5`, nur von der KI gesetzt. Die Rel-Einschätzung dient nicht nur der Wichtigkeit, sondern als feste Lernreihenfolge: `1 = zentraler Grundbaustein / erster Lernschritt`, `2 = sehr relevant / wichtige Verbindung`, `3 = vertiefende, aber bereits bekannte Schicht`, `4 = eher Detail / Zusatzwissen`, `5 = marginales Detail / nur im Anschluss`. Die Reihenfolge ist verbindlich: Der Benutzer soll mit `Rel_AI = 1` starten, danach `2`, dann `3`, danach `4` und erst zuletzt `5`.
+- **`Rel_User`**: Analoges Feld, ebenfalls `1` bis `5`, aber von der KI **leer gelassen**. Der Nutzer kann es nach eigenem Urteil befüllen. Die Reihenfolge der Lernrelevanz gilt hier ebenfalls als Empfehlung: Der Nutzer kann gezielt zwischen Kernwissen und Detailniveau wechseln.
+- **Lernpfad-Regel**: Beim Ingest werden zentrale, grundlegende Konzepte bewusst als `Rel_AI: 1` markiert; Verbindungen und wesentliche Kontext-Notizen als `Rel_AI: 2`; vertiefende Argumentations- und Kausalitätsnotizen als `Rel_AI: 3`; fachlich spezialisierte Ergänzungen als `Rel_AI: 4`; einzelne Rand- oder Detailaspekte als `Rel_AI: 5`. Dadurch kann der Benutzer den Stoff in abgestuften Schritten von grob nach fein durchlaufen: zuerst die Grundbausteine, dann die Verbindungen, danach das Detail.
+- **Vollständigkeits-Regel für Prüfungslernen**: Beim Ingest sind **nicht nur** die ersten relevanten Stufen zu produzieren. Die KI muss den gesamten Stoff einer Quelle in den Notizen widerspiegeln: `1` bis `5` werden als abgestufter, kompletter Lernpfad erzeugt. `1` und `2` liefern den ersten Überblick, `3` und `4` die vertiefende Wiederholung und `5` die Randdetails. So kann man allein durch die Notizen auf die Prüfung lernen, ohne die Quelle erneut lesen zu müssen.
+- **Zweistufiger Ingest**: Literature Notes liefern die konzeptionelle Verdichtung; Narrative und Permanent Notes müssen ausführlich genug sein, dass sie für Prüfungslernen und Wiederholung über den gesamten Quelleninhalt genutzt werden können. Dabei gilt die Lernpfad-Logik ebenfalls: Die Notizen mit `Rel_AI: 1` bilden den Startpfad; `Rel_AI: 2` und `3` ergänzen die tiefergehende Wiederholung; `Rel_AI: 4` und `5` enthalten die ergänzenden Details und Randaspekte, damit der gesamte Stoff der Quelle in den Notizen vollständig erfasst ist.
+- **Ergebnisliste der Literature Note**: Jede Literature Note endet mit einem klaren Block `## Aus dieser Quelle hervorgegangene Notizen`, der alle aus derselben Quelle neu angelegten oder aktualisierten Notizen aufführt. Das umfasst mindestens die zugehörige Narrative Note und alle Permanent Notes, die aus dieser Quelle entstanden sind oder durch sie ergänzt wurden. Die Liste ist im Fließtext nach der Zusammenfassung zu platzieren und mit tatsächlichen Kanonikalnamen verlinkt.
+- **Kontextuelle Alias-Links im Fließtext**: Zusätzlich zu allen Q-/V-Belegen müssen passende Verknüpfungen zu bestehenden Notizen im Fließtext mit sinnvollen Alias-Wikilinks erfolgen, sofern sie dem Satzfluss dienen. Das gilt für Literature, Narrative, Permanent und MOC gleichermaßen.
+- **Allgemeine Gültigkeit**: Diese Regeln gelten **generell und künftig für den gesamten Vault**. Sie sind keine vorübergehende Gesprächsvereinbarung, sondern verbindliche Standardvorgaben für alle nachfolgenden Notizen, Aktualisierungen und Template-Generierungen.
 
 ---
 
@@ -135,8 +155,8 @@ source-ref: ""
 author: ""
 year: ""
 related: []
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
+created: YYYY-MM-DD hh:mm:ss
+updated: YYYY-MM-DD hh:mm:ss
 status: auto
 ---
 ```
@@ -148,8 +168,8 @@ type: narrative
 tags: []
 sources: []
 related: []
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
+created: YYYY-MM-DD hh:mm:ss
+updated: YYYY-MM-DD hh:mm:ss
 status: auto
 ---
 ```
@@ -160,8 +180,8 @@ status: auto
 type: permanent
 tags: []
 related: []
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
+created: YYYY-MM-DD hh:mm:ss
+updated: YYYY-MM-DD hh:mm:ss
 status: auto
 ---
 ```
@@ -172,8 +192,8 @@ status: auto
 type: moc
 tags: []
 related: []
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
+created: YYYY-MM-DD hh:mm:ss
+updated: YYYY-MM-DD hh:mm:ss
 ---
 ```
 
