@@ -4,7 +4,6 @@ tags:
 - geowissenschaften/geologie
 sources:
 - '[[There''s An Invisible Ocean Between These Fossils]]'
-related:
 - '[[Wilson-Zyklus]]'
 - '[[Iapetus-Sutur]]'
 - '[[Kontinentaldrift]]'

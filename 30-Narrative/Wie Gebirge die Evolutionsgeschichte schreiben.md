@@ -9,13 +9,14 @@ sources:
 summary: 'Gebirge verzerren den Fossilbericht: Elevation und Habitatvielfalt treiben
   Speziation und schaffen Refugien, wo Arten überleben, die im Tiefland verdrängt
   würden — wie die anaptomorphen Omomyoiden des Eozäns.'
-related:
-- '[[Gebirge als Motoren der Biodiversität]]'
-- '[[Eozäne Primaten Nordamerikas]]'
-- '[[Refugia]]'
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Gebirge als Motoren der Biodiversität]]'
+    - '[[Eozäne Primaten Nordamerikas]]'
+    - '[[Refugia]]'
 ---
 
 # Wie Gebirge die Evolutionsgeschichte schreiben

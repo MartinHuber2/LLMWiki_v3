@@ -2,7 +2,6 @@
 type: moc
 tags:
 - geisteswissenschaften/geschichte
-related:
 - '[[Habsburgische Heiratspolitik]]'
 - '[[Burgundisches Erbe Maximilians]]'
 - '[[Habsburgisch-französischer Gegensatz]]'

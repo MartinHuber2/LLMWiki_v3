@@ -9,14 +9,15 @@ summary: 'Asymmetrie ist eine bewusst hergestellte, teure Abweichung vom billige
   Symmetrie-Standard: Echinodermen sind sekundär radial, und einseitige Merkmale wie
   Plattfisch, Winkerkrabben-Schere oder Narwal-Stoßzahn stapeln sich auf symmetrische
   Vorfahren.'
-related:
-- '[[Asymmetrie als abgeleitetes Merkmal]]'
-- '[[Sekundäre Radialsymmetrie der Echinodermen]]'
-- '[[Bilaterale Symmetrie]]'
-- '[[Situs inversus]]'
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Asymmetrie als abgeleitetes Merkmal]]'
+    - '[[Sekundäre Radialsymmetrie der Echinodermen]]'
+    - '[[Bilaterale Symmetrie]]'
+    - '[[Situs inversus]]'
 ---
 
 # Asymmetrie als bewusste Abweichung vom billigen Standard

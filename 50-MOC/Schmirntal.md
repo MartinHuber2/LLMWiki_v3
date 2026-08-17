@@ -4,7 +4,6 @@ tags:
 - geowissenschaften/regionen/tirol
 - geisteswissenschaften/geschichte
 - geowissenschaften/geologie
-related:
 - '[[Schmirn Podcasts]]'
 - '[[Metamorphe Schieferhülle (Tauernfenster)]]'
 - '[[Reissenschuh-Rutschung]]'

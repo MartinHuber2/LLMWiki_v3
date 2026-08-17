@@ -7,9 +7,6 @@ summary: Cephalisation meint die Konzentration von Nerven- und Sinnesorganen vor
   zu einem Kopf — die Voraussetzung dafür, dass gerichtete Bewegung eine echte Vorn/Hinten-Achse
   erzeugt.
 tier: supporting
-related:
-- '[[Körperachsen der Tiere]]'
-- '[[Bilaterale Symmetrie]]'
 Rel_AI: 2
 Rel_User: null
 provenance:
@@ -19,6 +16,10 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Körperachsen der Tiere]]'
+    - '[[Bilaterale Symmetrie]]'
 ---
 
 # Cephalisation

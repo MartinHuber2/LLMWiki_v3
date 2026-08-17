@@ -6,9 +6,6 @@ tags:
 summary: Die Kambrium-Explosion (≈540 Mio. Jahre) brachte die große Mehrzahl der Tiergruppen
   mit voll ausgebildeten Gehirnen binnen geologischer Augenblick hervor.
 tier: core
-related:
-- '[[Evolution des Nervensystems]]'
-- '[[Fossile Hirne des Kambriums]]'
 Rel_AI: 2
 Rel_User: null
 provenance:
@@ -18,6 +15,10 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Evolution des Nervensystems]]'
+    - '[[Fossile Hirne des Kambriums]]'
 ---
 
 # Kambrium-Explosion

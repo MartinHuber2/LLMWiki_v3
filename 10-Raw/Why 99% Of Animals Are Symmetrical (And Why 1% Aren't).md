@@ -2,10 +2,12 @@
 title: Why 99% Of Animals Are Symmetrical (And Why 1% Aren't)
 source: https://www.youtube.com/watch?v=DytckU8yfc8
 author:
-- '[[LivingZoo]]'
 published: 2026-08-10
 created: 2026-08-15
 description: 'Coming to a looksmaxer near you...OUR CHANNELS▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀LivingZoo:     https://extinct.link/LivingZooSpanish:        https://extinct.link/ESGerman:        https://extinct.link/DE'
+links:
+  related:
+    - '[[LivingZoo]]'
 tags:
 - meta/clippings
 ---

@@ -3,7 +3,6 @@ type: permanent
 tags:
 - geisteswissenschaften/geschichte
 - geowissenschaften/regionen/tirol
-related:
 - '[[Landshuter Erbfolgekrieg]]'
 - '[[Belagerung von Kufstein 1504]]'
 - '[[Innschifffahrt als militärischer Transportweg]]'

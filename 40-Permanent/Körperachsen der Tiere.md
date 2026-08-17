@@ -6,11 +6,6 @@ tags:
 summary: 'Tierkörper lassen sich in drei Grundbaupläne einteilen: radial symmetrisch,
   bilateral symmetrisch und asymmetrisch.'
 tier: core
-related:
-- '[[Bilaterale Symmetrie]]'
-- '[[Radiale Symmetrie]]'
-- '[[Symmetrie als Konsequenz der Bewegung]]'
-- '[[Körperachsen der Tiere]]'
 Rel_AI: 1
 Rel_User: null
 provenance:
@@ -20,6 +15,12 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Bilaterale Symmetrie]]'
+    - '[[Radiale Symmetrie]]'
+    - '[[Symmetrie als Konsequenz der Bewegung]]'
+    - '[[Körperachsen der Tiere]]'
 ---
 
 # Körperachsen der Tiere

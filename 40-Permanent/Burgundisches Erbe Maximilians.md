@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geisteswissenschaften/geschichte
-related:
 - '[[Habsburgische Heiratspolitik]]'
 - '[[Habsburgisch-französischer Gegensatz]]'
 - '[[Aufstieg des Hauses Habsburg durch Heiratspolitik]]'

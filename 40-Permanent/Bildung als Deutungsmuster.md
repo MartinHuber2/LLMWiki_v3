@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geisteswissenschaften/paedagogik
-related:
 - '[[Bildung im Wandel]]'
 - '[[Bildung als Subjektkonstitution]]'
 - '[[Bildung in der digitalisierten Gesellschaft]]'

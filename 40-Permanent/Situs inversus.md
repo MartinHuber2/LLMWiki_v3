@@ -7,10 +7,6 @@ summary: Situs inversus ist die Spiegel-Lage der Organe (Herz rechts, Magen-Darm
   die meist auf defekte Nodal-Cilien zurückgeht — der Körper bleibt dabei eine perfekte
   Spiegelkopie.
 tier: peripheral
-related:
-- '[[Nodal-Cilien]]'
-- '[[Links-Rechts-Festlegung]]'
-- '[[Bilaterale Symmetrie]]'
 Rel_AI: 4
 Rel_User: null
 provenance:
@@ -20,6 +16,11 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Nodal-Cilien]]'
+    - '[[Links-Rechts-Festlegung]]'
+    - '[[Bilaterale Symmetrie]]'
 ---
 
 # Situs inversus

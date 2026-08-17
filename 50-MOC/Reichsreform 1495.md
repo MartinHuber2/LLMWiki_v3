@@ -3,7 +3,6 @@ type: moc
 tags:
 - geisteswissenschaften/geschichte
 - geisteswissenschaften/geschichte/rechtsgeschichte
-related:
 - '[[Reichsreform von 1495]]'
 - '[[Ewiger Landfrieden]]'
 - '[[Reichskammergericht]]'

@@ -7,27 +7,28 @@ source-type: artikel
 source-ref: 10-Raw/Maximilian I. (HRR).md
 author: Wikipedia
 year: '2003'
-related:
-- '[[Reichsreform von 1495]]'
-- '[[Ewiger Landfrieden]]'
-- '[[Reichskammergericht]]'
-- '[[Reichskreise]]'
-- '[[Habsburgische Heiratspolitik]]'
-- '[[Burgundisches Erbe Maximilians]]'
-- '[[Habsburgisch-französischer Gegensatz]]'
-- '[[Pressburger Vertrag 1491]]'
-- '[[Wiener Doppelhochzeit 1515]]'
-- '[[Maximilians Selbstinszenierung]]'
-- '[[Erwählter Römischer Kaiser]]'
-- '[[Schulden Maximilians I.]]'
-- '[[Collegium poetarum et mathematicorum]]'
-- '[[Landshuter Erbfolgekrieg]]'
-- '[[Kölner Schiedsspruch 1505]]'
-- '[[Reichsacht]]'
-- '[[Maximilians Gebietsgewinne im Landshuter Erbfolgekrieg]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto
+links:
+  related:
+    - '[[Reichsreform von 1495]]'
+    - '[[Ewiger Landfrieden]]'
+    - '[[Reichskammergericht]]'
+    - '[[Reichskreise]]'
+    - '[[Habsburgische Heiratspolitik]]'
+    - '[[Burgundisches Erbe Maximilians]]'
+    - '[[Habsburgisch-französischer Gegensatz]]'
+    - '[[Pressburger Vertrag 1491]]'
+    - '[[Wiener Doppelhochzeit 1515]]'
+    - '[[Maximilians Selbstinszenierung]]'
+    - '[[Erwählter Römischer Kaiser]]'
+    - '[[Schulden Maximilians I.]]'
+    - '[[Collegium poetarum et mathematicorum]]'
+    - '[[Landshuter Erbfolgekrieg]]'
+    - '[[Kölner Schiedsspruch 1505]]'
+    - '[[Reichsacht]]'
+    - '[[Maximilians Gebietsgewinne im Landshuter Erbfolgekrieg]]'
 ---
 
 # Maximilian I. (Wikipedia)

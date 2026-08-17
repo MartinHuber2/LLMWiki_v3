@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/geologie
-related:
 - '[[Wilson-Zyklus]]'
 - '[[Kontinentaldrift]]'
 - '[[Iapetus-Sutur]]'

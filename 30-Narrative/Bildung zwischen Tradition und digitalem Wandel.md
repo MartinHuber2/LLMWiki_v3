@@ -5,7 +5,6 @@ tags:
 - geisteswissenschaften/geschichte
 sources:
 - '[[Bildung im Wandel]]'
-related:
 - '[[Bildung in der digitalisierten Gesellschaft]]'
 - '[[Bildung als Deutungsmuster]]'
 - '[[Bildung als Subjektkonstitution]]'

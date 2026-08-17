@@ -7,8 +7,6 @@ summary: Die molekulare Uhr nutzt Gene heutiger Organismen plus vorhersagbare Mu
   um evolutionäre Ursprünge zeitlich zu schätzen — sie datiert Nervensysteme zurück
   ins Ediacarium.
 tier: supporting
-related:
-- '[[Ursprung der Nervensysteme]]'
 Rel_AI: 3
 Rel_User: null
 provenance:
@@ -18,6 +16,9 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Ursprung der Nervensysteme]]'
 ---
 
 # Molekulare Uhr

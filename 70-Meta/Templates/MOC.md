@@ -1,7 +1,8 @@
 ---
 type: moc
 tags: []
-related: []
+links:
+  related: []
 Rel_AI: 1
 Rel_User:
 created: {{date:YYYY-MM-DD HH:mm:ss}}

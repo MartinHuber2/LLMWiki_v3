@@ -4,7 +4,6 @@ tags:
 - geisteswissenschaften/geschichte
 - geisteswissenschaften/geschichte/militaergeschichte
 - geowissenschaften/regionen/tirol
-related:
 - '[[Innschifffahrt als militärischer Transportweg]]'
 - '[[Truppendurchzüge und Plünderungen]]'
 - '[[Maximilians Gebietsgewinne im Landshuter Erbfolgekrieg]]'

@@ -4,7 +4,6 @@ tags:
 - geowissenschaften/geologie
 sources:
 - '[[Tauern Window (Field Guide)]]'
-related:
 - '[[Brenner-Normalverwerfung]]'
 - '[[Tauernfenster]]'
 - '[[Alpine Metamorphose]]'

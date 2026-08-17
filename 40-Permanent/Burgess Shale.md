@@ -7,8 +7,6 @@ summary: 'Die Burgess-Shale in Kanada konserviert Weichteilorganismen: schnelle 
   verhinderte Verwesung, sodass Gewebe und Nerven als dünne Kohlenstoff-Filme erhalten
   blieben.'
 tier: supporting
-related:
-- '[[Fossile Hirne des Kambriums]]'
 Rel_AI: 3
 Rel_User: null
 provenance:
@@ -18,6 +16,9 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Fossile Hirne des Kambriums]]'
 ---
 
 # Burgess Shale (Burgess-Schiefer)

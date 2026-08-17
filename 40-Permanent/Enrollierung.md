@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/palaeontologie
-related:
 - '[[Trilobiten]]'
 - '[[Evolutionäres Wettrüsten]]'
 created: 2026-08-08

@@ -7,11 +7,6 @@ summary: 'Die Links-Rechts-Festlegung bricht die embryonale Symmetrie: Nodal sch
   Pitx2 nur links an, das Volumen des linken lateralen Plattenmesoderms trägt den
   Befehl in die Körperanlage.'
 tier: core
-related:
-- '[[Nodal-Cilien]]'
-- '[[Körperachsen der Tiere]]'
-- '[[Situs inversus]]'
-- '[[Bilaterale Symmetrie]]'
 Rel_AI: 2
 Rel_User: null
 provenance:
@@ -21,6 +16,12 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Nodal-Cilien]]'
+    - '[[Körperachsen der Tiere]]'
+    - '[[Situs inversus]]'
+    - '[[Bilaterale Symmetrie]]'
 ---
 
 # Links-Rechts-Festlegung

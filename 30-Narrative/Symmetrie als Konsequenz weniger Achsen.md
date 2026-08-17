@@ -8,15 +8,16 @@ sources:
 summary: 'Symmetrie ist die Konsequenz der wenigen Achsen, die die Welt dem Leben
   vorgibt: Gravitation erzeugt oben/unten, Bewegung erzeugt vorn/hinten, und links/rechts
   bleibt als spiegelgleiche Restachse übrig.'
-related:
-- '[[Körperachsen der Tiere]]'
-- '[[Cephalisation]]'
-- '[[Bilaterale Symmetrie]]'
-- '[[Radiale Symmetrie]]'
-- '[[Symmetrie als Konsequenz der Bewegung]]'
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Körperachsen der Tiere]]'
+    - '[[Cephalisation]]'
+    - '[[Bilaterale Symmetrie]]'
+    - '[[Radiale Symmetrie]]'
+    - '[[Symmetrie als Konsequenz der Bewegung]]'
 ---
 
 # Symmetrie als Konsequenz weniger Achsen

@@ -5,7 +5,6 @@ tags:
 - gesellschaft/digitalisierung
 - gesellschaft/mediatisierung
 - gesellschaft
-related:
 - '[[Mediatisierung und Digitalisierung]]'
 - '[[Seamless Learning]]'
 - '[[Bildung in einer vernetzten und mediatisierten Lebenswelt]]'

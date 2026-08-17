@@ -7,10 +7,6 @@ summary: Cnidarier (Quallen, Seeanemonen) laufen im Symmetrie-Spektrum von radia
   über biradial bis beinahe bilateral — sie zeigen, dass die Bauplan-Grenzen fließend
   sind.
 tier: peripheral
-related:
-- '[[Radiale Symmetrie]]'
-- '[[Bilaterale Symmetrie]]'
-- '[[Körperachsen der Tiere]]'
 Rel_AI: 5
 Rel_User: null
 provenance:
@@ -20,6 +16,11 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Radiale Symmetrie]]'
+    - '[[Bilaterale Symmetrie]]'
+    - '[[Körperachsen der Tiere]]'
 ---
 
 # Cnidarier

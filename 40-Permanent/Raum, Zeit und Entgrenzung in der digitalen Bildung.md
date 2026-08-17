@@ -6,10 +6,6 @@ tags:
 summary: Die Quelle zeigt, dass Bildung im Kontext von Digitalisierung und Mediatisierung
   nicht nur Inhalte, sondern räumliche, zeitliche und soziale Entgrenzungsprozesse
   einschließt.
-related:
-- '[[Seamless Learning]]'
-- '[[Vernetzung, Mobilität und Mit-Gestaltung]]'
-- '[[Mediatisierung und Digitalisierung]]'
 Rel_AI: 2
 Rel_User: null
 provenance:
@@ -19,6 +15,11 @@ provenance:
 created: 2026-08-15 16:34:00
 updated: 2026-08-15 16:34:00
 status: auto
+links:
+  related:
+    - '[[Seamless Learning]]'
+    - '[[Vernetzung, Mobilität und Mit-Gestaltung]]'
+    - '[[Mediatisierung und Digitalisierung]]'
 ---
 
 # Raum, Zeit und Entgrenzung in der digitalen Bildung

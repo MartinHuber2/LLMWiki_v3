@@ -7,10 +7,6 @@ summary: 'Gehirne brauchen Muskeln: Große Körper brauchen Bewegung, Muskeln er
   Koordination — und die Leistung, die Kontraktion zu steuern, liefert ein gebündelter
   Nervenknoten, das Gehirn.'
 tier: core
-related:
-- '[[Haootia]]'
-- '[[Evolution des Nervensystems]]'
-- '[[Gehirn als zentraler Verarbeitungshub]]'
 Rel_AI: 1
 Rel_User: null
 provenance:
@@ -20,6 +16,11 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Haootia]]'
+    - '[[Evolution des Nervensystems]]'
+    - '[[Gehirn als zentraler Verarbeitungshub]]'
 ---
 
 # Gehirne brauchen Muskeln

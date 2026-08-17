@@ -4,7 +4,6 @@ tags:
 - geisteswissenschaften/paedagogik
 - geisteswissenschaften/paedagogik/selbstbildung
 - geisteswissenschaften/philosophie
-related:
 - '[[Bildung im Wandel]]'
 - '[[Bildung als Subjektkonstitution]]'
 - '[[Paideia]]'

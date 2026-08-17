@@ -7,10 +7,6 @@ tags:
 summary: Humboldt stellt Bildung als Selbstbildung und Höherentwicklung der menschlichen
   Kräfte dar, die auf die Totalität des Menschen und nicht auf berufliche Zwecksetzung
   ausgerichtet ist.
-related:
-- '[[Kant und die Autonomie der Bildung]]'
-- '[[Rousseau und die Erziehung zum Menschsein]]'
-- '[[Bildung im Wandel]]'
 Rel_AI: 2
 Rel_User: null
 provenance:
@@ -20,6 +16,11 @@ provenance:
 created: 2026-08-15 16:33:00
 updated: 2026-08-15 16:33:00
 status: auto
+links:
+  related:
+    - '[[Kant und die Autonomie der Bildung]]'
+    - '[[Rousseau und die Erziehung zum Menschsein]]'
+    - '[[Bildung im Wandel]]'
 ---
 
 # Humboldt und die allgemeine Menschenbildung

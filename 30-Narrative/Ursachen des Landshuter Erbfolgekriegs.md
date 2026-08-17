@@ -4,7 +4,6 @@ tags:
 - geisteswissenschaften/geschichte
 sources:
 - '[[Landshuter Erbfolgekrieg]]'
-related:
 - '[[Wittelsbacher Hausvertrag von Pavia]]'
 - '[[Reichsacht]]'
 - '[[Kölner Schiedsspruch 1505]]'

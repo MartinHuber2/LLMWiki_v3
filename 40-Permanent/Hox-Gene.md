@@ -7,9 +7,6 @@ tags:
 summary: Hox-Gene ordnen Körpersegmente entlang der Kopf-Schwanz-Achse zu und laufen
   bereits bei Gastrulation und Neurulation an — die genetische Grundlage der Vorn/Hinten-Achse.
 tier: supporting
-related:
-- '[[Körperachsen der Tiere]]'
-- '[[Links-Rechts-Festlegung]]'
 Rel_AI: 3
 Rel_User: null
 provenance:
@@ -19,6 +16,10 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Körperachsen der Tiere]]'
+    - '[[Links-Rechts-Festlegung]]'
 ---
 
 # Hox-Gene

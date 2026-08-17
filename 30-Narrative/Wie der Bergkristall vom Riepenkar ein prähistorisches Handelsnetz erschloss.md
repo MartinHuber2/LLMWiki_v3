@@ -4,7 +4,6 @@ tags:
 - geisteswissenschaften/archaeologie
 sources:
 - '[[Schmirn Podcasts]]'
-related:
 - '[[Bergkristallbergbau am Riepenkar]]'
 - '[[Bergkristallstraße]]'
 - '[[Tuxer Joch]]'

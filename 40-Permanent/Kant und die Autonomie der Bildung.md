@@ -5,10 +5,6 @@ tags:
 - geisteswissenschaften/paedagogik
 summary: Kant macht Bildung zur Aufgabe der Erziehung zur autonomen, selbstdenkenden
   und sittlich verantwortlichen Persönlichkeit.
-related:
-- '[[Rousseau und die Erziehung zum Menschsein]]'
-- '[[Humboldt und die allgemeine Menschenbildung]]'
-- '[[Bildung im Wandel]]'
 Rel_AI: 2
 Rel_User: null
 provenance:
@@ -18,6 +14,11 @@ provenance:
 created: 2026-08-15 16:32:00
 updated: 2026-08-15 16:32:00
 status: auto
+links:
+  related:
+    - '[[Rousseau und die Erziehung zum Menschsein]]'
+    - '[[Humboldt und die allgemeine Menschenbildung]]'
+    - '[[Bildung im Wandel]]'
 ---
 
 # Kant und die Autonomie der Bildung

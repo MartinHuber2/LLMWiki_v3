@@ -5,9 +5,6 @@ tags:
 summary: Neuronen sind Nervenzellen, die elektrische Signale leiten und sich zu Netzwerken
   verbinden — die Grundbausteine jedes Nervensystems.
 tier: supporting
-related:
-- '[[Nervensystem]]'
-- '[[Gehirn als zentraler Verarbeitungshub]]'
 Rel_AI: 3
 Rel_User: null
 provenance:
@@ -17,6 +14,10 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Nervensystem]]'
+    - '[[Gehirn als zentraler Verarbeitungshub]]'
 ---
 
 # Neuronen-Netz

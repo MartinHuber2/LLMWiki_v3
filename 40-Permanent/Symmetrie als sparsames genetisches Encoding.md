@@ -7,9 +7,6 @@ summary: 'Symmetrisch gebaut zu sein ist genetisch günstig: Die Instruktionen w
   nur für eine Seite geschrieben, und jeder genetische Vorteil greift zugleich auf
   beide Seiten.'
 tier: supporting
-related:
-- '[[Bilaterale Symmetrie]]'
-- '[[Asymmetrie als abgeleitetes Merkmal]]'
 Rel_AI: 3
 Rel_User: null
 provenance:
@@ -19,6 +16,10 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Bilaterale Symmetrie]]'
+    - '[[Asymmetrie als abgeleitetes Merkmal]]'
 ---
 
 # Symmetrie als sparsames genetisches Encoding

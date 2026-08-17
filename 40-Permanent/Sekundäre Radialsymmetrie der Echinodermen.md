@@ -8,11 +8,6 @@ summary: 'Sekundäre Radialsymmetrie der Echinodermen: Larven sind bilateral sym
   erst der Adulttier baut fünfarmig-radial um — die Radialsymmetrie ist eine späte,
   abgeleitete Erfindung.'
 tier: supporting
-related:
-- '[[Radiale Symmetrie]]'
-- '[[Bilaterale Symmetrie]]'
-- '[[Bilateria]]'
-- '[[Cephalisation]]'
 Rel_AI: 3
 Rel_User: null
 provenance:
@@ -22,6 +17,12 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Radiale Symmetrie]]'
+    - '[[Bilaterale Symmetrie]]'
+    - '[[Bilateria]]'
+    - '[[Cephalisation]]'
 ---
 
 # Sekundäre Radialsymmetrie der Echinodermen

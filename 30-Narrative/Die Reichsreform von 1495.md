@@ -5,7 +5,6 @@ tags:
 - geisteswissenschaften/geschichte/rechtsgeschichte
 sources:
 - '[[Maximilian I. (Wikipedia)]]'
-related:
 - '[[Reichsreform von 1495]]'
 - '[[Ewiger Landfrieden]]'
 - '[[Reichskammergericht]]'

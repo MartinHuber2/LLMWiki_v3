@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/geologie
-related:
 - '[[Eoalpine Orogenese]]'
 - '[[Penninisch-Ligurischer Ozean]]'
 - '[[Tauernfenster]]'

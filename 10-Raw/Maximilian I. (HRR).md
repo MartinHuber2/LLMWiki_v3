@@ -2,10 +2,12 @@
 title: Maximilian I. (HRR)
 source: https://de.wikipedia.org/wiki/Maximilian_I._(HRR)
 author:
-- '[[Wikipedia]]'
 published: 2003-03-13
 created: 2026-08-09
 description: null
+links:
+  related:
+    - '[[Wikipedia]]'
 tags:
 - meta/clippings
 ---

@@ -3,7 +3,6 @@ type: permanent
 tags:
 - geisteswissenschaften/geschichte
 - geowissenschaften/regionen/tirol
-related:
 - '[[Totenweg über das Tuxer Joch]]'
 - '[[Bergmähder]]'
 created: 2026-08-09

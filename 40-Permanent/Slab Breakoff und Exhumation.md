@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/geologie
-related:
 - '[[Tauernfenster]]'
 - '[[Alpine Metamorphose]]'
 - '[[Alpine Deckentektonik]]'

@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/geologie
-related:
 - '[[Reissenschuh-Rutschung]]'
 - '[[Monitoring gravitativer Hangdeformationen]]'
 created: 2026-08-10

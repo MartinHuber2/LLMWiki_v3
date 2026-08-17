@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/palaeontologie
-related:
 - '[[Trilobiten]]'
 - '[[Trilobiten als Zeugen der Evolution]]'
 created: 2026-08-08

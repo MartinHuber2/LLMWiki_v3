@@ -5,7 +5,6 @@ tags:
 - geowissenschaften/geologie
 sources:
 - '[[There''s An Invisible Ocean Between These Fossils]]'
-related:
 - '[[Atlantische und Pazifische Faunen]]'
 - '[[Kontinentaldrift]]'
 - '[[Iapetus-Sutur]]'

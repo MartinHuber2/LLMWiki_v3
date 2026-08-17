@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/geologie
-related:
 - '[[Iapetus-Sutur]]'
 - '[[Kontinentaldrift]]'
 - '[[Die acht Phasen des Wilson-Zyklus]]'

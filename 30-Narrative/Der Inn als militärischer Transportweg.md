@@ -6,7 +6,6 @@ tags:
 - geowissenschaften/regionen/tirol
 sources:
 - '[[Truppen- und Gefangenentransporte auf dem Inn]]'
-related:
 - '[[Innschifffahrt als militärischer Transportweg]]'
 - '[[Plätten und Schiffszug]]'
 - '[[Hall in Tirol als Zentrum der Militärschifffahrt]]'

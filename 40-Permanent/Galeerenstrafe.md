@@ -3,7 +3,6 @@ type: permanent
 tags:
 - geisteswissenschaften/geschichte
 - geisteswissenschaften/geschichte/rechtsgeschichte
-related:
 - '[[Wilhelm Biener]]'
 created: 2026-08-08
 updated: 2026-08-08

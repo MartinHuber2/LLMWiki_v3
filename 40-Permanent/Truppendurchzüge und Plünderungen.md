@@ -4,7 +4,6 @@ tags:
 - geisteswissenschaften/geschichte
 - geisteswissenschaften/geschichte/militaergeschichte
 - geowissenschaften/regionen/tirol
-related:
 - '[[Innschifffahrt als militärischer Transportweg]]'
 - '[[Hall in Tirol als Zentrum der Militärschifffahrt]]'
 - '[[Belagerung von Kufstein 1504]]'

@@ -7,9 +7,10 @@ tags:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
-related:
-- '[[Eozäne Primaten Nordamerikas]]'
-- '[[Gebirge als Motoren der Biodiversität]]'
+links:
+  related:
+    - '[[Eozäne Primaten Nordamerikas]]'
+    - '[[Gebirge als Motoren der Biodiversität]]'
 ---
 
 # Eozäne Primaten und Gebirgsdiversität

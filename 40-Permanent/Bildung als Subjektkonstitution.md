@@ -4,7 +4,6 @@ tags:
 - geisteswissenschaften/paedagogik
 - geisteswissenschaften/philosophie
 - gesellschaft
-related:
 - '[[Bildung als Deutungsmuster]]'
 - '[[Bildung zwischen Tradition und digitalem Wandel]]'
 - '[[Bildung in der digitalisierten Gesellschaft]]'

@@ -8,9 +8,6 @@ summary: Refugia sind kleine Überlebensregionen, in denen Arten weiterleben, na
   ihr einst großes Verbreitungsgebiet geschrumpft ist — etwa in Gebirgen dank mehr
   Nischen und weniger Konkurrenz.
 tier: core
-related:
-- '[[Gebirge als Motoren der Biodiversität]]'
-- '[[Eozäne Primaten Nordamerikas]]'
 Rel_AI: 2
 Rel_User: null
 provenance:
@@ -20,6 +17,10 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Gebirge als Motoren der Biodiversität]]'
+    - '[[Eozäne Primaten Nordamerikas]]'
 ---
 
 # Refugia

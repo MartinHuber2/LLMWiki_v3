@@ -4,7 +4,6 @@ tags:
 - geowissenschaften/geologie
 sources:
 - '[[20-Literature/Reissenschuh (NotebookLM 2)]]'
-related:
 - '[[Reissenschuh-Rutschung]]'
 - '[[Monitoring gravitativer Hangdeformationen]]'
 - '[[EMOD-SLAP]]'

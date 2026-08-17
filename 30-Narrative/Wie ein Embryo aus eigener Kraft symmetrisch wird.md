@@ -8,15 +8,16 @@ sources:
 summary: 'Symmetrie ist kein Standardzustand des Lebens, sondern ein aktiv hergestelltes
   Ergebnis embryonaler Achsenbildung: Hox-Gene legen vorn/hinten fest, Nodal/Pitx2
   und Cilien entscheiden über links/rechts.'
-related:
-- '[[Links-Rechts-Festlegung]]'
-- '[[Nodal-Cilien]]'
-- '[[Hox-Gene]]'
-- '[[Situs inversus]]'
-- '[[Körperachsen der Tiere]]'
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Links-Rechts-Festlegung]]'
+    - '[[Nodal-Cilien]]'
+    - '[[Hox-Gene]]'
+    - '[[Situs inversus]]'
+    - '[[Körperachsen der Tiere]]'
 ---
 
 # Wie ein Embryo aus eigener Kraft symmetrisch wird

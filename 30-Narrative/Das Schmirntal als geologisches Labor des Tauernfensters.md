@@ -4,7 +4,6 @@ tags:
 - geowissenschaften/geologie
 sources:
 - '[[Schmirn Podcasts]]'
-related:
 - '[[Tauernfenster]]'
 - '[[Brenner-Normalverwerfung]]'
 - '[[Metamorphe Schieferhülle (Tauernfenster)]]'

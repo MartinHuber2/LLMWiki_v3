@@ -4,7 +4,8 @@ created: 2026-08-09
 updated: 2026-08-09
 status: auto
 tags: []
-related: ["KI-Anweisungen"]
+links:
+  related: ["KI-Anweisungen"]
 ---
 
 # Nutzerprofil

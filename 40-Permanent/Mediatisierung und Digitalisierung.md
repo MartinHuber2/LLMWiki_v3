@@ -4,7 +4,6 @@ tags:
 - geisteswissenschaften/paedagogik
 - gesellschaft/medien
 - gesellschaft/digitalisierung
-related:
 - '[[Bildung in der digitalisierten Gesellschaft]]'
 - '[[Bildung in einer vernetzten und mediatisierten Lebenswelt]]'
 - '[[Seamless Learning]]'

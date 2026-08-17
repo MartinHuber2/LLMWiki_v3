@@ -7,9 +7,6 @@ summary: Ein Gehirn ist der zentralisierte Verarbeitungshub eines Nervensystems 
   'Mission Control', das komplexe Körpersignale sinnvoll verarbeitet; von donutförmigen
   Krakengehirnen bis zum energiehungrigen Menschengehirn.
 tier: core
-related:
-- '[[Evolution des Nervensystems]]'
-- '[[Ursprung der Nervensysteme]]'
 Rel_AI: 1
 Rel_User: null
 provenance:
@@ -19,6 +16,10 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Evolution des Nervensystems]]'
+    - '[[Ursprung der Nervensysteme]]'
 ---
 
 # Gehirn als zentraler Verarbeitungshub

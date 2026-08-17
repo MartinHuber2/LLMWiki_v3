@@ -7,9 +7,6 @@ summary: 'Multituberculata: eine Säugetiergruppe, die ~165 Mio. Jahre auftrat, 
   vor ~56 Mio. Jahren häufig war und von modernen Säugetieren verdrängt wurde — frühe
   Hochlagenfunde in Montana wiesen auf Gebirgs-Refugien hin.'
 tier: peripheral
-related:
-- '[[Refugia]]'
-- '[[Gebirge als Motoren der Biodiversität]]'
 Rel_AI: 4
 Rel_User: null
 provenance:
@@ -19,6 +16,10 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Refugia]]'
+    - '[[Gebirge als Motoren der Biodiversität]]'
 ---
 
 # Multituberculata

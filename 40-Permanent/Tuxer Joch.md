@@ -4,7 +4,6 @@ tags:
 - geisteswissenschaften/archaeologie
 - geisteswissenschaften/geschichte
 - geowissenschaften/regionen/tirol
-related:
 - '[[Bergkristallstraße]]'
 - '[[Bergkristallbergbau am Riepenkar]]'
 - '[[Totenweg über das Tuxer Joch]]'

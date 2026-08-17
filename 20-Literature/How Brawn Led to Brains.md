@@ -4,6 +4,8 @@ tags:
 - geowissenschaften/palaeontologie
 - biowissenschaften/neurobiologie
 - biowissenschaften/evolutionsbiologie
+links:
+  related: ["[[Evolution des Nervensystems]]", type: extends}'"]
 source-type: video
 source-ref: https://www.youtube.com/watch?v=mbG8-ejz-WE
 author: PBS Eons
@@ -12,16 +14,6 @@ summary: Gehirne sind zentralisierte Verarbeitungsknoten von Nervensystemen; sie
   in der Kambrium-Explosion (≈540 Mio. Jahre) — getrieben von Information und Muskulatur,
   denn ohne Brawn keine Brains.
 tier: core
-related:
-- '[[Evolution des Nervensystems]]'
-- '[[Ursprung der Nervensysteme]]'
-- '[[Kambrium-Explosion]]'
-- '[[Gehirne brauchen Muskeln]]'
-- '[[Fossile Hirne des Kambriums]]'
-- '[[How Mountains Make Evolution Weird]]'
-relationships:
-- '{target: "[[Evolution des Nervensystems]]", type: extends}'
-- '{target: "[[How Mountains Make Evolution Weird]]", type: related_to}'
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
@@ -29,6 +21,14 @@ provenance:
   extracted: 0.88
   inferred: 0.1
   ambiguous: 0.02
+links:
+  related:
+    - '[[Evolution des Nervensystems]]'
+    - '[[Ursprung der Nervensysteme]]'
+    - '[[Kambrium-Explosion]]'
+    - '[[Gehirne brauchen Muskeln]]'
+    - '[[Fossile Hirne des Kambriums]]'
+    - '[[How Mountains Make Evolution Weird]]'
 ---
 
 # How Brawn Led to Brains

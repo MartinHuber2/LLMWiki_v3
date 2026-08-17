@@ -6,10 +6,6 @@ tags:
 summary: Haootia ist ein etwa 560 Mio. Jahre altes Ediacara-Fossil mit dem frühesten
   bekannten Muskelgewebe, das für einen Cnidarier gehalten wird.
 tier: supporting
-related:
-- '[[Gehirne brauchen Muskeln]]'
-- '[[Evolution des Nervensystems]]'
-- '[[Ursprung der Nervensysteme]]'
 Rel_AI: 3
 Rel_User: null
 provenance:
@@ -19,6 +15,11 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Gehirne brauchen Muskeln]]'
+    - '[[Evolution des Nervensystems]]'
+    - '[[Ursprung der Nervensysteme]]'
 ---
 
 # Haootia

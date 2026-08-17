@@ -7,18 +7,19 @@ source-type: video
 source-ref: https://www.youtube.com/watch?v=BMJJoAtvHiY
 author: PBS Eons
 year: 2025
-related:
-- '[[Wilson-Zyklus]]'
-- '[[Iapetus-Sutur]]'
-- '[[Atlantische und Pazifische Faunen]]'
-- '[[Kontinentaldrift]]'
-- '[[Trilobiten als biostratigraphisches Werkzeug]]'
-- '[[John Tuzo Wilson]]'
-- '[[Wie Trilobiten den Wilson-Zyklus aufdeckten]]'
-- '[[Die acht Phasen des Wilson-Zyklus]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto
+links:
+  related:
+    - '[[Wilson-Zyklus]]'
+    - '[[Iapetus-Sutur]]'
+    - '[[Atlantische und Pazifische Faunen]]'
+    - '[[Kontinentaldrift]]'
+    - '[[Trilobiten als biostratigraphisches Werkzeug]]'
+    - '[[John Tuzo Wilson]]'
+    - '[[Wie Trilobiten den Wilson-Zyklus aufdeckten]]'
+    - '[[Die acht Phasen des Wilson-Zyklus]]'
 ---
 
 # There's An Invisible Ocean Between These Fossils

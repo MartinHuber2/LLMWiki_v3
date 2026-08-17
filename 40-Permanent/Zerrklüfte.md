@@ -2,17 +2,11 @@
 type: permanent
 tags:
 - geowissenschaften/geologie
+links:
+  related_to: ["'[[Laterale Extrusion der Ostalpen]]'"]
 summary: 'Dehnungsklüfte der Hebungsphase: öffnen sich Ost-West, füllen sich mit Mineralien,
   deren Temperaturfolge die Deformationsgeschichte datiert.'
 tier: supporting
-related:
-- '[[Tauernfenster]]'
-- '[[Laterale Extrusion der Ostalpen]]'
-- '[[Geothermobarometrie]]'
-- '[[Alpine Metamorphose]]'
-relationships:
-- target: '[[Laterale Extrusion der Ostalpen]]'
-  type: related_to
 provenance:
   extracted: 0.85
   inferred: 0.15
@@ -20,6 +14,12 @@ provenance:
 created: 2026-08-10
 updated: 2026-08-10
 status: auto
+links:
+  related:
+    - '[[Tauernfenster]]'
+    - '[[Laterale Extrusion der Ostalpen]]'
+    - '[[Geothermobarometrie]]'
+    - '[[Alpine Metamorphose]]'
 ---
 
 # Zerrklüfte

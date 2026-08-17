@@ -7,8 +7,6 @@ summary: 'Speziation durch Habitatvariation: Mehr Umweltvielfalt erhöht die Cha
   dass ein Merkmal Vorteile bringt und selektiert wird — mehr Nischen bedeuten mehr
   neue Arten.'
 tier: supporting
-related:
-- '[[Gebirge als Motoren der Biodiversität]]'
 Rel_AI: 2
 Rel_User: null
 provenance:
@@ -18,6 +16,9 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Gebirge als Motoren der Biodiversität]]'
 ---
 
 # Speziation durch Habitatvariation

@@ -7,13 +7,6 @@ summary: Symmetrie ist die Standard-Erklärung nach Berücksichtigung der wenige
   der Welt; als Konsequenz gerichteter Bewegung entsteht ein Vorn/Hinten, links/rechts
   fällt als Spiegelübrig.
 tier: core
-related:
-- '[[Körperachsen der Tiere]]'
-- '[[Bilaterale Symmetrie]]'
-- '[[Radiale Symmetrie]]'
-- '[[Cephalisation]]'
-- '[[Ikaria wutjita]]'
-- '[[Symmetrie als sparsames genetisches Encoding]]'
 Rel_AI: 2
 Rel_User: null
 provenance:
@@ -23,6 +16,14 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Körperachsen der Tiere]]'
+    - '[[Bilaterale Symmetrie]]'
+    - '[[Radiale Symmetrie]]'
+    - '[[Cephalisation]]'
+    - '[[Ikaria wutjita]]'
+    - '[[Symmetrie als sparsames genetisches Encoding]]'
 ---
 
 # Symmetrie als Konsequenz der Bewegung

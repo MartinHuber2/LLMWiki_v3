@@ -4,7 +4,6 @@ tags:
 - geisteswissenschaften/paedagogik
 - geisteswissenschaften/geschichte
 - geisteswissenschaften/philosophie
-related:
 - '[[Bildung im Wandel]]'
 - '[[Bildung als Deutungsmuster]]'
 - '[[Bildung zwischen Tradition und digitalem Wandel]]'

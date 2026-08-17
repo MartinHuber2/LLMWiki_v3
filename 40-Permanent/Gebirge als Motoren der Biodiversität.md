@@ -6,11 +6,6 @@ tags:
 summary: Gebirge fördern Biodiversität durch Höhen- und Habitatvariation, topografische
   Komplexität, Speziation und Refugien — sie wirken wie Inseln und verzerren den Tiefland-Fossilbericht.
 tier: core
-related:
-- '[[Speziation durch Habitatvariation]]'
-- '[[Refugia]]'
-- '[[Eozäne Primaten Nordamerikas]]'
-- '[[How Mountains Make Evolution Weird]]'
 Rel_AI: 1
 Rel_User: null
 provenance:
@@ -20,6 +15,12 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Speziation durch Habitatvariation]]'
+    - '[[Refugia]]'
+    - '[[Eozäne Primaten Nordamerikas]]'
+    - '[[How Mountains Make Evolution Weird]]'
 ---
 
 # Gebirge als Motoren der Biodiversität

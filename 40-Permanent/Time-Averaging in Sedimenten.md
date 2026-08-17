@@ -7,8 +7,6 @@ summary: 'Time-Averaging: Sedimente unterschiedlichen Alters werden vermischt �
   wenn Hangschichten erodieren und sich am Fuß akkumulieren, sodass eine Fundstelle
   mehrere Zeitperioden zugleich repräsentiert.'
 tier: supporting
-related:
-- '[[Gebirge als Motoren der Biodiversität]]'
 Rel_AI: 3
 Rel_User: null
 provenance:
@@ -18,6 +16,9 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Gebirge als Motoren der Biodiversität]]'
 ---
 
 # Time-Averaging in Sedimenten

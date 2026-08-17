@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/geologie
-related:
 - '[[Alpine Deckentektonik]]'
 - '[[Penninisch-Ligurischer Ozean]]'
 - '[[Entstehung der Ostalpen entlang des TRANSALP-Profils]]'

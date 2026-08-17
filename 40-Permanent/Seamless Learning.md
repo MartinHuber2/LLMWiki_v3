@@ -3,7 +3,6 @@ type: permanent
 tags:
 - geisteswissenschaften/paedagogik
 - gesellschaft/digitalisierung
-related:
 - '[[Bildung in der digitalisierten Gesellschaft]]'
 - '[[Bildung in einer vernetzten und mediatisierten Lebenswelt]]'
 - '[[Mediatisierung und Digitalisierung]]'

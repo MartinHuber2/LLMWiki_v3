@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/geologie
-related:
 - '[[Alpine Deckentektonik]]'
 - '[[Alpine Metamorphose]]'
 - '[[Brenner-Normalverwerfung]]'

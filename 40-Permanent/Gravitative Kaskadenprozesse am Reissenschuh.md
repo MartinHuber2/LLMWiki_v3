@@ -3,7 +3,6 @@ type: permanent
 tags:
 - geowissenschaften/geologie
 - geowissenschaften/regionen/tirol
-related:
 - '[[Reissenschuh-Rutschung]]'
 - '[[Monitoring gravitativer Hangdeformationen]]'
 - '[[Reissenschuh (NotebookLM)]]'

@@ -2,7 +2,6 @@
 type: moc
 tags:
 - geowissenschaften/palaeontologie
-related:
 - '[[Trilobiten]]'
 - '[[Körperbau der Trilobiten]]'
 - '[[Facettenaugen der Trilobiten]]'

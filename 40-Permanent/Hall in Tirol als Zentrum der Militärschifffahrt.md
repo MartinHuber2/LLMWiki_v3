@@ -4,7 +4,6 @@ tags:
 - geisteswissenschaften/geschichte
 - geowissenschaften/regionen/tirol
 - geowissenschaften/hydrologie
-related:
 - '[[Innschifffahrt als militärischer Transportweg]]'
 - '[[Plätten und Schiffszug]]'
 - '[[Truppendurchzüge und Plünderungen]]'

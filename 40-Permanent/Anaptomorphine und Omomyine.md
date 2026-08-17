@@ -7,10 +7,6 @@ summary: 'Anaptomorphine und Omomyine sind die zwei Untergruppen der Omomyoiden:
   (klein, scharfe Zahnhöcker, prominenter vierter Prämolar) wurden vermeintlich von
   den etwas größeren Omomyinen verdrängt — überlebten aber in Gebirgs-Refugeien.'
 tier: supporting
-related:
-- '[[Omomyoiden]]'
-- '[[Refugia]]'
-- '[[Eozäne Primaten Nordamerikas]]'
 Rel_AI: 2
 Rel_User: null
 provenance:
@@ -20,6 +16,11 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Omomyoiden]]'
+    - '[[Refugia]]'
+    - '[[Eozäne Primaten Nordamerikas]]'
 ---
 
 # Anaptomorphine und Omomyine

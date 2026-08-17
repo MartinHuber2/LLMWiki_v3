@@ -4,6 +4,8 @@ tags:
 - geowissenschaften/palaeontologie
 - biowissenschaften/evolutionsbiologie
 - biowissenschaften/mammalogie
+links:
+  related: ["[[How Brawn Led to Brains]]", type: related_to}'"]
 source-type: video
 source-ref: https://www.youtube.com/watch?v=C6koLzdSves
 author: PBS Eons
@@ -12,19 +14,6 @@ summary: 'Gebirge erzeugen durch Höhen- und Lebensraumvielfalt Speziation und R
   Arten, die im Flachland verschwinden, überleben und differenzieren in den Höhenlagen
   — wie die anaptomorphen Omomyoiden des Eozäns.'
 tier: core
-related:
-- '[[How Brawn Led to Brains]]'
-- '[[Gebirge als Motoren der Biodiversität]]'
-- '[[Refugia]]'
-- '[[Speziation durch Habitatvariation]]'
-- '[[Eozäne Primaten Nordamerikas]]'
-- '[[Omomyoiden]]'
-- '[[Anaptomorphine und Omomyine]]'
-- '[[Multituberculata]]'
-- '[[Time-Averaging in Sedimenten]]'
-relationships:
-- '{target: "[[How Brawn Led to Brains]]", type: related_to}'
-- '{target: "[[Gebirge als Motoren der Biodiversität]]", type: extends}'
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
@@ -32,6 +21,17 @@ provenance:
   extracted: 0.9
   inferred: 0.08
   ambiguous: 0.02
+links:
+  related:
+    - '[[How Brawn Led to Brains]]'
+    - '[[Gebirge als Motoren der Biodiversität]]'
+    - '[[Refugia]]'
+    - '[[Speziation durch Habitatvariation]]'
+    - '[[Eozäne Primaten Nordamerikas]]'
+    - '[[Omomyoiden]]'
+    - '[[Anaptomorphine und Omomyine]]'
+    - '[[Multituberculata]]'
+    - '[[Time-Averaging in Sedimenten]]'
 ---
 
 # How Mountains Make Evolution Weird

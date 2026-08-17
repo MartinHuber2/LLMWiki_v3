@@ -6,7 +6,6 @@ tags:
 - geowissenschaften/regionen/tirol
 sources:
 - '[[Truppen- und Gefangenentransporte auf dem Inn]]'
-related:
 - '[[Galeerenstrafe]]'
 - '[[Wilhelm Biener]]'
 - '[[Innschifffahrt als militärischer Transportweg]]'

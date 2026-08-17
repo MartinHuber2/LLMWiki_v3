@@ -6,11 +6,15 @@ source-ref: ""
 author: ""
 year: ""
 tier: supporting
-related: []
-relationships: []
+links:
+  uses: []
+  extends: []
+  derived_from: []
+  contradicts: []
+  related: []
 Rel_AI: 1
 Rel_User:
-# Siehe [[KI-Instruktionen]]
+# Siehe [[KI-Anweisungen]]
 provenance:
   extracted: 0.0
   inferred: 0.0

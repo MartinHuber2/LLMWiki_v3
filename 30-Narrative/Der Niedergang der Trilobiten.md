@@ -4,7 +4,6 @@ tags:
 - geowissenschaften/palaeontologie
 sources:
 - '[[The Trouble With Trilobites]]'
-related:
 - '[[Trilobiten]]'
 - '[[Enrollierung]]'
 - '[[Evolutionäres Wettrüsten]]'

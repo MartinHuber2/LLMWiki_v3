@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/palaeontologie
-related:
 - '[[Trilobiten]]'
 - '[[Enrollierung]]'
 - '[[Ordovizium-Silur-Extinktion]]'

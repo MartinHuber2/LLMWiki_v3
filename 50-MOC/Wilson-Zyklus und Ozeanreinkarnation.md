@@ -3,7 +3,6 @@ type: moc
 tags:
 - geowissenschaften/geologie
 - geowissenschaften/palaeontologie
-related:
 - '[[Wilson-Zyklus]]'
 - '[[Iapetus-Sutur]]'
 - '[[Atlantische und Pazifische Faunen]]'

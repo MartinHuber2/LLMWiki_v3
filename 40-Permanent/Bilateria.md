@@ -6,10 +6,6 @@ tags:
 summary: Bilateria sind die Gruppe der 'vorn-habenden, seiten-gleichen' Tiere (Protostomia/Deuterostomia);
   ihr ältester bekannter Vertreter ist der ediacarische Ikaria wutjita.
 tier: core
-related:
-- '[[Bilaterale Symmetrie]]'
-- '[[Ikaria wutjita]]'
-- '[[Körperachsen der Tiere]]'
 Rel_AI: 2
 Rel_User: null
 provenance:
@@ -19,6 +15,11 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Bilaterale Symmetrie]]'
+    - '[[Ikaria wutjita]]'
+    - '[[Körperachsen der Tiere]]'
 ---
 
 # Bilateria

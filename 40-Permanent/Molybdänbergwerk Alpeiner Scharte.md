@@ -3,7 +3,6 @@ type: permanent
 tags:
 - geisteswissenschaften/geschichte
 - geowissenschaften/regionen/tirol
-related:
 - '[[Bergsteigerdorf]]'
 - '[[Tiroler Grauvieh]]'
 created: 2026-08-09

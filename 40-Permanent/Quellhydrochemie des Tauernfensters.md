@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/geologie
-related:
 - '[[Tauernfenster]]'
 - '[[Metamorphe Schieferhülle (Tauernfenster)]]'
 summary: 'Quellwasser verrät die Fenster-Struktur: Arsen/Uran aus dem Zentralgneis-Basement,

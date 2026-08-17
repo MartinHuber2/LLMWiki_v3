@@ -7,10 +7,6 @@ summary: 'Radiale Symmetrie entsteht, wenn ein Tier der Welt aus jeder Richtung 
   aber keine gerichtete Bewegung macht: eine Oben/Unten-Achse ohne echtes Vorn/Hinten
   und Links/Rechts, wie bei Quallen.'
 tier: supporting
-related:
-- '[[Körperachsen der Tiere]]'
-- '[[Bilaterale Symmetrie]]'
-- '[[Sekundäre Radialsymmetrie der Echinodermen]]'
 Rel_AI: 2
 Rel_User: null
 provenance:
@@ -20,6 +16,11 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Körperachsen der Tiere]]'
+    - '[[Bilaterale Symmetrie]]'
+    - '[[Sekundäre Radialsymmetrie der Echinodermen]]'
 ---
 
 # Radiale Symmetrie

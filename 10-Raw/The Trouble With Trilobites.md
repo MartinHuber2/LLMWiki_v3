@@ -2,12 +2,14 @@
 title: The Trouble With Trilobites
 source: https://www.youtube.com/watch?v=Aji2VnQFUCs&list=PLh7JnnxvgaunhE3_7vZaORMxqdix3sSOH
 author:
-- '[[PBS Eons]]'
 published: 2017-06-26
 created: 2026-08-08
 description: PBS Member Stations rely on viewers like you. To support your local station,
   go to http://to.pbs.org/DonateEons↓ More info below ↓Trilobites are famous not just
   because they were so beautifully fun
+links:
+  related:
+    - '[[PBS Eons]]'
 tags:
 - meta/clippings
 ---

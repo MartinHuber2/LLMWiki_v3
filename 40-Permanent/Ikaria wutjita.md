@@ -8,10 +8,6 @@ summary: Ikaria wutjita ist ein kleiner, einfach gebauter ediacarischer Bilateri
   mit echtem Vorn/Hinten und Spiegel-Links/Rechts, der sich vor über 555 Mio. Jahren
   durch den Schlamm bewegte.
 tier: supporting
-related:
-- '[[Bilateria]]'
-- '[[Bilaterale Symmetrie]]'
-- '[[Symmetrie als Konsequenz der Bewegung]]'
 Rel_AI: 4
 Rel_User: null
 provenance:
@@ -21,6 +17,11 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Bilateria]]'
+    - '[[Bilaterale Symmetrie]]'
+    - '[[Symmetrie als Konsequenz der Bewegung]]'
 ---
 
 # Ikaria wutjita

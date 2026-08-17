@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/geologie
-related:
 - '[[Tauernfenster]]'
 - '[[Brenner-Normalverwerfung]]'
 - '[[Slab Breakoff und Exhumation]]'

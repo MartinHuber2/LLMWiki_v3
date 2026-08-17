@@ -5,7 +5,6 @@ tags:
 - gesellschaft/mediatisierung
 - gesellschaft
 - geisteswissenschaften/philosophie
-related:
 - '[[Mediatisierung und Digitalisierung]]'
 - '[[Vernetzung, Mobilität und Mit-Gestaltung]]'
 - '[[Bildung in einer vernetzten und mediatisierten Lebenswelt]]'

@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geisteswissenschaften/geschichte
-related:
 - '[[Burgundisches Erbe Maximilians]]'
 - '[[Habsburgische Heiratspolitik]]'
 - '[[Aufstieg des Hauses Habsburg durch Heiratspolitik]]'

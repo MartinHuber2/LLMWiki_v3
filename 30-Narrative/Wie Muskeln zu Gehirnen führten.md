@@ -9,13 +9,14 @@ sources:
 summary: 'Gehirne entstanden nicht als Denkmaschinen gegen die Muskelkraft, sondern
   weil neuartige Muskelkörper Koordination brauchten: Brawn (Muskeln) führte zu Brains
   (Gehirnen).'
-related:
-- '[[Gehirne brauchen Muskeln]]'
-- '[[Evolution des Nervensystems]]'
-- '[[Ursprung der Nervensysteme]]'
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Gehirne brauchen Muskeln]]'
+    - '[[Evolution des Nervensystems]]'
+    - '[[Ursprung der Nervensysteme]]'
 ---
 
 # Wie Muskeln zu Gehirnen führten

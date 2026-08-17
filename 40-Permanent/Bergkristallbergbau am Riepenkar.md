@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geisteswissenschaften/archaeologie
-related:
 - '[[Bergkristallstraße]]'
 - '[[Tuxer Joch]]'
 - '[[Metamorphe Schieferhülle (Tauernfenster)]]'

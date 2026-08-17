@@ -6,9 +6,6 @@ tags:
 summary: Fossile Hirne des frühen Kambriums (Cardiodictyon, Kerygmachela, Stanleycaris)
   sind dank Weichteilerhaltung überliefert und belegen eine zunehmend komplexe Gehirnarchitektur.
 tier: supporting
-related:
-- '[[Evolution des Nervensystems]]'
-- '[[Kambrium-Explosion]]'
 Rel_AI: 3
 Rel_User: null
 provenance:
@@ -18,6 +15,10 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Evolution des Nervensystems]]'
+    - '[[Kambrium-Explosion]]'
 ---
 
 # Fossile Hirne des Kambriums

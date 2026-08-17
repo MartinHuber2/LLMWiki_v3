@@ -2,12 +2,14 @@
 title: How Brawn Led to Brains
 source: https://www.youtube.com/watch?v=mbG8-ejz-WE
 author:
-- '[[PBS Eons]]'
 published: 2026-01-13
 created: 2026-08-15
 description: While we often think of brains as some kind of triumph over brawn, it
   turns out that those two things might not be mutually exclusive, and in fact, they’ve
   been linked for far longer than we might ima
+links:
+  related:
+    - '[[PBS Eons]]'
 tags:
 - meta/clippings
 ---

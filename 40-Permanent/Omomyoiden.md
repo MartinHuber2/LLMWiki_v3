@@ -7,9 +7,6 @@ summary: Omomyoiden sind die kleinen, spitzmausartigen eozänen Primaten Nordame
   in fast 40 Gattungen (55–36 Mio. Jahre) und zwei Untergruppen (Anaptomorphine und
   Omomyine) aufgeteilt.
 tier: core
-related:
-- '[[Anaptomorphine und Omomyine]]'
-- '[[Eozäne Primaten Nordamerikas]]'
 Rel_AI: 2
 Rel_User: null
 provenance:
@@ -19,6 +16,10 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Anaptomorphine und Omomyine]]'
+    - '[[Eozäne Primaten Nordamerikas]]'
 ---
 
 # Omomyoiden

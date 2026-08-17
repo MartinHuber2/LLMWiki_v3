@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/palaeontologie
-related:
 - '[[Trilobiten als biostratigraphisches Werkzeug]]'
 - '[[Iapetus-Sutur]]'
 - '[[Wie Trilobiten den Wilson-Zyklus aufdeckten]]'

@@ -6,9 +6,6 @@ tags:
 summary: Adapoiden sind die größeren, lemurenartigen eozänen Primaten Nordamerikas
   — Obst- und Blattfresser, von denen meist nur wenige Arten gleichzeitig lebten.
 tier: peripheral
-related:
-- '[[Eozäne Primaten Nordamerikas]]'
-- '[[Omomyoiden]]'
 Rel_AI: 5
 Rel_User: null
 provenance:
@@ -18,6 +15,10 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Eozäne Primaten Nordamerikas]]'
+    - '[[Omomyoiden]]'
 ---
 
 # Adapoidea

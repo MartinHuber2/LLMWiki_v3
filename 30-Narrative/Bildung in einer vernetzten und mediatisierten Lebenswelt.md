@@ -6,7 +6,6 @@ tags:
 - gesellschaft/digitalisierung
 sources:
 - '[[Bildung in der digitalisierten Gesellschaft]]'
-related:
 - '[[Mediatisierung und Digitalisierung]]'
 - '[[Seamless Learning]]'
 - '[[Vernetzung, Mobilität und Mit-Gestaltung]]'

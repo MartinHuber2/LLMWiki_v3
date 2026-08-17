@@ -10,13 +10,6 @@ year: ''
 summary: 'Exkursionsführer-Kapitel durchs Pfitschtal: Deckenbau, 4-Phasen-Deformationsgeschichte
   und quantitative Methodik des Tauernfensters.'
 tier: supporting
-related:
-- '[[Tauernfenster]]'
-- '[[Tauern Window (Field Guide)]]'
-- '[[Das Tauernfenster als tektonisches Exhumationsfenster]]'
-- '[[Metamorphe Schieferhülle (Tauernfenster)]]'
-- '[[Alpine Metamorphose]]'
-- '[[Laterale Extrusion der Ostalpen]]'
 provenance:
   extracted: 0.8
   inferred: 0.15
@@ -24,6 +17,14 @@ provenance:
 created: 2026-08-10
 updated: 2026-08-10
 status: auto
+links:
+  related:
+    - '[[Tauernfenster]]'
+    - '[[Tauern Window (Field Guide)]]'
+    - '[[Das Tauernfenster als tektonisches Exhumationsfenster]]'
+    - '[[Metamorphe Schieferhülle (Tauernfenster)]]'
+    - '[[Alpine Metamorphose]]'
+    - '[[Laterale Extrusion der Ostalpen]]'
 ---
 
 # Tauernfenster (Exkursion Pfitschtal)

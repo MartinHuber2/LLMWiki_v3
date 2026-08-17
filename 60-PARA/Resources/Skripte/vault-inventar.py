@@ -55,10 +55,13 @@ NOTEBOOKLM_INSTRUCTIONS = """## Anweisungen an NotebookLM
 
 Du erhaeltst den Inhalt einer persoenlichen Wissensdatenbank (Obsidian-Zettelkasten) in Form einer kuratierten, einzeldateibasierten Inventarliste. Beantworte Fragen zu diesem Vault ausschliesslich anhand der folgenden Informationen.
 
-Hinweise:
+Voraussetzung (Verlinkung): Soll NotebookLM im Fliesstext auf bestehende Notizen verlinken, muss zusaetzlich `Vault-Fulltext.md` als Quelle geladen sein (die Volltext-Version dieses Inventars).
+
+Beachte folgende Regeln:
 - Jeder Listeneintrag entspricht einer Datei des Vaults; Pfad und Dateiname sind in Klammern bzw. als Code angegeben.
 - Der Vault ist ein "molekularer Zettelkasten": Permanent Notes enthalten je genau eine Idee, Narrative Notes verbinden Argumentationsstraenge, MOCs (Maps of Content) sind Navigations-Hubs.
-- Wenn du gebeten wirst, Erkenntnisse fuer den Vault zu produzieren, liefere diese als zusammenhaengenden Fliesstext. Versuche NICHT, strukturiertes Markdown (Frontmatter, Wikilinks, Ueberschriften-Hierarchien) zu erzeugen -- der Text wird anschliessend von einem spezialisierten Ingest-Prozess automatisch in die Vault-Struktur ueberfuehrt.
+- Verweise auf bestehende Notizen setzt du als **Alias-Wikilink** `[[Dateiname|Anzeigetext]]` — der Anzeigetext ist die grammatikalisch und semantisch passende Form im Satz (z.B. `[[Reissenschuh-Rutschung|der Reissenschuh]]`), sodass der Fliesstext korrekt lesbar bleibt. Verwende ausschliesslich Dateinamen, die in dieser Liste vorkommen.
+- Wenn du gebeten wirst, Erkenntnisse fuer den Vault zu produzieren, liefere diese als zusammenhaengenden Fliesstext. Versuche NICHT, strukturiertes Markdown (Frontmatter, Ueberschriften-Hierarchien) zu erzeugen -- der Text wird anschliessend von einem spezialisierten Ingest-Prozess automatisch in die Vault-Struktur ueberfuehrt.
 - Falls der gesamte Erkenntnisstand nicht in eine einzelne Ausgabe passt, brich an einer sinnvollen Stelle ab und kennzeichne das Ende mit "(Fortsetzung folgt -- bitte 'continue' eingeben)". Setze in der naechsten Ausgabe an genau dieser Stelle fort, bis alles vollstaendig ausgegeben ist.
 - Wichtig: Der finale Fliesstext muss in sich vollstaendig und selbsterklaerend sein -- er wird als eigenstaendige Rohquelle im Vault gespeichert und ohne den urspruenglichen Chat-Kontext ingestiert.
 """

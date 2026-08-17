@@ -4,7 +4,6 @@ tags:
 - geisteswissenschaften/paedagogik
 - geisteswissenschaften/geschichte/antike
 - geisteswissenschaften/philosophie
-related:
 - '[[Bildung im Wandel]]'
 - '[[Bildung als Deutungsmuster]]'
 - '[[Bildung als Subjektkonstitution]]'

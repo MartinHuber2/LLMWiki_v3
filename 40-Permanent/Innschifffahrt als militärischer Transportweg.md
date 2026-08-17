@@ -4,7 +4,6 @@ tags:
 - geisteswissenschaften/geschichte
 - geisteswissenschaften/geschichte/militaergeschichte
 - geowissenschaften/regionen/tirol
-related:
 - '[[Plätten und Schiffszug]]'
 - '[[Hall in Tirol als Zentrum der Militärschifffahrt]]'
 - '[[Belagerung von Kufstein 1504]]'

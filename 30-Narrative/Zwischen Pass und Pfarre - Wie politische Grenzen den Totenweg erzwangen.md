@@ -5,7 +5,6 @@ tags:
 - geowissenschaften/regionen/tirol
 sources:
 - '[[Schmirn Podcasts]]'
-related:
 - '[[Schwaighöfe]]'
 - '[[Totenweg über das Tuxer Joch]]'
 - '[[Sakrale Landschaft des Schmirntals]]'

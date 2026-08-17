@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geisteswissenschaften/paedagogik
-related:
 - '[[Bildung im Wandel]]'
 - '[[Mittelalter und Renaissance]]'
 - '[[Kant und die Autonomie der Bildung]]'

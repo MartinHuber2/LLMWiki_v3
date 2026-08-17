@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geisteswissenschaften/archaeologie
-related:
 - '[[Bergkristallbergbau am Riepenkar]]'
 - '[[Tuxer Joch]]'
 created: 2026-08-09

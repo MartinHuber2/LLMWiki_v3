@@ -6,10 +6,6 @@ tags:
 summary: Nodal-Cilien sind nach hinten geneigte, rotierende Härchen, deren gleichbleibende
   Flüssigkeitsströmung beim Wirbeltier-Embryo festlegt, welche Seite links wird.
 tier: supporting
-related:
-- '[[Links-Rechts-Festlegung]]'
-- '[[Situs inversus]]'
-- '[[Körperachsen der Tiere]]'
 Rel_AI: 3
 Rel_User: null
 provenance:
@@ -19,6 +15,11 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Links-Rechts-Festlegung]]'
+    - '[[Situs inversus]]'
+    - '[[Körperachsen der Tiere]]'
 ---
 
 # Nodal-Cilien

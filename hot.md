@@ -1,9 +1,10 @@
 ---
 title: Hot Cache
-updated: 2026-08-15
+updated: 2026-08-17
 ---
 ## Recent Activity
 
+- 2026-08-17: Cross-linker — Vault-Scan durchgeführt: 37 ungebundene Erwähnungen über 18 Notizseiten identifiziert und Querverweise/Relationships vorbereitet; 0 Waisen-Notizen verbleiben.
 - 2026-08-15: ZK-ingest — PBS-Eons-Videos "How Brawn Led to Brains" und "How Mountains Make Evolution Weird" ingestiert. 2 Literature-, 2 Narrative-, 23 Permanent-Notes zur Nervensystem-/Gehirnevolution (Brawn→Brains, Kambrium-Explosion, Haootia) und zur Gebirgsdiversität (eozäne Primaten, Omomyoiden, Refugia) + 2 neue MOCs (Evolution der Gehirne, Eozäne Primaten und Gebirgsdiversität).
 - 2026-08-15: ZK-ingest — LivingZoo-Video "Why 99% Of Animals Are Symmetrical" ingestiert. 1 Literature-, 3 Narrative-, 14 Permanent-Notes zum Thema Tierkörperbaupläne erstellt (Körperachsen, bilaterale/radiale Symmetrie, Hox-Gene, Nodal/Pitx2, Nodal-Cilien, Situs inversus, Asymmetrie) + neuer MOC "Symmetrie im Tierreich".
 - 2026-08-15: ZK-ingest — Detaillierte Version der Quelle „17_TFLE1 Bildung in der digitalisierten Gesellschaft.pdf“ ingestiert. Neue Notizen zum Bildungsbegriff, zur historischen Begriffsentwicklung, zur Subjektkonstitution und zu Paideia/selbstüberschreitender Bildung ergänzt; Fokus auf die Begriffs- und Wissensgrundlagen.

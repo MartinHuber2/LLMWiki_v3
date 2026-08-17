@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/regionen/tirol
-related:
 - '[[Bergmähder]]'
 - '[[Reissenschuh-Rutschung]]'
 - '[[Bergsteigerdorf]]'

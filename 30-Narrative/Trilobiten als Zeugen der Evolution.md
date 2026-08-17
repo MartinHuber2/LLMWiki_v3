@@ -4,7 +4,6 @@ tags:
 - geowissenschaften/palaeontologie
 sources:
 - '[[Trilobiten (Wikipedia)]]'
-related:
 - '[[Trilobiten]]'
 - '[[Ursprung der Trilobiten]]'
 - '[[Verwandtschaft der Trilobiten]]'

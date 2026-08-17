@@ -3,7 +3,6 @@ type: permanent
 tags:
 - geowissenschaften/palaeontologie
 - geowissenschaften/geologie
-related:
 - '[[Trilobiten]]'
 - '[[Trilobiten als biostratigraphisches Werkzeug]]'
 - '[[Trilobiten als Zeugen der Evolution]]'

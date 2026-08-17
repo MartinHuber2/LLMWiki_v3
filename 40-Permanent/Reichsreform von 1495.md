@@ -3,7 +3,6 @@ type: permanent
 tags:
 - geisteswissenschaften/geschichte
 - geisteswissenschaften/geschichte/rechtsgeschichte
-related:
 - '[[Ewiger Landfrieden]]'
 - '[[Reichskammergericht]]'
 - '[[Reichskreise]]'

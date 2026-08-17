@@ -7,11 +7,6 @@ summary: 'Bilaterale Symmetrie ist die übrig gebliebene Achse: weil keine Kraft
   über rechts bevorteilt, fallen beide Seiten als Spiegel aus — vorteilhaft für gerichtete
   Fortbewegung und günstig zu kodieren.'
 tier: core
-related:
-- '[[Körperachsen der Tiere]]'
-- '[[Cephalisation]]'
-- '[[Symmetrie als Konsequenz der Bewegung]]'
-- '[[Bilateria]]'
 Rel_AI: 1
 Rel_User: null
 provenance:
@@ -21,6 +16,12 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Körperachsen der Tiere]]'
+    - '[[Cephalisation]]'
+    - '[[Symmetrie als Konsequenz der Bewegung]]'
+    - '[[Bilateria]]'
 ---
 
 # Bilaterale Symmetrie

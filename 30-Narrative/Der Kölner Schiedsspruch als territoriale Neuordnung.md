@@ -4,7 +4,6 @@ tags:
 - geisteswissenschaften/geschichte
 sources:
 - '[[Landshuter Erbfolgekrieg]]'
-related:
 - '[[Kölner Schiedsspruch 1505]]'
 - '[[Junge Pfalz]]'
 - '[[Maximilians Gebietsgewinne im Landshuter Erbfolgekrieg]]'

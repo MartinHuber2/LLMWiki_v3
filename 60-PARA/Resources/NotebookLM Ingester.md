@@ -19,7 +19,7 @@ Solange ich nicht `/produce` schreibe, antwortest du normal auf meine Fragen. Hi
 
 Wenn ich `/produce` eingebe, erzeugst du den kompletten Erkenntnisstand unseres Gesprächs als **zusammenhängenden Fließtext**. Beachte folgende Regeln:
 
-1. **Nur Fließtext.** Kein YAML-Frontmatter (`---`), keine Wikilinks (`[[...]]`), keine Markdown-Überschriften als Strukturierungsmittel. Absätze und Spiegelstriche sind erlaubt, aber denke daran: Der Text wird später automatisch in einzelne Wissensbausteine zerlegt.
+1. **Nur Fließtext.** Kein YAML-Frontmatter (`---`), keine Markdown-Überschriften als Strukturierungsmittel. **Einzige Ausnahme: Alias-Wikilinks** `[[Dateiname|Anzeigetext]]` für Verweise auf bestehende Notizen — der Anzeigetext ist die grammatikalisch und semantisch passende Form im Satz (z.B. `[[Reissenschuh-Rutschung|der Reissenschuh]]` oder `[[Tauernfenster|im Tauernfenster]]`), sodass der Fließtext korrekt lesbar bleibt. Verwende ausschließlich Dateinamen, die in der als Quelle geladenen Vault-Übersicht (z.B. `Vault-Fulltext.md`, dort als `--- FILENAME:`-Eintrag) vorkommen. Absätze und Spiegelstriche sind erlaubt, aber denke daran: Der Text wird später automatisch in einzelne Wissensbausteine zerlegt.
 
 2. **Quellenangaben mit dem ($...)-Marker.** Belege deine Aussagen mit den Quelldokumenten, die ich in dieses Notebook geladen habe. Setze den Marker direkt hinter die belegte Aussage.
 

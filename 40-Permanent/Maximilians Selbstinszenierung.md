@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geisteswissenschaften/geschichte
-related:
 - '[[Erwählter Römischer Kaiser]]'
 - '[[Collegium poetarum et mathematicorum]]'
 - '[[Schulden Maximilians I.]]'

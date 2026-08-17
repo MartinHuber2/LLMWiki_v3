@@ -3,39 +3,16 @@ type: literature
 tags:
 - geisteswissenschaften/paedagogik
 - geisteswissenschaften/geschichte
+links:
+  derived_from: ["'[[Bildung in der digitalisierten Gesellschaft]]'", "'[[Bildung in einer vernetzten und mediatisierten Lebenswelt]]'"]
+  related_to: ["'[[Mediatisierung und Digitalisierung]]'"]
+  related: ["'[[Mittelalter und Renaissance]]'", "'[[Rousseau und die Erziehung zum Menschsein]]'", "'[[Kant und die Autonomie der Bildung]]'", "'[[Humboldt und die allgemeine Menschenbildung]]'", "'[[Raum, Zeit und Entgrenzung in der digitalen Bildung]]'"]
 source-type: pdf
 source-ref: 17_TFLE1 Bildung in der digitalisierten Gesellschaft.pdf
 author: Claudia de Witt, Claudia Grüner, Heike Karolyi, Christian Leineweber, Patrycja
   Psyk, Silke Wrede
 year: ''
 tier: supporting
-related:
-- '[[Bildung in der digitalisierten Gesellschaft]]'
-- '[[Bildung in einer vernetzten und mediatisierten Lebenswelt]]'
-- '[[Mediatisierung und Digitalisierung]]'
-- '[[Mediatisierung als Metaprozess]]'
-- '[[Mittelalter und Renaissance]]'
-- '[[Rousseau und die Erziehung zum Menschsein]]'
-- '[[Kant und die Autonomie der Bildung]]'
-- '[[Humboldt und die allgemeine Menschenbildung]]'
-- '[[Raum, Zeit und Entgrenzung in der digitalen Bildung]]'
-relationships:
-- target: '[[Bildung in der digitalisierten Gesellschaft]]'
-  type: derived_from
-- target: '[[Bildung in einer vernetzten und mediatisierten Lebenswelt]]'
-  type: derived_from
-- target: '[[Mediatisierung und Digitalisierung]]'
-  type: related_to
-- target: '[[Mittelalter und Renaissance]]'
-  type: covers
-- target: '[[Rousseau und die Erziehung zum Menschsein]]'
-  type: covers
-- target: '[[Kant und die Autonomie der Bildung]]'
-  type: covers
-- target: '[[Humboldt und die allgemeine Menschenbildung]]'
-  type: covers
-- target: '[[Raum, Zeit und Entgrenzung in der digitalen Bildung]]'
-  type: covers
 Rel_AI: 1
 Rel_User: null
 provenance:
@@ -45,6 +22,17 @@ provenance:
 created: 2026-08-15 16:10:00
 updated: 2026-08-15 16:10:00
 status: auto
+links:
+  related:
+    - '[[Bildung in der digitalisierten Gesellschaft]]'
+    - '[[Bildung in einer vernetzten und mediatisierten Lebenswelt]]'
+    - '[[Mediatisierung und Digitalisierung]]'
+    - '[[Mediatisierung als Metaprozess]]'
+    - '[[Mittelalter und Renaissance]]'
+    - '[[Rousseau und die Erziehung zum Menschsein]]'
+    - '[[Kant und die Autonomie der Bildung]]'
+    - '[[Humboldt und die allgemeine Menschenbildung]]'
+    - '[[Raum, Zeit und Entgrenzung in der digitalen Bildung]]'
 ---
 
 # Bildung im Wandel

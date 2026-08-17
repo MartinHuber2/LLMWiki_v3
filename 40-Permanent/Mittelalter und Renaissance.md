@@ -4,7 +4,6 @@ tags:
 - geisteswissenschaften/paedagogik
 - geisteswissenschaften/geschichte
 - geisteswissenschaften/geschichte/renaissance
-related:
 - '[[Bildung im Wandel]]'
 - '[[Bildung als historisches Gedächtnis]]'
 - '[[Bildung als Deutungsmuster]]'

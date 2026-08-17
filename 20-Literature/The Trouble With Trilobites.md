@@ -6,17 +6,18 @@ source-type: video
 source-ref: https://www.youtube.com/watch?v=Aji2VnQFUCs
 author: PBS Eons (Blake de Pastino)
 year: 2017
-related:
-- '[[Trilobiten]]'
-- '[[Enrollierung]]'
-- '[[Evolutionäres Wettrüsten]]'
-- '[[Ordovizium-Silur-Extinktion]]'
-- '[[Spätdevon-Extinktion]]'
-- '[[Perm-Trias-Massenaussterben]]'
-- '[[Der Niedergang der Trilobiten]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto
+links:
+  related:
+    - '[[Trilobiten]]'
+    - '[[Enrollierung]]'
+    - '[[Evolutionäres Wettrüsten]]'
+    - '[[Ordovizium-Silur-Extinktion]]'
+    - '[[Spätdevon-Extinktion]]'
+    - '[[Perm-Trias-Massenaussterben]]'
+    - '[[Der Niedergang der Trilobiten]]'
 ---
 
 # The Trouble With Trilobites

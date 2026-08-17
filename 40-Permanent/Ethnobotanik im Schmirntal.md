@@ -3,7 +3,6 @@ type: permanent
 tags:
 - biowissenschaften/botanik
 - geowissenschaften/regionen/tirol
-related:
 - '[[Bergmähder]]'
 - '[[Alpenblumen- und Kräutergarten Toldern]]'
 created: 2026-08-09

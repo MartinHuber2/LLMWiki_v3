@@ -3,7 +3,6 @@ type: permanent
 tags:
 - geisteswissenschaften/geschichte
 - geisteswissenschaften/geschichte/rechtsgeschichte
-related:
 - '[[Reichsreform von 1495]]'
 - '[[Gemeiner Pfennig]]'
 - '[[Die Reichsreform von 1495]]'

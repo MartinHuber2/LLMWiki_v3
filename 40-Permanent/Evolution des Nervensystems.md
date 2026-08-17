@@ -7,11 +7,6 @@ summary: Die Gehirnevolution folgt einer 'Informationsrevolution' im Kambrium un
   zeigt den Übergang von verteilten zu zentralisierten Nervensystemen; das gemeinsame
   neuronale Grundgerüst legt einen einzigen Ursprung nahe.
 tier: core
-related:
-- '[[Fossile Hirne des Kambriums]]'
-- '[[Ursprung der Nervensysteme]]'
-- '[[Gehirn als zentraler Verarbeitungshub]]'
-- '[[Kambrium-Explosion]]'
 Rel_AI: 2
 Rel_User: null
 provenance:
@@ -21,6 +16,12 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Fossile Hirne des Kambriums]]'
+    - '[[Ursprung der Nervensysteme]]'
+    - '[[Gehirn als zentraler Verarbeitungshub]]'
+    - '[[Kambrium-Explosion]]'
 ---
 
 # Evolution des Nervensystems

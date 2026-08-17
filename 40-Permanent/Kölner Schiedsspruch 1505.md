@@ -3,7 +3,6 @@ type: permanent
 tags:
 - geisteswissenschaften/geschichte
 - geisteswissenschaften/geschichte/rechtsgeschichte
-related:
 - '[[Landshuter Erbfolgekrieg]]'
 - '[[Junge Pfalz]]'
 - '[[Maximilians Gebietsgewinne im Landshuter Erbfolgekrieg]]'

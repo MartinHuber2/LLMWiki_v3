@@ -8,11 +8,6 @@ summary: Asymmetrie im Erwachsenentier ist meist eine bewusste, teure Abweichung
   die sich aktive Überschreibung des billigen Spiegel-Standards späteren symmetrischen
   Vorfahren aufgesetzt — vom Plattfisch bis zum Narwal.
 tier: supporting
-related:
-- '[[Bilaterale Symmetrie]]'
-- '[[Symmetrie als sparsames genetisches Encoding]]'
-- '[[Situs inversus]]'
-- '[[Sekundäre Radialsymmetrie der Echinodermen]]'
 Rel_AI: 3
 Rel_User: null
 provenance:
@@ -22,6 +17,12 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Bilaterale Symmetrie]]'
+    - '[[Symmetrie als sparsames genetisches Encoding]]'
+    - '[[Situs inversus]]'
+    - '[[Sekundäre Radialsymmetrie der Echinodermen]]'
 ---
 
 # Asymmetrie als abgeleitetes Merkmal

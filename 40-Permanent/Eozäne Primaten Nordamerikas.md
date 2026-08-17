@@ -7,11 +7,6 @@ summary: 'Eozäne Primaten Nordamerikas: im warm-feuchten Wyoming des frühen Eo
   (56 Mio. Jahre) aufstrebend, eingeteilt in lemurenartige Adapoiden und spitzmausartige
   Omomyoiden — Vorfahren der heutigen Affen.'
 tier: core
-related:
-- '[[Omomyoiden]]'
-- '[[Anaptomorphine und Omomyine]]'
-- '[[Gebirge als Motoren der Biodiversität]]'
-- '[[How Mountains Make Evolution Weird]]'
 Rel_AI: 1
 Rel_User: null
 provenance:
@@ -21,6 +16,12 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Omomyoiden]]'
+    - '[[Anaptomorphine und Omomyine]]'
+    - '[[Gebirge als Motoren der Biodiversität]]'
+    - '[[How Mountains Make Evolution Weird]]'
 ---
 
 # Eozäne Primaten Nordamerikas

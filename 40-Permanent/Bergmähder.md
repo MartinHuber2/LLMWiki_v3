@@ -3,7 +3,6 @@ type: permanent
 tags:
 - biowissenschaften/botanik
 - geowissenschaften/regionen/tirol
-related:
 - '[[Schwaighöfe]]'
 - '[[Tiroler Grauvieh]]'
 - '[[Ethnobotanik im Schmirntal]]'

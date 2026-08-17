@@ -2,7 +2,6 @@
 type: moc
 tags:
 - geowissenschaften/geologie
-related:
 - '[[Tauernfenster]]'
 - '[[Alpine Deckentektonik]]'
 - '[[Alpine Metamorphose]]'

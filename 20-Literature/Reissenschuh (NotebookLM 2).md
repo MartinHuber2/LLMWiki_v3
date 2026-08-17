@@ -7,17 +7,18 @@ source-type: ai-chat
 source-ref: 10-Raw/Reissenschuh (NotebookLM 2).md
 author: 'NotebookLM (Auftrag: Nutzer)'
 year: 2026
-related:
-- '[[Reissenschuh-Rutschung]]'
-- '[[Monitoring gravitativer Hangdeformationen]]'
-- '[[Quellhydrochemie des Tauernfensters]]'
-- '[[Metamorphe Schieferhülle (Tauernfenster)]]'
-- '[[Tauernfenster]]'
-- '[[EMOD-SLAP]]'
-- '[[Reissenschuh (NotebookLM)]]'
 created: 2026-08-10
 updated: 2026-08-10
 status: auto
+links:
+  related:
+    - '[[Reissenschuh-Rutschung]]'
+    - '[[Monitoring gravitativer Hangdeformationen]]'
+    - '[[Quellhydrochemie des Tauernfensters]]'
+    - '[[Metamorphe Schieferhülle (Tauernfenster)]]'
+    - '[[Tauernfenster]]'
+    - '[[EMOD-SLAP]]'
+    - '[[Reissenschuh (NotebookLM)]]'
 ---
 
 # Reissenschuh (NotebookLM 2)

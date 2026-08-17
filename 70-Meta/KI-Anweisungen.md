@@ -88,6 +88,9 @@ Die KI meldet **selbstständig**, wenn das aktuell gewählte Modell für die Auf
 
 In allen diesen Fällen macht die KI einen konkreten Vorschlag, welches **andere, möglichst kostengünstige Modell** für die Aufgabe geeignet wäre, und begründet die Empfehlung knapp.
 
+### Proaktiver Vorschlag von System-Skills
+Die KI liest das zentrale Register [`70-Meta/System-Skills-Register.md`](file:///g:/Meine%20Ablage/Hidden/Synch/Obsidian/LLMWiki_V4/70-Meta/System-Skills-Register.md) und kennt alle dort aufgeführten externen Agenten-Skills (`C:\Users\Martin Huber\.agents\skills\`). Wann immer eine Aufgabe, ein Arbeitsablauf oder ein Vault-Zustand (z. B. Nachbearbeitung nach einem Ingest, Vault-Health-Check, Waisen-Notizen, Chatlog-Import, Synthese-Bedarf oder erweiterte Recherche) durch den Einsatz eines spezialisierten System-Skills (z. B. `wiki-lint`, `cross-linker`, `wiki-synthesize`, `wiki-dedup`, `wiki-research`, `wiki-query`, `wiki-history-ingest`) verbessert werden kann, **schlägt die KI dem Nutzer automatisch und proaktiv vor**, diesen Skill zu nutzen oder auszuführen.
+
 ### Commit- und Push-Vorschläge
 Die KI schlägt einen Git-Commit (und — sofern ein Remote konfiguriert ist — einen Push) **selten und nur zu passenden Zeitpunkten** vor. Zwischen zwei Commit-Vorschlägen müssen deutlich mehr Arbeitsschritte liegen — Richtwert: mindestens ~5 Arbeitsschritte oder ein klar abgeschlossener, zusammenhängender Arbeitsblock. Nach jedem einzelnen kleinen Arbeitsschritt (z.B. eine einzelne Dateiänderung, eine einzelne Regeländerung) wird **kein** Commit vorgeschlagen.
 
@@ -148,7 +151,16 @@ Bevor die KI eine Note erstellt, muss sie intern prüfen und bei Bedarf bestäti
 - **`tags`**: Ohne `#`-Zeichen (z.B. `- geowissenschaften/geologie`, nicht `- #geowissenschaften/geologie`). Ausnahmslos Kleinschreibung (`lower-kebab-case`). Ausrichtung an [`70-Meta/Tag-Taxonomie.md`](file:///g:/Meine%20Ablage/Hidden/Synch/Obsidian/LLMWiki_V4/70-Meta/Tag-Taxonomie.md).
   - **Hierarchische Domain-Tags**: Zur systematischen Einordnung des Wissensinhalts (z. B. `- geowissenschaften/geologie/tektonik`). Die KI muss primär bestehende Pfade aus `70-Meta/Tag-Taxonomie.md` verwenden.
   - **Nutzer-Tags (`u/`)**: Tags mit dem Präfix `u/` (z. B. `- u/urlaub/2026`, `- u/projekt-x`) sind Nutzer-Tags (flach oder hierarchisch). Sie stehen unter **KI-Löschschutz** (werden niemals gelöscht) und werden im Nutzer-Tag-Register von `70-Meta/Tag-Taxonomie.md` erfasst und bei passendem Ingest-Kontext proaktiv wiederverwendet.
-- **`related`**: Nur Links auf existierende Dateien
+- **`links:` (verschachtelte Beziehungen)**: Alle ausgehenden Verweise auf andere Notizen werden **ausschließlich** unter der übergeordneten Property `links:` verschachtelt. Die Unterpunkte entsprechen dem Beziehungstyp:
+  ```yaml
+  links:
+    uses:        # Diese Notiz nutzt/stützt sich auf ...
+    extends:     # Diese Notiz baut auf ... auf und erweitert sie
+    derived_from: # Diese Notiz ist aus ... abgeleitet
+    contradicts: # Diese Notiz widerspricht ...
+    related:     # Verwandte Notizen ohne gerichteten Typ
+  ```
+  Leere Unterlisten **weglassen** (nicht als `[]` eintragen). Nur Typen angeben, für die tatsächlich Verlinkungen bestehen. Nur Links auf **tatsächlich existierende Dateien**. Die alten Felder `related:` und `relationships:` auf Root-Ebene des Frontmatters sind **veraltet** und werden nicht mehr verwendet.
 - **`Rel_AI`** (kanonisches Feld; es gibt keine `Rel_KI`-Variante mehr): Zahlenwert von `1` bis `5`, nur von der KI gesetzt. Die Rel-Einschätzung dient nicht nur der Wichtigkeit, sondern als feste Lernreihenfolge: `1 = zentraler Grundbaustein / erster Lernschritt`, `2 = sehr relevant / wichtige Verbindung`, `3 = vertiefende, aber bereits bekannte Schicht`, `4 = eher Detail / Zusatzwissen`, `5 = marginales Detail / nur im Anschluss`. Die Reihenfolge ist verbindlich: Der Benutzer soll mit `Rel_AI = 1` starten, danach `2`, dann `3`, danach `4` und erst zuletzt `5`.
 - **`Rel_User`**: Analoges Feld, ebenfalls `1` bis `5`, aber von der KI **leer gelassen**. Der Nutzer kann es nach eigenem Urteil befüllen. Die Reihenfolge der Lernrelevanz gilt hier ebenfalls als Empfehlung: Der Nutzer kann gezielt zwischen Kernwissen und Detailniveau wechseln.
 - **Lernpfad-Regel**: Beim Ingest werden zentrale, grundlegende Konzepte bewusst als `Rel_AI: 1` markiert; Verbindungen und wesentliche Kontext-Notizen als `Rel_AI: 2`; vertiefende Argumentations- und Kausalitätsnotizen als `Rel_AI: 3`; fachlich spezialisierte Ergänzungen als `Rel_AI: 4`; einzelne Rand- oder Detailaspekte als `Rel_AI: 5`. Dadurch kann der Benutzer den Stoff in abgestuften Schritten von grob nach fein durchlaufen: zuerst die Grundbausteine, dann die Verbindungen, danach das Detail.
@@ -171,7 +183,9 @@ source-type: pdf | video | buch | ai-chat | artikel | sonstiges
 source-ref: ""
 author: ""
 year: ""
-related: []
+links:
+  uses: ["[[Zieldatei]]"]      # optional, nur wenn belegt
+  related: ["[[Zieldatei]]"]
 created: YYYY-MM-DD hh:mm:ss
 updated: YYYY-MM-DD hh:mm:ss
 status: auto
@@ -184,7 +198,9 @@ status: auto
 type: narrative
 tags: []
 sources: []
-related: []
+links:
+  extends: ["[[Zieldatei]]"]
+  related: ["[[Zieldatei]]"]
 created: YYYY-MM-DD hh:mm:ss
 updated: YYYY-MM-DD hh:mm:ss
 status: auto
@@ -196,7 +212,12 @@ status: auto
 ---
 type: permanent
 tags: []
-related: []
+links:
+  uses: ["[[Zieldatei]]"]
+  extends: ["[[Zieldatei]]"]
+  derived_from: ["[[Zieldatei]]"]
+  contradicts: ["[[Zieldatei]]"]
+  related: ["[[Zieldatei]]"]
 created: YYYY-MM-DD hh:mm:ss
 updated: YYYY-MM-DD hh:mm:ss
 status: auto
@@ -208,7 +229,8 @@ status: auto
 ---
 type: moc
 tags: []
-related: []
+links:
+  related: ["[[Zieldatei]]"]
 created: YYYY-MM-DD hh:mm:ss
 updated: YYYY-MM-DD hh:mm:ss
 ---

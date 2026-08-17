@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/palaeontologie
-related:
 - '[[Trilobiten]]'
 - '[[Körperbau der Trilobiten]]'
 - '[[Trilobiten als biostratigraphisches Werkzeug]]'

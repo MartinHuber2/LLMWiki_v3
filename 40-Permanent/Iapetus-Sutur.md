@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/geologie
-related:
 - '[[Wilson-Zyklus]]'
 - '[[Atlantische und Pazifische Faunen]]'
 - '[[Wie Trilobiten den Wilson-Zyklus aufdeckten]]'

@@ -7,10 +7,11 @@ tags:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
-related:
-- '[[Körperachsen der Tiere]]'
-- '[[Bilaterale Symmetrie]]'
-- '[[Radiale Symmetrie]]'
+links:
+  related:
+    - '[[Körperachsen der Tiere]]'
+    - '[[Bilaterale Symmetrie]]'
+    - '[[Radiale Symmetrie]]'
 ---
 
 # Symmetrie im Tierreich

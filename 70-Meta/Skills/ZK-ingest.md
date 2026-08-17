@@ -297,7 +297,7 @@ NotebookLM dient als Denkpartner: Der Nutzer diskutiert ein Thema mit NotebookLM
 ### Gesamtprozess
 
 1. **Vault-Inventar bereitstellen**: Das Skript `vault-inventar.py` (`60-PARA/Resources/Skripte/`) erzeugt `Vault-Inventar.md` — eine aggregierte Übersicht aller Notizen, die NotebookLM als Quelle in sein Notebook geladen bekommt.
-2. **NotebookLM-Session starten**: Der Nutzer fügt den Setup-Prompt (`60-PARA/Resources/NotebookLM Prompt.md`) zu Beginn der Session ein. Er erklärt NotebookLM das Vault-Konzept, das `/produce`-Kommando und die Ausgaberegeln.
+2. **NotebookLM-Session starten**: Der Nutzer fügt den Setup-Prompt (`60-PARA/Resources/NotebookLM Ingester.md`) zu Beginn der Session ein. Er erklärt NotebookLM das Vault-Konzept, das `/produce`-Kommando und die Ausgaberegeln.
 3. **Thema diskutieren**: Der Nutzer chattet mit NotebookLM, um das gewünschte Thema zu erkunden und den Output zu definieren.
 4. **Produktion auslösen**: Bei `/produce` erzeugt NotebookLM einen vollständigen, selbsterklärenden Text — **ideal mit `## Überschriften` strukturiert**, da nur so präzise Q-Verweise (`#Überschrift`) möglich sind. Passt er nicht in eine Ausgabe: `(Fortsetzung folgt — bitte 'continue' eingeben)`.
 5. **Output speichern**: Der gesamte Fließtext wird als `.md`-Datei in `10-Raw/Waiting_For_Ingestion/` abgelegt (`source-type: ai-chat`).
@@ -310,6 +310,7 @@ NotebookLM dient als Denkpartner: Der Nutzer diskutiert ein Thema mit NotebookLM
   - `($"Beschreibung")` → `[^1]: Beschreibung`
   - `($"[Titel](url)")` → `[^1]: [Titel](url)`
   - Die Fußnoten werden am Ende der jeweiligen Notiz gesammelt.
+- **Alias-Wikilinks im ai-chat-Output**: Enthält der NotebookLM-Output Alias-Wikilinks `[[Dateiname|Anzeigetext]]` auf bestehende Vault-Notizen (Konvention aus `Vault-Fulltext.md`), werden diese beim Ingest validiert: Existiert die referenzierte Datei, bleibt der Link — mit dem Anzeigetext als grammatikalisch angepasstem Fließtext (`[[...|Anzeigetext]]`). Existiert die Datei nicht, wird der Link aufgelöst: Der Anzeigetext bleibt als Klartext im Fließtext stehen (No-Broken-Links-Regel). Der Anzeigetext ist verbindlich, da nur er den Satz semantisch und grammatikalisch korrekt hält.
 
 ### Continue-Artefakte
 

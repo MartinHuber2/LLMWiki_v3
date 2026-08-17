@@ -3,8 +3,12 @@ type: narrative
 tags: []
 sources: []
 summary: ""
-related: []
-relationships: []
+links:
+  uses: []
+  extends: []
+  derived_from: []
+  contradicts: []
+  related: []
 Rel_AI: 2
 Rel_User:
 # Lernpfad: 1 = zentraler Grundbaustein; 2 = wichtige Verbindung; 3 = vertiefende Wiederholung; 4 = Detail; 5 = Randaspekt

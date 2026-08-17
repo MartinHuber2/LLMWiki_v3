@@ -4,7 +4,6 @@ tags:
 - geisteswissenschaften/geschichte
 - geowissenschaften/regionen/tirol
 - geisteswissenschaften/geschichte/militaergeschichte
-related:
 - '[[Innschifffahrt als militärischer Transportweg]]'
 - '[[Plätten und Schiffszug]]'
 - '[[Hall in Tirol als Zentrum der Militärschifffahrt]]'

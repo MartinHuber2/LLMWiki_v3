@@ -3,7 +3,6 @@ type: moc
 tags:
 - geisteswissenschaften/geschichte
 - geisteswissenschaften/geschichte/militaergeschichte
-related:
 - '[[Wittelsbacher Hausvertrag von Pavia]]'
 - '[[Reichsacht]]'
 - '[[Kölner Schiedsspruch 1505]]'

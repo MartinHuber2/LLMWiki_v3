@@ -5,7 +5,7 @@
       "tags": false,
       "properties": true,
       "property-key": false,
-      "links": false,
+      "links": true,
       "linksSameColorAsNode": false,
       "folders": false,
       "imagesFromProperty": false,
@@ -24,7 +24,7 @@
       "tags": false,
       "properties": true,
       "property-key": false,
-      "links": false,
+      "links": true,
       "linksSameColorAsNode": false,
       "folders": false,
       "imagesFromProperty": false,
@@ -62,8 +62,8 @@
       "colormap": "rainbow",
       "colors": [
         {
-          "type": "",
-          "color": "#ffff00"
+          "type": "related",
+          "color": "#ff0000"
         }
       ],
       "unselected": [],
@@ -432,15 +432,15 @@
   "collapsedSettings": {
     "automation": false,
     "tags": false,
-    "properties": true,
-    "links": true,
+    "properties": false,
+    "links": false,
     "arrows": true,
     "folders": true,
     "images": true,
     "icons": true,
     "focus": true,
     "shapes": true,
-    "layers": true,
+    "layers": false,
     "elements-stats": true,
     "names": true,
     "zoom": false,

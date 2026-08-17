@@ -4,27 +4,14 @@ tags:
 - geisteswissenschaften/paedagogik
 - gesellschaft/medien
 - gesellschaft/digitalisierung
+links:
+  derived_from: ["'[[Mediatisierung und Digitalisierung]]'", "'[[Seamless Learning]]'", "'[[Vernetzung, Mobilität und Mit-Gestaltung]]'", "'[[Mediatisierung als Metaprozess]]'"]
 source-type: pdf
 source-ref: 1_TFLE1 Bildung in der digitalisierten Gesellschaft.pdf
 author: Claudia de Witt, Claudia Grüner, Heike Karolyi, Christian Leineweber, Patrycja
   Psyk, Silke Wrede
 year: ''
 tier: supporting
-related:
-- '[[Mediatisierung und Digitalisierung]]'
-- '[[Seamless Learning]]'
-- '[[Bildung in einer vernetzten und mediatisierten Lebenswelt]]'
-- '[[Vernetzung, Mobilität und Mit-Gestaltung]]'
-- '[[Mediatisierung als Metaprozess]]'
-relationships:
-- target: '[[Mediatisierung und Digitalisierung]]'
-  type: derived_from
-- target: '[[Seamless Learning]]'
-  type: derived_from
-- target: '[[Vernetzung, Mobilität und Mit-Gestaltung]]'
-  type: derived_from
-- target: '[[Mediatisierung als Metaprozess]]'
-  type: derived_from
 Rel_AI: 1
 Rel_User: null
 provenance:
@@ -34,6 +21,13 @@ provenance:
 created: 2026-08-15 15:30:00
 updated: 2026-08-15 15:30:00
 status: auto
+links:
+  related:
+    - '[[Mediatisierung und Digitalisierung]]'
+    - '[[Seamless Learning]]'
+    - '[[Bildung in einer vernetzten und mediatisierten Lebenswelt]]'
+    - '[[Vernetzung, Mobilität und Mit-Gestaltung]]'
+    - '[[Mediatisierung als Metaprozess]]'
 ---
 
 # Bildung in der digitalisierten Gesellschaft

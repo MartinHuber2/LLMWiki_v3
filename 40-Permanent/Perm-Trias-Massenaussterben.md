@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/palaeontologie
-related:
 - '[[Trilobiten]]'
 - '[[Ordovizium-Silur-Extinktion]]'
 - '[[Spätdevon-Extinktion]]'

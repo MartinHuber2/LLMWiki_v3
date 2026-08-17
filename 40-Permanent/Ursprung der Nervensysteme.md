@@ -7,11 +7,6 @@ summary: 'Die ersten Nervensysteme entstanden im Ediacarium (~625 Mio. Jahre, mo
   datiert) aus der Kooption äußerer chemischer Sensorik: elektrochemische Signalgebung
   einzelliger Vorfahren wurde zur inneren Informationsübertragung.'
 tier: core
-related:
-- '[[Evolution des Nervensystems]]'
-- '[[Choanoflagellaten]]'
-- '[[Molekulare Uhr]]'
-- '[[Gehirn als zentraler Verarbeitungshub]]'
 Rel_AI: 1
 Rel_User: null
 provenance:
@@ -21,6 +16,12 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Evolution des Nervensystems]]'
+    - '[[Choanoflagellaten]]'
+    - '[[Molekulare Uhr]]'
+    - '[[Gehirn als zentraler Verarbeitungshub]]'
 ---
 
 # Ursprung der Nervensysteme

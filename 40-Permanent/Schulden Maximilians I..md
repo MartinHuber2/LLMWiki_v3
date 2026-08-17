@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geisteswissenschaften/geschichte
-related:
 - '[[Maximilians Selbstinszenierung]]'
 - '[[Maximilians Selbstinszenierung als letzter Ritter]]'
 - '[[Habsburgische Heiratspolitik]]'

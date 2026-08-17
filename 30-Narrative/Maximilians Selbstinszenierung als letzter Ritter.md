@@ -4,7 +4,6 @@ tags:
 - geisteswissenschaften/geschichte
 sources:
 - '[[Maximilian I. (Wikipedia)]]'
-related:
 - '[[Maximilians Selbstinszenierung]]'
 - '[[Erwählter Römischer Kaiser]]'
 - '[[Collegium poetarum et mathematicorum]]'

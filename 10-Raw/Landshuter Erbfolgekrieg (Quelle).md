@@ -2,10 +2,12 @@
 title: Landshuter Erbfolgekrieg
 source: https://de.wikipedia.org/wiki/Landshuter_Erbfolgekrieg
 author:
-- '[[Wikipedia]]'
 published: 2003-12-24
 created: 2026-08-08
 description: null
+links:
+  related:
+    - '[[Wikipedia]]'
 tags:
 - meta/clippings
 ---

@@ -5,7 +5,6 @@ tags:
 sources:
 - '[[Tauern Window (Field Guide)]]'
 - '[[Tauernfenster (Exkursion Pfitschtal)]]'
-related:
 - '[[Tauernfenster]]'
 - '[[Alpine Deckentektonik]]'
 - '[[Slab Breakoff und Exhumation]]'

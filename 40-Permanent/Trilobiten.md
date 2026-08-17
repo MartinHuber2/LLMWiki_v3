@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/palaeontologie
-related:
 - '[[Enrollierung]]'
 - '[[Evolutionäres Wettrüsten]]'
 - '[[Ordovizium-Silur-Extinktion]]'

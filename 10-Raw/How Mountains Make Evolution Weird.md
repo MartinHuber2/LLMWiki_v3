@@ -2,12 +2,14 @@
 title: How Mountains Make Evolution Weird
 source: https://www.youtube.com/watch?v=C6koLzdSves
 author:
-- '[[PBS Eons]]'
 published: 2025-02-11
 created: 2026-08-15
 description: Mountains have a unique effect on diversity, messing with our understanding
   of animals through time, and pretty much just making evolution weird. And they would
   eventually reveal something even strang
+links:
+  related:
+    - '[[PBS Eons]]'
 tags:
 - meta/clippings
 ---

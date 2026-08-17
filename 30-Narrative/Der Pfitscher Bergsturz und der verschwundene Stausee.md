@@ -7,15 +7,16 @@ sources:
 - '[[Tauernfenster (Exkursion Pfitschtal)]]'
 summary: Vom Bergsturz zum 8-km-Stausee und seiner katastrophalen Entleerung um 1100
   n. Chr. — eine Katastrophengeschichte, die im Pfitschtal bis heute lesbar bleibt.
-related:
-- '[[Pfitscher Bergsturz]]'
-- '[[Tauernfenster]]'
-- '[[Metamorphe Schieferhülle (Tauernfenster)]]'
-- '[[Gravitative Kaskadenprozesse am Reissenschuh]]'
-- '[[Schmirntal]]'
 created: 2026-08-10
 updated: 2026-08-10
 status: auto
+links:
+  related:
+    - '[[Pfitscher Bergsturz]]'
+    - '[[Tauernfenster]]'
+    - '[[Metamorphe Schieferhülle (Tauernfenster)]]'
+    - '[[Gravitative Kaskadenprozesse am Reissenschuh]]'
+    - '[[Schmirntal]]'
 ---
 
 # Der Pfitscher Bergsturz und der verschwundene Stausee

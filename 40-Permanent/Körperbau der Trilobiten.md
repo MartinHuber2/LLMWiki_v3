@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/palaeontologie
-related:
 - '[[Trilobiten]]'
 - '[[Facettenaugen der Trilobiten]]'
 - '[[Gesichtsnaht und Häutung der Trilobiten]]'

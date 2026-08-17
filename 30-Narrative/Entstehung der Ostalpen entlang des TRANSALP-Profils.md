@@ -4,7 +4,6 @@ tags:
 - geowissenschaften/geologie
 sources:
 - '[[Tauern Window (Field Guide)]]'
-related:
 - '[[Penninisch-Ligurischer Ozean]]'
 - '[[Eoalpine Orogenese]]'
 - '[[Alpine Deckentektonik]]'

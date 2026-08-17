@@ -10,19 +10,6 @@ year: 2026
 summary: 'Warum über 99 % aller Tierarten symmetrisch gebaut sind: Symmetrie ist keine
   biologische Voreinstellung, sondern eine Folge der Achsen, an denen sich Leben orientiert.'
 tier: core
-related:
-- '[[Bilaterale Symmetrie]]'
-- '[[Radiale Symmetrie]]'
-- '[[Körperachsen der Tiere]]'
-- '[[Symmetrie als Konsequenz der Bewegung]]'
-- '[[Cephalisation]]'
-- '[[Hox-Gene]]'
-- '[[Links-Rechts-Festlegung]]'
-- '[[Bilateria]]'
-- '[[Asymmetrie als abgeleitetes Merkmal]]'
-relationships:
-- '{target: "[[Asymmetrie als abgeleitetes Merkmal]]", type: extends}'
-- '{target: "[[Symmetrie als Konsequenz der Bewegung]]", type: derived_from}'
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
@@ -30,6 +17,17 @@ provenance:
   extracted: 0.85
   inferred: 0.12
   ambiguous: 0.03
+links:
+  related:
+    - '[[Bilaterale Symmetrie]]'
+    - '[[Radiale Symmetrie]]'
+    - '[[Körperachsen der Tiere]]'
+    - '[[Symmetrie als Konsequenz der Bewegung]]'
+    - '[[Cephalisation]]'
+    - '[[Hox-Gene]]'
+    - '[[Links-Rechts-Festlegung]]'
+    - '[[Bilateria]]'
+    - '[[Asymmetrie als abgeleitetes Merkmal]]'
 ---
 
 # Warum 99% aller Tiere symmetrisch sind

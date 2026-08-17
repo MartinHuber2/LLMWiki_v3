@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/geologie
-related:
 - '[[Wilson-Zyklus]]'
 - '[[Wie Trilobiten den Wilson-Zyklus aufdeckten]]'
 created: 2026-08-08

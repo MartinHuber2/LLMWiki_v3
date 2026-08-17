@@ -5,10 +5,6 @@ tags:
 summary: Ein Nervensystem ist ein Netzwerk aus Neuronen, das elektrische Signale überträgt
   und Informationen durch den Körper trägt; es geht dem Gehirn voraus.
 tier: core
-related:
-- '[[Neuronen-Netz]]'
-- '[[Gehirn als zentraler Verarbeitungshub]]'
-- '[[Ursprung der Nervensysteme]]'
 Rel_AI: 2
 Rel_User: null
 provenance:
@@ -18,6 +14,11 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Neuronen-Netz]]'
+    - '[[Gehirn als zentraler Verarbeitungshub]]'
+    - '[[Ursprung der Nervensysteme]]'
 ---
 
 # Nervensystem

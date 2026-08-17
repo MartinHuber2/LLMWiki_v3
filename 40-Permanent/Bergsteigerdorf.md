@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/regionen/tirol
-related:
 - '[[Alpenblumen- und Kräutergarten Toldern]]'
 - '[[Molybdänbergwerk Alpeiner Scharte]]'
 - '[[Tiroler Grauvieh]]'

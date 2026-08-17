@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/geologie
-related:
 - '[[Metamorphe Schieferhülle (Tauernfenster)]]'
 - '[[Monitoring gravitativer Hangdeformationen]]'
 - '[[Tauernfenster]]'

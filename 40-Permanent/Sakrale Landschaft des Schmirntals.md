@@ -3,7 +3,6 @@ type: permanent
 tags:
 - geisteswissenschaften/geschichte
 - geowissenschaften/regionen/tirol
-related:
 - '[[Schwaighöfe]]'
 - '[[Totenweg über das Tuxer Joch]]'
 created: 2026-08-09

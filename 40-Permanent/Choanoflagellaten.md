@@ -6,8 +6,6 @@ tags:
 summary: Choanoflagellaten sind koloniale Einzeller, die eine primitive elektrische
   Signalgebung nutzen — ein Modell für die Vorstufe der ersten Nervensysteme.
 tier: peripheral
-related:
-- '[[Ursprung der Nervensysteme]]'
 Rel_AI: 4
 Rel_User: null
 provenance:
@@ -17,6 +15,9 @@ provenance:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
+links:
+  related:
+    - '[[Ursprung der Nervensysteme]]'
 ---
 
 # Choanoflagellaten

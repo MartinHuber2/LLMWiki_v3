@@ -2,16 +2,11 @@
 type: permanent
 tags:
 - geowissenschaften/geologie
+links:
+  related_to: ["'[[Zerrklüfte]]'"]
 summary: Permisches Konglomerat, das als 'unreifes' Sediment mit kurzen Transportwegen
   auf tektonischen Graben oder ariden Schuttfächer schließen lässt.
 tier: supporting
-related:
-- '[[Tauernfenster]]'
-- '[[Zerrklüfte]]'
-- '[[Furtschaglschiefer]]'
-relationships:
-- target: '[[Zerrklüfte]]'
-  type: related_to
 provenance:
   extracted: 0.85
   inferred: 0.15
@@ -19,6 +14,11 @@ provenance:
 created: 2026-08-10
 updated: 2026-08-10
 status: auto
+links:
+  related:
+    - '[[Tauernfenster]]'
+    - '[[Zerrklüfte]]'
+    - '[[Furtschaglschiefer]]'
 ---
 
 # Konglomeratgneis

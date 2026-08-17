@@ -7,10 +7,11 @@ tags:
 created: 2026-08-15 20:54:54
 updated: 2026-08-15 20:54:54
 status: auto
-related:
-- '[[Nervensystem]]'
-- '[[Ursprung der Nervensysteme]]'
-- '[[Gehirne brauchen Muskeln]]'
+links:
+  related:
+    - '[[Nervensystem]]'
+    - '[[Ursprung der Nervensysteme]]'
+    - '[[Gehirne brauchen Muskeln]]'
 ---
 
 # Evolution der Gehirne

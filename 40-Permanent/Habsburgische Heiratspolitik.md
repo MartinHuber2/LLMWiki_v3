@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geisteswissenschaften/geschichte
-related:
 - '[[Burgundisches Erbe Maximilians]]'
 - '[[Habsburgisch-französischer Gegensatz]]'
 - '[[Pressburger Vertrag 1491]]'

@@ -4,7 +4,6 @@ tags:
 - geisteswissenschaften/geschichte
 sources:
 - '[[Maximilian I. (Wikipedia)]]'
-related:
 - '[[Burgundisches Erbe Maximilians]]'
 - '[[Habsburgisch-französischer Gegensatz]]'
 - '[[Habsburgische Heiratspolitik]]'

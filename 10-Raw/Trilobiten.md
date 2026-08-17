@@ -2,10 +2,12 @@
 title: Trilobiten
 source: https://de.wikipedia.org/wiki/Trilobiten
 author:
-- '[[Wikipedia]]'
 published: 2004-01-11
 created: 2026-08-08
 description: null
+links:
+  related:
+    - '[[Wikipedia]]'
 tags:
 - meta/clippings
 ---

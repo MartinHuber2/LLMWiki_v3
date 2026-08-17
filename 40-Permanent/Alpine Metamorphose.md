@@ -2,7 +2,6 @@
 type: permanent
 tags:
 - geowissenschaften/geologie
-related:
 - '[[Tauernfenster]]'
 - '[[Brenner-Normalverwerfung]]'
 - '[[Alpine Deckentektonik]]'

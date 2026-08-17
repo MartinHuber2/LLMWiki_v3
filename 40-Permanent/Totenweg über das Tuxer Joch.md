@@ -3,7 +3,6 @@ type: permanent
 tags:
 - geisteswissenschaften/geschichte
 - geowissenschaften/regionen/tirol
-related:
 - '[[Tuxer Joch]]'
 - '[[Schwaighöfe]]'
 created: 2026-08-09
