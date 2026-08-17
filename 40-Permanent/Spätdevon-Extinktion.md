@@ -1,12 +1,12 @@
 ---
 type: permanent
 tags:
-  - Paläontologie
+- geowissenschaften/palaeontologie
 related:
-  - "[[Trilobiten]]"
-  - "[[Ordovizium-Silur-Extinktion]]"
-  - "[[Perm-Trias-Massenaussterben]]"
-  - "[[Evolutionäres Wettrüsten]]"
+- '[[Trilobiten]]'
+- '[[Ordovizium-Silur-Extinktion]]'
+- '[[Perm-Trias-Massenaussterben]]'
+- '[[Evolutionäres Wettrüsten]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

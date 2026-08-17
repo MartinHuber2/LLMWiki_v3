@@ -1,17 +1,17 @@
 ---
 type: narrative
 tags:
-  - Paläontologie
+- geowissenschaften/palaeontologie
 sources:
-  - "[[The Trouble With Trilobites]]"
+- '[[The Trouble With Trilobites]]'
 related:
-  - "[[Trilobiten]]"
-  - "[[Enrollierung]]"
-  - "[[Evolutionäres Wettrüsten]]"
-  - "[[Ordovizium-Silur-Extinktion]]"
-  - "[[Spätdevon-Extinktion]]"
-  - "[[Perm-Trias-Massenaussterben]]"
-  - "[[Trilobiten als Reliktgruppe]]"
+- '[[Trilobiten]]'
+- '[[Enrollierung]]'
+- '[[Evolutionäres Wettrüsten]]'
+- '[[Ordovizium-Silur-Extinktion]]'
+- '[[Spätdevon-Extinktion]]'
+- '[[Perm-Trias-Massenaussterben]]'
+- '[[Trilobiten als Reliktgruppe]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

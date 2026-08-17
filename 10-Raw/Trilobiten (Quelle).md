@@ -1,13 +1,13 @@
 ---
-title: "Trilobiten"
-source: "https://de.wikipedia.org/wiki/Trilobiten"
+title: Trilobiten
+source: https://de.wikipedia.org/wiki/Trilobiten
 author:
-  - "[[Wikipedia]]"
+- '[[Wikipedia]]'
 published: 2004-01-11
 created: 2026-08-08
-description:
+description: null
 tags:
-  - "clippings"
+- meta/clippings
 ---
 Die **Trilobiten** (Trilobita, „Dreilapper“, von [altgriechisch](https://de.wikipedia.org/wiki/Altgriechische_Sprache "Altgriechische Sprache") τρία *tria* „drei“ und λοβός *lobós* „Lappen“) sind eine ausgestorbene [Klasse](https://de.wikipedia.org/wiki/Klasse_\(Biologie\) "Klasse (Biologie)") meeresbewohnender [Gliederfüßer](https://de.wikipedia.org/wiki/Gliederf%C3%BC%C3%9Fer "Gliederfüßer") (Arthropoda).
 

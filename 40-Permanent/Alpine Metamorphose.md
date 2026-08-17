@@ -1,13 +1,13 @@
 ---
 type: permanent
 tags:
-  - Geologie
+- geowissenschaften/geologie
 related:
-  - "[[Tauernfenster]]"
-  - "[[Brenner-Normalverwerfung]]"
-  - "[[Alpine Deckentektonik]]"
-  - "[[Slab Breakoff und Exhumation]]"
-  - "[[Das Tauernfenster als tektonisches Exhumationsfenster]]"
+- '[[Tauernfenster]]'
+- '[[Brenner-Normalverwerfung]]'
+- '[[Alpine Deckentektonik]]'
+- '[[Slab Breakoff und Exhumation]]'
+- '[[Das Tauernfenster als tektonisches Exhumationsfenster]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

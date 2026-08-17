@@ -1,32 +1,32 @@
 ---
 type: moc
 tags:
-  - Geologie
+- geowissenschaften/geologie
 related:
-  - "[[Tauernfenster]]"
-  - "[[Alpine Deckentektonik]]"
-  - "[[Alpine Metamorphose]]"
-  - "[[Brenner-Normalverwerfung]]"
-  - "[[Slab Breakoff und Exhumation]]"
-  - "[[Laterale Extrusion der Ostalpen]]"
-  - "[[Penninisch-Ligurischer Ozean]]"
-  - "[[Eoalpine Orogenese]]"
-  - "[[Tauern Window (Field Guide)]]"
-  - "[[Entstehung der Ostalpen entlang des TRANSALP-Profils]]"
-  - "[[Das Tauernfenster als tektonisches Exhumationsfenster]]"
-  - "[[Die Brenner-Normalverwerfung und die Exhumation der Ostalpen]]"
-  - "[[Wilson-Zyklus und Ozeanreinkarnation]]"
-  - "[[Reissenschuh (NotebookLM 2)]]"
-  - "[[EMOD-SLAP]]"
-  - "[[Tauernfenster (Exkursion Pfitschtal)]]"
-  - "[[Die Deformationsgeschichte des Tauernfensters in vier Phasen]]"
-  - "[[Der Pfitscher Bergsturz und der verschwundene Stausee]]"
-  - "[[Pfitscher Bergsturz]]"
-  - "[[Zerrklüfte]]"
-  - "[[Furtschaglschiefer]]"
-  - "[[Konglomeratgneis]]"
-  - "[[Geothermobarometrie]]"
-  - "[[Diskordanz am Pfitscher Joch]]"
+- '[[Tauernfenster]]'
+- '[[Alpine Deckentektonik]]'
+- '[[Alpine Metamorphose]]'
+- '[[Brenner-Normalverwerfung]]'
+- '[[Slab Breakoff und Exhumation]]'
+- '[[Laterale Extrusion der Ostalpen]]'
+- '[[Penninisch-Ligurischer Ozean]]'
+- '[[Eoalpine Orogenese]]'
+- '[[Tauern Window (Field Guide)]]'
+- '[[Entstehung der Ostalpen entlang des TRANSALP-Profils]]'
+- '[[Das Tauernfenster als tektonisches Exhumationsfenster]]'
+- '[[Die Brenner-Normalverwerfung und die Exhumation der Ostalpen]]'
+- '[[Wilson-Zyklus und Ozeanreinkarnation]]'
+- '[[Reissenschuh (NotebookLM 2)]]'
+- '[[EMOD-SLAP]]'
+- '[[Tauernfenster (Exkursion Pfitschtal)]]'
+- '[[Die Deformationsgeschichte des Tauernfensters in vier Phasen]]'
+- '[[Der Pfitscher Bergsturz und der verschwundene Stausee]]'
+- '[[Pfitscher Bergsturz]]'
+- '[[Zerrklüfte]]'
+- '[[Furtschaglschiefer]]'
+- '[[Konglomeratgneis]]'
+- '[[Geothermobarometrie]]'
+- '[[Diskordanz am Pfitscher Joch]]'
 created: 2026-08-09
 updated: 2026-08-10
 ---

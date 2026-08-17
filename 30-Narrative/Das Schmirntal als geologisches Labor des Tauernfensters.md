@@ -1,17 +1,17 @@
 ---
 type: narrative
 tags:
-  - Geologie
+- geowissenschaften/geologie
 sources:
-  - "[[Schmirn Podcasts]]"
+- '[[Schmirn Podcasts]]'
 related:
-  - "[[Tauernfenster]]"
-  - "[[Brenner-Normalverwerfung]]"
-  - "[[Metamorphe Schieferhülle (Tauernfenster)]]"
-  - "[[Reissenschuh-Rutschung]]"
-  - "[[Monitoring gravitativer Hangdeformationen]]"
-  - "[[Quellhydrochemie des Tauernfensters]]"
-  - "[[Das Tauernfenster als tektonisches Exhumationsfenster]]"
+- '[[Tauernfenster]]'
+- '[[Brenner-Normalverwerfung]]'
+- '[[Metamorphe Schieferhülle (Tauernfenster)]]'
+- '[[Reissenschuh-Rutschung]]'
+- '[[Monitoring gravitativer Hangdeformationen]]'
+- '[[Quellhydrochemie des Tauernfensters]]'
+- '[[Das Tauernfenster als tektonisches Exhumationsfenster]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

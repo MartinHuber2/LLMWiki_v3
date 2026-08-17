@@ -1,11 +1,11 @@
 ---
 type: permanent
 tags:
-  - Geschichte
-  - Tirol
+- geisteswissenschaften/geschichte
+- geowissenschaften/regionen/tirol
 related:
-  - "[[Bergsteigerdorf]]"
-  - "[[Tiroler Grauvieh]]"
+- '[[Bergsteigerdorf]]'
+- '[[Tiroler Grauvieh]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

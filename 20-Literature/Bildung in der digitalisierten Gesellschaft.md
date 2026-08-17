@@ -1,32 +1,32 @@
 ---
 type: literature
 tags:
-  - Bildung
-  - Medien
-  - Digitalisierung
+- geisteswissenschaften/paedagogik
+- gesellschaft/medien
+- gesellschaft/digitalisierung
 source-type: pdf
-source-ref: "1_TFLE1 Bildung in der digitalisierten Gesellschaft.pdf"
-author: "Claudia de Witt, Claudia Grüner, Heike Karolyi, Christian Leineweber, Patrycja Psyk, Silke Wrede"
-year: ""
-summary: "Der Studienbrief unterscheidet Digitalisierung und Mediatisierung und zeigt, wie Bildung unter den Bedingungen digitaler Medien als lebenslanger, vernetzter und selbstgesteuerter Prozess verstanden werden muss."
+source-ref: 1_TFLE1 Bildung in der digitalisierten Gesellschaft.pdf
+author: Claudia de Witt, Claudia Grüner, Heike Karolyi, Christian Leineweber, Patrycja
+  Psyk, Silke Wrede
+year: ''
 tier: supporting
 related:
-  - "[[Mediatisierung und Digitalisierung]]"
-  - "[[Seamless Learning]]"
-  - "[[Bildung in einer vernetzten und mediatisierten Lebenswelt]]"
-  - "[[Vernetzung, Mobilität und Mit-Gestaltung]]"
-  - "[[Mediatisierung als Metaprozess]]"
+- '[[Mediatisierung und Digitalisierung]]'
+- '[[Seamless Learning]]'
+- '[[Bildung in einer vernetzten und mediatisierten Lebenswelt]]'
+- '[[Vernetzung, Mobilität und Mit-Gestaltung]]'
+- '[[Mediatisierung als Metaprozess]]'
 relationships:
-  - target: "[[Mediatisierung und Digitalisierung]]"
-    type: derived_from
-  - target: "[[Seamless Learning]]"
-    type: derived_from
-  - target: "[[Vernetzung, Mobilität und Mit-Gestaltung]]"
-    type: derived_from
-  - target: "[[Mediatisierung als Metaprozess]]"
-    type: derived_from
+- target: '[[Mediatisierung und Digitalisierung]]'
+  type: derived_from
+- target: '[[Seamless Learning]]'
+  type: derived_from
+- target: '[[Vernetzung, Mobilität und Mit-Gestaltung]]'
+  type: derived_from
+- target: '[[Mediatisierung als Metaprozess]]'
+  type: derived_from
 Rel_AI: 1
-Rel_User:
+Rel_User: null
 provenance:
   extracted: 0.8
   inferred: 0.15
@@ -35,6 +35,9 @@ created: 2026-08-15 15:30:00
 updated: 2026-08-15 15:30:00
 status: auto
 ---
+
+# Bildung in der digitalisierten Gesellschaft
+> Dieser Studienbrief untersucht Bildung als lebenslangen, vernetzten Prozess in digitalen Kontexten. Er unterscheidet zwischen Digitalisierung (technische Infrastruktur) und Mediatisierung (gesellschaftliche Durchdringung durch Medien) und zeigt, wie Bildung nicht mehr an feste Institutionen gebunden ist, sondern als „Seamless Learning“ Alltag, Arbeit und Freizeit verbindet. Zentrale Themen sind Selbstverantwortung, Partizipation und die Rolle digitaler Medien als Gestaltungsräume für Lernende.
 
 # Bildung in der digitalisierten Gesellschaft
 

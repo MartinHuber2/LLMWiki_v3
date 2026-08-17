@@ -1,15 +1,15 @@
 ---
 type: narrative
 tags:
-  - Geschichte
-  - Rechtsgeschichte
-  - Tirol
+- geisteswissenschaften/geschichte
+- geisteswissenschaften/geschichte/rechtsgeschichte
+- geowissenschaften/regionen/tirol
 sources:
-  - "[[Truppen- und Gefangenentransporte auf dem Inn]]"
+- '[[Truppen- und Gefangenentransporte auf dem Inn]]'
 related:
-  - "[[Galeerenstrafe]]"
-  - "[[Wilhelm Biener]]"
-  - "[[Innschifffahrt als militärischer Transportweg]]"
+- '[[Galeerenstrafe]]'
+- '[[Wilhelm Biener]]'
+- '[[Innschifffahrt als militärischer Transportweg]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

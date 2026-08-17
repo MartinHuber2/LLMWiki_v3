@@ -1,12 +1,12 @@
 ---
 type: permanent
 tags:
-  - Paläontologie
+- geowissenschaften/palaeontologie
 related:
-  - "[[Trilobiten]]"
-  - "[[Perm-Trias-Massenaussterben]]"
-  - "[[Trilobiten als Zeugen der Evolution]]"
-  - "[[Der Niedergang der Trilobiten]]"
+- '[[Trilobiten]]'
+- '[[Perm-Trias-Massenaussterben]]'
+- '[[Trilobiten als Zeugen der Evolution]]'
+- '[[Der Niedergang der Trilobiten]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

@@ -1,13 +1,13 @@
 ---
 type: narrative
 tags:
-  - Geologie
+- geowissenschaften/geologie
 sources:
-  - "[[There's An Invisible Ocean Between These Fossils]]"
+- '[[There''s An Invisible Ocean Between These Fossils]]'
 related:
-  - "[[Wilson-Zyklus]]"
-  - "[[Iapetus-Sutur]]"
-  - "[[Kontinentaldrift]]"
+- '[[Wilson-Zyklus]]'
+- '[[Iapetus-Sutur]]'
+- '[[Kontinentaldrift]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

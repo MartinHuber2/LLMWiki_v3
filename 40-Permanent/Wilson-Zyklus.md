@@ -1,12 +1,12 @@
 ---
 type: permanent
 tags:
-  - Geologie
+- geowissenschaften/geologie
 related:
-  - "[[Iapetus-Sutur]]"
-  - "[[Kontinentaldrift]]"
-  - "[[Die acht Phasen des Wilson-Zyklus]]"
-  - "[[Wie Trilobiten den Wilson-Zyklus aufdeckten]]"
+- '[[Iapetus-Sutur]]'
+- '[[Kontinentaldrift]]'
+- '[[Die acht Phasen des Wilson-Zyklus]]'
+- '[[Wie Trilobiten den Wilson-Zyklus aufdeckten]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

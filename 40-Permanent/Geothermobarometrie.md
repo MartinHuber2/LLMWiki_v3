@@ -1,17 +1,18 @@
 ---
 type: permanent
 tags:
-  - Geologie
-summary: "Mineralindikatoren, Mischkristall-Gleichgewichte und radiometrische Uhren rekonstruieren den Druck-Temperatur-Zeit-Pfad versenkter Gesteine."
+- geowissenschaften/geologie
+summary: Mineralindikatoren, Mischkristall-Gleichgewichte und radiometrische Uhren
+  rekonstruieren den Druck-Temperatur-Zeit-Pfad versenkter Gesteine.
 tier: supporting
 related:
-  - "[[Alpine Metamorphose]]"
-  - "[[Tauernfenster]]"
-  - "[[Das Tauernfenster als tektonisches Exhumationsfenster]]"
-  - "[[Zerrklüfte]]"
+- '[[Alpine Metamorphose]]'
+- '[[Tauernfenster]]'
+- '[[Das Tauernfenster als tektonisches Exhumationsfenster]]'
+- '[[Zerrklüfte]]'
 relationships:
-  - target: "[[Alpine Metamorphose]]"
-    type: extends
+- target: '[[Alpine Metamorphose]]'
+  type: extends
 provenance:
   extracted: 0.8
   inferred: 0.2

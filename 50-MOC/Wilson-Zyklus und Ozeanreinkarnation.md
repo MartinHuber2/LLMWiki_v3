@@ -1,18 +1,18 @@
 ---
 type: moc
 tags:
-  - Geologie
-  - Paläontologie
+- geowissenschaften/geologie
+- geowissenschaften/palaeontologie
 related:
-  - "[[Wilson-Zyklus]]"
-  - "[[Iapetus-Sutur]]"
-  - "[[Atlantische und Pazifische Faunen]]"
-  - "[[Kontinentaldrift]]"
-  - "[[Trilobiten als biostratigraphisches Werkzeug]]"
-  - "[[John Tuzo Wilson]]"
-  - "[[Wie Trilobiten den Wilson-Zyklus aufdeckten]]"
-  - "[[Die acht Phasen des Wilson-Zyklus]]"
-  - "[[There's An Invisible Ocean Between These Fossils]]"
+- '[[Wilson-Zyklus]]'
+- '[[Iapetus-Sutur]]'
+- '[[Atlantische und Pazifische Faunen]]'
+- '[[Kontinentaldrift]]'
+- '[[Trilobiten als biostratigraphisches Werkzeug]]'
+- '[[John Tuzo Wilson]]'
+- '[[Wie Trilobiten den Wilson-Zyklus aufdeckten]]'
+- '[[Die acht Phasen des Wilson-Zyklus]]'
+- '[[There''s An Invisible Ocean Between These Fossils]]'
 created: 2026-08-08
 updated: 2026-08-08
 ---

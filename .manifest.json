@@ -73,10 +73,93 @@
                                                                                                               ],
                                                                                            "source_type":  "pdf",
                                                                                            "project":  null
-                                                                                       }
+                                                                                       },
+"10-Raw/17_TFLE1 Bildung in der digitalisierten Gesellschaft.pdf":  {
+                                                                                            "content_hash":  "sha256:3A3354BEB71815131A591694CDDB8BF37C76C8E89B34FA5D512AACD575480A87",
+                                                                                            "last_ingested":  "2026-08-15T16:06:00",
+                                                                                            "pages_produced":  [
+                                                                                                                   "20-Literature/Bildung in der digitalisierten Gesellschaft.md",
+                                                                                                                   "30-Narrative/Bildung in einer vernetzten und mediatisierten Lebenswelt.md",
+                                                                                                                   "40-Permanent/Mediatisierung und Digitalisierung.md",
+                                                                                                                   "40-Permanent/Seamless Learning.md"
+                                                                                                               ],
+                                                                                            "source_type":  "pdf",
+                                                                                            "project":  null
+                                                                                        },
+                    "10-Raw/Why 99% Of Animals Are Symmetrical (And Why 1% Aren't).md":  {
+                                                                                           "content_hash":  "sha256:397BDE58C96865DE98FFAD8A9BE9EAA195628E0622932C1BF8A2888EEE784C10",
+                                                                                           "last_ingested":  "2026-08-15T20:54:54",
+                                                                                           "pages_produced":  [
+                                                                                                                  "20-Literature/Warum 99% aller Tiere symmetrisch sind.md",
+                                                                                                                  "30-Narrative/Wie ein Embryo aus eigener Kraft symmetrisch wird.md",
+                                                                                                                  "30-Narrative/Symmetrie als Konsequenz weniger Achsen.md",
+                                                                                                                  "30-Narrative/Asymmetrie als bewusste Abweichung vom billigen Standard.md",
+                                                                                                                  "40-Permanent/Körperachsen der Tiere.md",
+                                                                                                                  "40-Permanent/Bilaterale Symmetrie.md",
+                                                                                                                  "40-Permanent/Radiale Symmetrie.md",
+                                                                                                                  "40-Permanent/Cephalisation.md",
+                                                                                                                  "40-Permanent/Hox-Gene.md",
+                                                                                                                  "40-Permanent/Links-Rechts-Festlegung.md",
+                                                                                                                  "40-Permanent/Nodal-Cilien.md",
+                                                                                                                  "40-Permanent/Situs inversus.md",
+                                                                                                                  "40-Permanent/Bilateria.md",
+                                                                                                                  "40-Permanent/Ikaria wutjita.md",
+                                                                                                                  "40-Permanent/Sekundäre Radialsymmetrie der Echinodermen.md",
+                                                                                                                  "40-Permanent/Symmetrie als sparsames genetisches Encoding.md",
+                                                                                                                  "40-Permanent/Symmetrie als Konsequenz der Bewegung.md",
+                                                                                                                  "40-Permanent/Asymmetrie als abgeleitetes Merkmal.md",
+                                                                                                                  "40-Permanent/Cnidarier.md",
+                                                                                                                  "50-MOC/Symmetrie im Tierreich.md"
+                                                                                                              ],
+"source_type":  "video",
+                                                                                            "project":  null
+                                                                                        },
+                    "10-Raw/How Mountains Make Evolution Weird.md":  {
+                                                                       "content_hash":  "sha256:39E82270A770BCEE7E565B5B6D45FD569FDB27F2BF958C0ABD9C8669FF74AEB9",
+                                                                       "last_ingested":  "2026-08-15T20:54:54",
+                                                                       "pages_produced":  [
+                                                                                              "20-Literature/How Mountains Make Evolution Weird.md",
+                                                                                              "30-Narrative/Wie Gebirge die Evolutionsgeschichte schreiben.md",
+                                                                                              "40-Permanent/Gebirge als Motoren der Biodiversität.md",
+                                                                                              "40-Permanent/Speziation durch Habitatvariation.md",
+                                                                                              "40-Permanent/Refugia.md",
+                                                                                              "40-Permanent/Eozäne Primaten Nordamerikas.md",
+                                                                                              "40-Permanent/Omomyoiden.md",
+                                                                                              "40-Permanent/Anaptomorphine und Omomyine.md",
+                                                                                              "40-Permanent/Multituberculata.md",
+                                                                                              "40-Permanent/Time-Averaging in Sedimenten.md",
+                                                                                              "40-Permanent/Adapoidea.md",
+                                                                                              "50-MOC/Eozäne Primaten und Gebirgsdiversität.md"
+                                                                                          ],
+                                                                       "source_type":  "video",
+                                                                       "project":  null
+                                                                   },
+                    "10-Raw/How Brawn Led to Brains.md":  {
+                                                            "content_hash":  "sha256:AA801E36F8BB86B320D54BFB7580E45BA2BAC247166B146B420BDE1FA63FC8AF",
+                                                            "last_ingested":  "2026-08-15T20:54:54",
+                                                            "pages_produced":  [
+                                                                                   "20-Literature/How Brawn Led to Brains.md",
+                                                                                   "30-Narrative/Wie Muskeln zu Gehirnen führten.md",
+                                                                                   "40-Permanent/Gehirn als zentraler Verarbeitungshub.md",
+                                                                                   "40-Permanent/Ursprung der Nervensysteme.md",
+                                                                                   "40-Permanent/Evolution des Nervensystems.md",
+                                                                                   "40-Permanent/Fossile Hirne des Kambriums.md",
+                                                                                   "40-Permanent/Kambrium-Explosion.md",
+                                                                                   "40-Permanent/Burgess Shale.md",
+                                                                                   "40-Permanent/Molekulare Uhr.md",
+                                                                                   "40-Permanent/Choanoflagellaten.md",
+                                                                                   "40-Permanent/Haootia.md",
+                                                                                   "40-Permanent/Gehirne brauchen Muskeln.md",
+                                                                                   "40-Permanent/Nervensystem.md",
+                                                                                   "40-Permanent/Neuronen-Netz.md",
+                                                                                   "50-MOC/Evolution der Gehirne.md"
+                                                                               ],
+                                                            "source_type":  "video",
+                                                            "project":  null
+                                                        }
                 },
-    "stats":  {
-                  "total_sources_ingested":  6,
-                  "total_pages":  25
+"stats":  {
+                  "total_sources_ingested":  10,
+                  "total_pages":  78
               }
 }

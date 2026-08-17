@@ -1,13 +1,13 @@
 ---
 type: narrative
 tags:
-  - Archäologie
+- geisteswissenschaften/archaeologie
 sources:
-  - "[[Schmirn Podcasts]]"
+- '[[Schmirn Podcasts]]'
 related:
-  - "[[Bergkristallbergbau am Riepenkar]]"
-  - "[[Bergkristallstraße]]"
-  - "[[Tuxer Joch]]"
+- '[[Bergkristallbergbau am Riepenkar]]'
+- '[[Bergkristallstraße]]'
+- '[[Tuxer Joch]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

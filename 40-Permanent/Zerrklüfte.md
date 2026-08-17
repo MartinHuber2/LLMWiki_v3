@@ -1,17 +1,18 @@
 ---
 type: permanent
 tags:
-  - Geologie
-summary: "Dehnungsklüfte der Hebungsphase: öffnen sich Ost-West, füllen sich mit Mineralien, deren Temperaturfolge die Deformationsgeschichte datiert."
+- geowissenschaften/geologie
+summary: 'Dehnungsklüfte der Hebungsphase: öffnen sich Ost-West, füllen sich mit Mineralien,
+  deren Temperaturfolge die Deformationsgeschichte datiert.'
 tier: supporting
 related:
-  - "[[Tauernfenster]]"
-  - "[[Laterale Extrusion der Ostalpen]]"
-  - "[[Geothermobarometrie]]"
-  - "[[Alpine Metamorphose]]"
+- '[[Tauernfenster]]'
+- '[[Laterale Extrusion der Ostalpen]]'
+- '[[Geothermobarometrie]]'
+- '[[Alpine Metamorphose]]'
 relationships:
-  - target: "[[Laterale Extrusion der Ostalpen]]"
-    type: related_to
+- target: '[[Laterale Extrusion der Ostalpen]]'
+  type: related_to
 provenance:
   extracted: 0.85
   inferred: 0.15

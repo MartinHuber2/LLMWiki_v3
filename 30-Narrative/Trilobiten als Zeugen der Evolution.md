@@ -1,17 +1,17 @@
 ---
 type: narrative
 tags:
-  - Paläontologie
+- geowissenschaften/palaeontologie
 sources:
-  - "[[Trilobiten (Wikipedia)]]"
+- '[[Trilobiten (Wikipedia)]]'
 related:
-  - "[[Trilobiten]]"
-  - "[[Ursprung der Trilobiten]]"
-  - "[[Verwandtschaft der Trilobiten]]"
-  - "[[Trilobiten als Reliktgruppe]]"
-  - "[[Schwarmintelligenz bei Trilobiten]]"
-  - "[[Trilobiten als biostratigraphisches Werkzeug]]"
-  - "[[Trilobiten als Fossilgruppe]]"
+- '[[Trilobiten]]'
+- '[[Ursprung der Trilobiten]]'
+- '[[Verwandtschaft der Trilobiten]]'
+- '[[Trilobiten als Reliktgruppe]]'
+- '[[Schwarmintelligenz bei Trilobiten]]'
+- '[[Trilobiten als biostratigraphisches Werkzeug]]'
+- '[[Trilobiten als Fossilgruppe]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

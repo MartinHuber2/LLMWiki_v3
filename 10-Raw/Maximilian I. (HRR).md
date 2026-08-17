@@ -1,13 +1,13 @@
 ---
-title: "Maximilian I. (HRR)"
-source: "https://de.wikipedia.org/wiki/Maximilian_I._(HRR)"
+title: Maximilian I. (HRR)
+source: https://de.wikipedia.org/wiki/Maximilian_I._(HRR)
 author:
-  - "[[Wikipedia]]"
+- '[[Wikipedia]]'
 published: 2003-03-13
 created: 2026-08-09
-description:
+description: null
 tags:
-  - "clippings"
+- meta/clippings
 ---
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Albrecht_D%C3%BCrer_-_Portrait_of_Maximilian_I_-_Google_Art_Project.jpg/250px-Albrecht_D%C3%BCrer_-_Portrait_of_Maximilian_I_-_Google_Art_Project.jpg?utm_source=de.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
 

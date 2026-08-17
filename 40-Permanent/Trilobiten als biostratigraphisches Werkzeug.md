@@ -1,14 +1,14 @@
 ---
 type: permanent
 tags:
-  - Paläontologie
-  - Geologie
+- geowissenschaften/palaeontologie
+- geowissenschaften/geologie
 related:
-  - "[[Atlantische und Pazifische Faunen]]"
-  - "[[Trilobiten]]"
-  - "[[Wie Trilobiten den Wilson-Zyklus aufdeckten]]"
-  - "[[Ursprung der Trilobiten]]"
-  - "[[Ordnungen der Trilobiten]]"
+- '[[Atlantische und Pazifische Faunen]]'
+- '[[Trilobiten]]'
+- '[[Wie Trilobiten den Wilson-Zyklus aufdeckten]]'
+- '[[Ursprung der Trilobiten]]'
+- '[[Ordnungen der Trilobiten]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

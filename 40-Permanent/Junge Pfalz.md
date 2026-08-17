@@ -1,11 +1,11 @@
 ---
 type: permanent
 tags:
-  - Geschichte
+- geisteswissenschaften/geschichte
 related:
-  - "[[Landshuter Erbfolgekrieg]]"
-  - "[[Kölner Schiedsspruch 1505]]"
-  - "[[Der Kölner Schiedsspruch als territoriale Neuordnung]]"
+- '[[Landshuter Erbfolgekrieg]]'
+- '[[Kölner Schiedsspruch 1505]]'
+- '[[Der Kölner Schiedsspruch als territoriale Neuordnung]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

@@ -1,11 +1,11 @@
 ---
 type: permanent
 tags:
-  - Geschichte
-  - Tirol
+- geisteswissenschaften/geschichte
+- geowissenschaften/regionen/tirol
 related:
-  - "[[Tuxer Joch]]"
-  - "[[Schwaighöfe]]"
+- '[[Tuxer Joch]]'
+- '[[Schwaighöfe]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

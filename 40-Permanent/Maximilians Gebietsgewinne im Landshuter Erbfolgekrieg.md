@@ -1,13 +1,13 @@
 ---
 type: permanent
 tags:
-  - Geschichte
-  - Tirol
+- geisteswissenschaften/geschichte
+- geowissenschaften/regionen/tirol
 related:
-  - "[[Landshuter Erbfolgekrieg]]"
-  - "[[Belagerung von Kufstein 1504]]"
-  - "[[Innschifffahrt als militärischer Transportweg]]"
-  - "[[Der Kölner Schiedsspruch als territoriale Neuordnung]]"
+- '[[Landshuter Erbfolgekrieg]]'
+- '[[Belagerung von Kufstein 1504]]'
+- '[[Innschifffahrt als militärischer Transportweg]]'
+- '[[Der Kölner Schiedsspruch als territoriale Neuordnung]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

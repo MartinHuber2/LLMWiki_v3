@@ -1,14 +1,14 @@
 ---
 type: narrative
 tags:
-  - Geschichte
+- geisteswissenschaften/geschichte
 sources:
-  - "[[Maximilian I. (Wikipedia)]]"
+- '[[Maximilian I. (Wikipedia)]]'
 related:
-  - "[[Maximilians Selbstinszenierung]]"
-  - "[[Erwählter Römischer Kaiser]]"
-  - "[[Collegium poetarum et mathematicorum]]"
-  - "[[Schulden Maximilians I.]]"
+- '[[Maximilians Selbstinszenierung]]'
+- '[[Erwählter Römischer Kaiser]]'
+- '[[Collegium poetarum et mathematicorum]]'
+- '[[Schulden Maximilians I.]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

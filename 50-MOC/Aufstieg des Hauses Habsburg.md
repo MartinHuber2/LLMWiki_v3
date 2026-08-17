@@ -1,22 +1,22 @@
 ---
 type: moc
 tags:
-  - Geschichte
+- geisteswissenschaften/geschichte
 related:
-  - "[[Habsburgische Heiratspolitik]]"
-  - "[[Burgundisches Erbe Maximilians]]"
-  - "[[Habsburgisch-französischer Gegensatz]]"
-  - "[[Pressburger Vertrag 1491]]"
-  - "[[Wiener Doppelhochzeit 1515]]"
-  - "[[Erwählter Römischer Kaiser]]"
-  - "[[Maximilians Selbstinszenierung]]"
-  - "[[Schulden Maximilians I.]]"
-  - "[[Collegium poetarum et mathematicorum]]"
-  - "[[Aufstieg des Hauses Habsburg durch Heiratspolitik]]"
-  - "[[Maximilians Selbstinszenierung als letzter Ritter]]"
-  - "[[Maximilian I. (Wikipedia)]]"
-  - "[[Landshuter Erbfolgekrieg]]"
-  - "[[Inn und Militärtransport]]"
+- '[[Habsburgische Heiratspolitik]]'
+- '[[Burgundisches Erbe Maximilians]]'
+- '[[Habsburgisch-französischer Gegensatz]]'
+- '[[Pressburger Vertrag 1491]]'
+- '[[Wiener Doppelhochzeit 1515]]'
+- '[[Erwählter Römischer Kaiser]]'
+- '[[Maximilians Selbstinszenierung]]'
+- '[[Schulden Maximilians I.]]'
+- '[[Collegium poetarum et mathematicorum]]'
+- '[[Aufstieg des Hauses Habsburg durch Heiratspolitik]]'
+- '[[Maximilians Selbstinszenierung als letzter Ritter]]'
+- '[[Maximilian I. (Wikipedia)]]'
+- '[[Landshuter Erbfolgekrieg]]'
+- '[[Inn und Militärtransport]]'
 created: 2026-08-09
 updated: 2026-08-09
 ---

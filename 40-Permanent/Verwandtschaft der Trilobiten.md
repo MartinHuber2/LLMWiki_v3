@@ -1,11 +1,11 @@
 ---
 type: permanent
 tags:
-  - Paläontologie
+- geowissenschaften/palaeontologie
 related:
-  - "[[Trilobiten]]"
-  - "[[Körperbau der Trilobiten]]"
-  - "[[Ursprung der Trilobiten]]"
+- '[[Trilobiten]]'
+- '[[Körperbau der Trilobiten]]'
+- '[[Ursprung der Trilobiten]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

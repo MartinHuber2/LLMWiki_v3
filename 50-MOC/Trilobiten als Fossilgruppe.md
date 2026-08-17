@@ -1,27 +1,27 @@
 ---
 type: moc
 tags:
-  - Paläontologie
+- geowissenschaften/palaeontologie
 related:
-  - "[[Trilobiten]]"
-  - "[[Körperbau der Trilobiten]]"
-  - "[[Facettenaugen der Trilobiten]]"
-  - "[[Gesichtsnaht und Häutung der Trilobiten]]"
-  - "[[Entwicklung der Trilobiten]]"
-  - "[[Lebensweise der Trilobiten]]"
-  - "[[Ursprung der Trilobiten]]"
-  - "[[Verwandtschaft der Trilobiten]]"
-  - "[[Ordnungen der Trilobiten]]"
-  - "[[Schwarmintelligenz bei Trilobiten]]"
-  - "[[Trilobiten als Reliktgruppe]]"
-  - "[[Trilobiten als biostratigraphisches Werkzeug]]"
-  - "[[Enrollierung]]"
-  - "[[Evolutionäres Wettrüsten]]"
-  - "[[Ordovizium-Silur-Extinktion]]"
-  - "[[Spätdevon-Extinktion]]"
-  - "[[Perm-Trias-Massenaussterben]]"
-  - "[[Der Niedergang der Trilobiten]]"
-  - "[[Trilobiten als Zeugen der Evolution]]"
+- '[[Trilobiten]]'
+- '[[Körperbau der Trilobiten]]'
+- '[[Facettenaugen der Trilobiten]]'
+- '[[Gesichtsnaht und Häutung der Trilobiten]]'
+- '[[Entwicklung der Trilobiten]]'
+- '[[Lebensweise der Trilobiten]]'
+- '[[Ursprung der Trilobiten]]'
+- '[[Verwandtschaft der Trilobiten]]'
+- '[[Ordnungen der Trilobiten]]'
+- '[[Schwarmintelligenz bei Trilobiten]]'
+- '[[Trilobiten als Reliktgruppe]]'
+- '[[Trilobiten als biostratigraphisches Werkzeug]]'
+- '[[Enrollierung]]'
+- '[[Evolutionäres Wettrüsten]]'
+- '[[Ordovizium-Silur-Extinktion]]'
+- '[[Spätdevon-Extinktion]]'
+- '[[Perm-Trias-Massenaussterben]]'
+- '[[Der Niedergang der Trilobiten]]'
+- '[[Trilobiten als Zeugen der Evolution]]'
 created: 2026-08-08
 updated: 2026-08-08
 ---

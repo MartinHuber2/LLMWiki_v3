@@ -1,13 +1,15 @@
 ---
-title: "There's An Invisible Ocean Between These Fossils"
-source: "https://www.youtube.com/watch?v=BMJJoAtvHiY"
+title: There's An Invisible Ocean Between These Fossils
+source: https://www.youtube.com/watch?v=BMJJoAtvHiY
 author:
-  - "[[PBS Eons]]"
+- '[[PBS Eons]]'
 published: 2025-05-06
 created: 2026-08-08
-description: "This is the hundred-year tale of how an unlikely bunch of bottom-dwelling marine critters helped reveal that ocean basins are basically reincarnated every few hundred million years.*****PBS Member"
+description: This is the hundred-year tale of how an unlikely bunch of bottom-dwelling
+  marine critters helped reveal that ocean basins are basically reincarnated every
+  few hundred million years.*****PBS Member
 tags:
-  - "clippings"
+- meta/clippings
 ---
 ![](https://www.youtube.com/watch?v=BMJJoAtvHiY)
 

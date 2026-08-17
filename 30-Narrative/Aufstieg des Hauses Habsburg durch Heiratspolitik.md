@@ -1,15 +1,15 @@
 ---
 type: narrative
 tags:
-  - Geschichte
+- geisteswissenschaften/geschichte
 sources:
-  - "[[Maximilian I. (Wikipedia)]]"
+- '[[Maximilian I. (Wikipedia)]]'
 related:
-  - "[[Burgundisches Erbe Maximilians]]"
-  - "[[Habsburgisch-französischer Gegensatz]]"
-  - "[[Habsburgische Heiratspolitik]]"
-  - "[[Pressburger Vertrag 1491]]"
-  - "[[Wiener Doppelhochzeit 1515]]"
+- '[[Burgundisches Erbe Maximilians]]'
+- '[[Habsburgisch-französischer Gegensatz]]'
+- '[[Habsburgische Heiratspolitik]]'
+- '[[Pressburger Vertrag 1491]]'
+- '[[Wiener Doppelhochzeit 1515]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

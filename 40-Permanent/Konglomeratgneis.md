@@ -1,16 +1,17 @@
 ---
 type: permanent
 tags:
-  - Geologie
-summary: "Permisches Konglomerat, das als 'unreifes' Sediment mit kurzen Transportwegen auf tektonischen Graben oder ariden Schuttfächer schließen lässt."
+- geowissenschaften/geologie
+summary: Permisches Konglomerat, das als 'unreifes' Sediment mit kurzen Transportwegen
+  auf tektonischen Graben oder ariden Schuttfächer schließen lässt.
 tier: supporting
 related:
-  - "[[Tauernfenster]]"
-  - "[[Zerrklüfte]]"
-  - "[[Furtschaglschiefer]]"
+- '[[Tauernfenster]]'
+- '[[Zerrklüfte]]'
+- '[[Furtschaglschiefer]]'
 relationships:
-  - target: "[[Zerrklüfte]]"
-    type: related_to
+- target: '[[Zerrklüfte]]'
+  type: related_to
 provenance:
   extracted: 0.85
   inferred: 0.15

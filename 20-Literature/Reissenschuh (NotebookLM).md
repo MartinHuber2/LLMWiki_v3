@@ -1,22 +1,22 @@
 ---
 type: literature
 tags:
-  - Geologie
-  - Tirol
+- geowissenschaften/geologie
+- geowissenschaften/regionen/tirol
 source-type: ai-chat
-source-ref: "10-Raw/Reissenschuh.md"
-author: "NotebookLM (Auftrag: Nutzer)"
+source-ref: 10-Raw/Reissenschuh.md
+author: 'NotebookLM (Auftrag: Nutzer)'
 year: 2026
 related:
-  - "[[Reissenschuh-Rutschung]]"
-  - "[[Monitoring gravitativer Hangdeformationen]]"
-  - "[[Quellhydrochemie des Tauernfensters]]"
-  - "[[Metamorphe Schieferhülle (Tauernfenster)]]"
-  - "[[Gravitative Kaskadenprozesse am Reissenschuh]]"
-  - "[[Bergmähder]]"
-  - "[[Bergsteigerdorf]]"
-  - "[[Schmirn Podcasts]]"
-  - "[[Tauern Window (Field Guide)]]"
+- '[[Reissenschuh-Rutschung]]'
+- '[[Monitoring gravitativer Hangdeformationen]]'
+- '[[Quellhydrochemie des Tauernfensters]]'
+- '[[Metamorphe Schieferhülle (Tauernfenster)]]'
+- '[[Gravitative Kaskadenprozesse am Reissenschuh]]'
+- '[[Bergmähder]]'
+- '[[Bergsteigerdorf]]'
+- '[[Schmirn Podcasts]]'
+- '[[Tauern Window (Field Guide)]]'
 created: 2026-08-10
 updated: 2026-08-10
 status: auto

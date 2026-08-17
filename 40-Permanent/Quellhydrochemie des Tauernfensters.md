@@ -1,11 +1,12 @@
 ---
 type: permanent
 tags:
-  - Geologie
+- geowissenschaften/geologie
 related:
-  - "[[Tauernfenster]]"
-  - "[[Metamorphe Schieferhülle (Tauernfenster)]]"
-summary: "Quellwasser verrät die Fenster-Struktur: Arsen/Uran aus dem Zentralgneis-Basement, Kalktuffe als Stabilitätsindikatoren, rostrote Pyrit-Quellen."
+- '[[Tauernfenster]]'
+- '[[Metamorphe Schieferhülle (Tauernfenster)]]'
+summary: 'Quellwasser verrät die Fenster-Struktur: Arsen/Uran aus dem Zentralgneis-Basement,
+  Kalktuffe als Stabilitätsindikatoren, rostrote Pyrit-Quellen.'
 provenance:
   extracted: 0.85
   inferred: 0.15

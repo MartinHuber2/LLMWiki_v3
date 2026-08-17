@@ -1,15 +1,15 @@
 ---
 type: narrative
 tags:
-  - Geologie
+- geowissenschaften/geologie
 sources:
-  - "[[Tauern Window (Field Guide)]]"
+- '[[Tauern Window (Field Guide)]]'
 related:
-  - "[[Brenner-Normalverwerfung]]"
-  - "[[Tauernfenster]]"
-  - "[[Alpine Metamorphose]]"
-  - "[[Slab Breakoff und Exhumation]]"
-  - "[[Laterale Extrusion der Ostalpen]]"
+- '[[Brenner-Normalverwerfung]]'
+- '[[Tauernfenster]]'
+- '[[Alpine Metamorphose]]'
+- '[[Slab Breakoff und Exhumation]]'
+- '[[Laterale Extrusion der Ostalpen]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

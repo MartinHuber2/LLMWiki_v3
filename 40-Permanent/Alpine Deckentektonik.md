@@ -1,12 +1,12 @@
 ---
 type: permanent
 tags:
-  - Geologie
+- geowissenschaften/geologie
 related:
-  - "[[Eoalpine Orogenese]]"
-  - "[[Penninisch-Ligurischer Ozean]]"
-  - "[[Tauernfenster]]"
-  - "[[Entstehung der Ostalpen entlang des TRANSALP-Profils]]"
+- '[[Eoalpine Orogenese]]'
+- '[[Penninisch-Ligurischer Ozean]]'
+- '[[Tauernfenster]]'
+- '[[Entstehung der Ostalpen entlang des TRANSALP-Profils]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

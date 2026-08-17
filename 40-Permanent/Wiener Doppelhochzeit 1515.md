@@ -1,11 +1,11 @@
 ---
 type: permanent
 tags:
-  - Geschichte
+- geisteswissenschaften/geschichte
 related:
-  - "[[Pressburger Vertrag 1491]]"
-  - "[[Habsburgische Heiratspolitik]]"
-  - "[[Aufstieg des Hauses Habsburg durch Heiratspolitik]]"
+- '[[Pressburger Vertrag 1491]]'
+- '[[Habsburgische Heiratspolitik]]'
+- '[[Aufstieg des Hauses Habsburg durch Heiratspolitik]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

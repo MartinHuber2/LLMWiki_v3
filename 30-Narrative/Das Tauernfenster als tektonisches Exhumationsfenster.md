@@ -1,17 +1,18 @@
 ---
 type: narrative
 tags:
-  - Geologie
+- geowissenschaften/geologie
 sources:
-  - "[[Tauern Window (Field Guide)]]"
-  - "[[Tauernfenster (Exkursion Pfitschtal)]]"
+- '[[Tauern Window (Field Guide)]]'
+- '[[Tauernfenster (Exkursion Pfitschtal)]]'
 related:
-  - "[[Tauernfenster]]"
-  - "[[Alpine Deckentektonik]]"
-  - "[[Slab Breakoff und Exhumation]]"
-  - "[[Laterale Extrusion der Ostalpen]]"
-  - "[[Brenner-Normalverwerfung]]"
-summary: "Warum das Tauernfenster das größte tektonische Fenster der Alpen ist: Versenkung auf 35–40 km, Exhumation durch Slab Breakoff, Indentation und O-W-Extension."
+- '[[Tauernfenster]]'
+- '[[Alpine Deckentektonik]]'
+- '[[Slab Breakoff und Exhumation]]'
+- '[[Laterale Extrusion der Ostalpen]]'
+- '[[Brenner-Normalverwerfung]]'
+summary: 'Warum das Tauernfenster das größte tektonische Fenster der Alpen ist: Versenkung
+  auf 35–40 km, Exhumation durch Slab Breakoff, Indentation und O-W-Extension.'
 provenance:
   extracted: 0.9
   inferred: 0.1

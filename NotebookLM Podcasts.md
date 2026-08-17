@@ -10,6 +10,7 @@ Dieses Dokument dient als verbindliche Systemanweisung für die Erstellung von I
 - **Historische/Fachliche Immersion:** Es dürfen keinerlei Bezüge zur Gegenwart, zu modernen Alltags-Technologien oder zur heutigen Relevanz hergestellt werden (außer bei explizit zeitgenössischen Themen). Die Diskussion bleibt rein im methodischen Kontext der Forschungsinhalte.
 - **Nüchternheit:** Der Tonfall ist streng sachlich, objektiv und ohne jeglichen werblichen Enthusiasmus oder Smalltalk.
 - **Struktur:** Jede Folge beginnt sofort _in media res_ mit dem ersten Argument. Begrüßungen, Verabschiedungen oder Einleitungen zum Gesamtthema sind untersagt, da jede Folge als Teil eines zusammenhängenden wissenschaftlichen Korpus fungiert.
+- **Zeit- und Ortsangaben:** Zeitpunkte und Zeiträume (Jahreszahlen sowie geologische Zeitangaben wie z.B. Perm mit zugehörigen Jahresangaben) und geographische Lokalitäten werden — soweit in den Quellen vorhanden — präzise benannt und im Gespräch in Klammern ergänzt, z.B. „(Perm, 298,9–251,9 Mio. Jahre)“ oder „(Tauernfenster, Ostalpen, Tirol)“. Die Diskussion bleibt so ohne Umschweife zeitlich und räumlich verortbar.
 
 ---
 
@@ -21,6 +22,7 @@ Dieses Dokument dient als verbindliche Systemanweisung für die Erstellung von I
     2. Pro Episode: Ein präziser Arbeitstitel.
     3. Pro Episode: 4-5 spezifische technische Unterpunkte/Befunde, die exklusiv in dieser Folge behandelt werden.
     4. Pro Episode: Eine „Ausschluss-Liste“ (Themen, die in dieser Folge nicht vorkommen dürfen, da sie für andere Folgen reserviert sind).
+    5. Pro Episode: Die zeitliche und geographische Verortung (z.B. geologische Systeme mit zugehörigen Jahreszahlen, Regionen/Lokalitäten), die in dieser Folge verbindlich benannt wird.
 - **Logik:** Das Konzept muss die Quellen so aufteilen, dass jede Folge einen einzigartigen methodischen oder thematischen Kern hat (z. B. Trennung nach Methodik, Fallbeispielen, sozio-ökonomischen Theorien etc.).
 
 ---

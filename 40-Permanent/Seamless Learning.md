@@ -1,16 +1,14 @@
 ---
 type: permanent
 tags:
-  - Bildung
-  - Lernen
-  - Digitalisierung
-summary: "Seamless Learning beschreibt einen Bildungsprozess, der Schule, Freizeit, Arbeit und Alltag über digitale Medien hinweg verbindet und Lernen als mobilen, kontextübergreifenden Vorgang versteht."
+- geisteswissenschaften/paedagogik
+- gesellschaft/digitalisierung
 related:
-  - "[[Bildung in der digitalisierten Gesellschaft]]"
-  - "[[Bildung in einer vernetzten und mediatisierten Lebenswelt]]"
-  - "[[Mediatisierung und Digitalisierung]]"
+- '[[Bildung in der digitalisierten Gesellschaft]]'
+- '[[Bildung in einer vernetzten und mediatisierten Lebenswelt]]'
+- '[[Mediatisierung und Digitalisierung]]'
 Rel_AI: 2
-Rel_User:
+Rel_User: null
 provenance:
   extracted: 0.8
   inferred: 0.15
@@ -22,6 +20,9 @@ status: auto
 
 # Seamless Learning
 
+> Der Begriff „Seamless Learning“ beschreibt Bildung als kontextübergreifenden Prozess, der Schule, Freizeit und Arbeit verbindet. Digitale Medien ermöglichen ein mobiles, lebenslanges Lernen, das nicht an feste Orte oder Zeiten gebunden ist. Die Quelle betont die Selbststeuerung und Reflexion als Kernkompetenzen in digitalen Lebenswelten.
+
+# Seamless Learning
 Die Quelle verwendet den Begriff des Seamless Learning als Kernmodell für digitale Bildungsprozesse. Dadurch wird Lernen als durchgängiger, mobiler und kontextgebundener Prozess gedacht, der Schule, Freizeit, Arbeit und Alltag miteinander verbindet. Lernen verliert damit seine feste Verortung in einer einzelnen Institution oder in einer einzigen Zeitspanne [[10-Raw/1_TFLE1 Bildung in der digitalisierten Gesellschaft.pdf#page=11|Q1]].
 
 Seamless Learning meint nicht bloß, dass man überall über digitale Medien lernen kann. Es bedeutet vielmehr, dass Bildungsprozesse fließend zwischen verschiedenen Kontexten wechseln und sich an die Lebenswirklichkeit des Lernenden anpassen. Welche Lernform gerade relevant ist, hängt davon ab, was gerade gefragt ist, wo man sich befindet und welche Erfahrungen im Alltag gerade gemacht werden [[10-Raw/1_TFLE1 Bildung in der digitalisierten Gesellschaft.pdf#page=11|Q2]]. In diesem Sinne überschreitet digitales Lernen die Trennung von formalen und informellen Lernsettings. Die Bildung wird Teil einer durchgehenden Lebenspraxis, in der Medien, Alltag, Selbststeuerung und Reflexion zusammenlaufen [[10-Raw/1_TFLE1 Bildung in der digitalisierten Gesellschaft.pdf#page=12|Q3]].

@@ -1,17 +1,17 @@
 ---
 type: narrative
 tags:
-  - Geschichte
-  - Militärgeschichte
-  - Tirol
+- geisteswissenschaften/geschichte
+- geisteswissenschaften/geschichte/militaergeschichte
+- geowissenschaften/regionen/tirol
 sources:
-  - "[[Truppen- und Gefangenentransporte auf dem Inn]]"
+- '[[Truppen- und Gefangenentransporte auf dem Inn]]'
 related:
-  - "[[Innschifffahrt als militärischer Transportweg]]"
-  - "[[Plätten und Schiffszug]]"
-  - "[[Hall in Tirol als Zentrum der Militärschifffahrt]]"
-  - "[[Truppendurchzüge und Plünderungen]]"
-  - "[[Belagerung von Kufstein 1504]]"
+- '[[Innschifffahrt als militärischer Transportweg]]'
+- '[[Plätten und Schiffszug]]'
+- '[[Hall in Tirol als Zentrum der Militärschifffahrt]]'
+- '[[Truppendurchzüge und Plünderungen]]'
+- '[[Belagerung von Kufstein 1504]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

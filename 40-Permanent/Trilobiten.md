@@ -1,19 +1,19 @@
 ---
 type: permanent
 tags:
-  - Paläontologie
+- geowissenschaften/palaeontologie
 related:
-  - "[[Enrollierung]]"
-  - "[[Evolutionäres Wettrüsten]]"
-  - "[[Ordovizium-Silur-Extinktion]]"
-  - "[[Spätdevon-Extinktion]]"
-  - "[[Perm-Trias-Massenaussterben]]"
-  - "[[Körperbau der Trilobiten]]"
-  - "[[Lebensweise der Trilobiten]]"
-  - "[[Ursprung der Trilobiten]]"
-  - "[[Ordnungen der Trilobiten]]"
-  - "[[Trilobiten als Reliktgruppe]]"
-  - "[[Trilobiten als biostratigraphisches Werkzeug]]"
+- '[[Enrollierung]]'
+- '[[Evolutionäres Wettrüsten]]'
+- '[[Ordovizium-Silur-Extinktion]]'
+- '[[Spätdevon-Extinktion]]'
+- '[[Perm-Trias-Massenaussterben]]'
+- '[[Körperbau der Trilobiten]]'
+- '[[Lebensweise der Trilobiten]]'
+- '[[Ursprung der Trilobiten]]'
+- '[[Ordnungen der Trilobiten]]'
+- '[[Trilobiten als Reliktgruppe]]'
+- '[[Trilobiten als biostratigraphisches Werkzeug]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

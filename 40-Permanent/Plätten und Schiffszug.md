@@ -1,12 +1,12 @@
 ---
 type: permanent
 tags:
-  - Geschichte
-  - Tirol
-  - Inn
+- geisteswissenschaften/geschichte
+- geowissenschaften/regionen/tirol
+- geowissenschaften/hydrologie
 related:
-  - "[[Innschifffahrt als militärischer Transportweg]]"
-  - "[[Hall in Tirol als Zentrum der Militärschifffahrt]]"
+- '[[Innschifffahrt als militärischer Transportweg]]'
+- '[[Hall in Tirol als Zentrum der Militärschifffahrt]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

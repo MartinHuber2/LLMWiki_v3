@@ -1,14 +1,14 @@
 ---
 type: permanent
 tags:
-  - Geologie
+- geowissenschaften/geologie
 related:
-  - "[[Alpine Deckentektonik]]"
-  - "[[Alpine Metamorphose]]"
-  - "[[Brenner-Normalverwerfung]]"
-  - "[[Slab Breakoff und Exhumation]]"
-  - "[[Laterale Extrusion der Ostalpen]]"
-  - "[[Das Tauernfenster als tektonisches Exhumationsfenster]]"
+- '[[Alpine Deckentektonik]]'
+- '[[Alpine Metamorphose]]'
+- '[[Brenner-Normalverwerfung]]'
+- '[[Slab Breakoff und Exhumation]]'
+- '[[Laterale Extrusion der Ostalpen]]'
+- '[[Das Tauernfenster als tektonisches Exhumationsfenster]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

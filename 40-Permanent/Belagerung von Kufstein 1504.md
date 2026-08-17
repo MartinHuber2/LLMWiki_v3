@@ -1,14 +1,14 @@
 ---
 type: permanent
 tags:
-  - Geschichte
-  - Militärgeschichte
-  - Tirol
+- geisteswissenschaften/geschichte
+- geisteswissenschaften/geschichte/militaergeschichte
+- geowissenschaften/regionen/tirol
 related:
-  - "[[Innschifffahrt als militärischer Transportweg]]"
-  - "[[Truppendurchzüge und Plünderungen]]"
-  - "[[Maximilians Gebietsgewinne im Landshuter Erbfolgekrieg]]"
-  - "[[Landshuter Erbfolgekrieg]]"
+- '[[Innschifffahrt als militärischer Transportweg]]'
+- '[[Truppendurchzüge und Plünderungen]]'
+- '[[Maximilians Gebietsgewinne im Landshuter Erbfolgekrieg]]'
+- '[[Landshuter Erbfolgekrieg]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

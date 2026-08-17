@@ -1,13 +1,13 @@
 ---
 type: permanent
 tags:
-  - Geologie
+- geowissenschaften/geologie
 related:
-  - "[[Metamorphe Schieferhülle (Tauernfenster)]]"
-  - "[[Monitoring gravitativer Hangdeformationen]]"
-  - "[[Tauernfenster]]"
-  - "[[Tiroler Grauvieh]]"
-  - "[[EMOD-SLAP]]"
+- '[[Metamorphe Schieferhülle (Tauernfenster)]]'
+- '[[Monitoring gravitativer Hangdeformationen]]'
+- '[[Tauernfenster]]'
+- '[[Tiroler Grauvieh]]'
+- '[[EMOD-SLAP]]'
 created: 2026-08-09
 updated: 2026-08-10
 status: auto

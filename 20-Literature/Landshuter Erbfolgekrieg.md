@@ -1,21 +1,21 @@
 ---
 type: literature
 tags:
-  - Geschichte
-  - Militärgeschichte
+- geisteswissenschaften/geschichte
+- geisteswissenschaften/geschichte/militaergeschichte
 source-type: artikel
-source-ref: "10-Raw/Landshuter Erbfolgekrieg.md"
-author: "Wikipedia"
-year: ""
+source-ref: 10-Raw/Landshuter Erbfolgekrieg.md
+author: Wikipedia
+year: ''
 related:
-  - "[[Wittelsbacher Hausvertrag von Pavia]]"
-  - "[[Reichsacht]]"
-  - "[[Kölner Schiedsspruch 1505]]"
-  - "[[Junge Pfalz]]"
-  - "[[Maximilians Gebietsgewinne im Landshuter Erbfolgekrieg]]"
-  - "[[Belagerung von Kufstein 1504]]"
-  - "[[Ursachen des Landshuter Erbfolgekriegs]]"
-  - "[[Der Kölner Schiedsspruch als territoriale Neuordnung]]"
+- '[[Wittelsbacher Hausvertrag von Pavia]]'
+- '[[Reichsacht]]'
+- '[[Kölner Schiedsspruch 1505]]'
+- '[[Junge Pfalz]]'
+- '[[Maximilians Gebietsgewinne im Landshuter Erbfolgekrieg]]'
+- '[[Belagerung von Kufstein 1504]]'
+- '[[Ursachen des Landshuter Erbfolgekriegs]]'
+- '[[Der Kölner Schiedsspruch als territoriale Neuordnung]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

@@ -1,18 +1,18 @@
 ---
 type: moc
 tags:
-  - Geschichte
-  - Militärgeschichte
+- geisteswissenschaften/geschichte
+- geisteswissenschaften/geschichte/militaergeschichte
 related:
-  - "[[Wittelsbacher Hausvertrag von Pavia]]"
-  - "[[Reichsacht]]"
-  - "[[Kölner Schiedsspruch 1505]]"
-  - "[[Junge Pfalz]]"
-  - "[[Maximilians Gebietsgewinne im Landshuter Erbfolgekrieg]]"
-  - "[[Ursachen des Landshuter Erbfolgekriegs]]"
-  - "[[Der Kölner Schiedsspruch als territoriale Neuordnung]]"
-  - "[[Belagerung von Kufstein 1504]]"
-  - "[[Landshuter Erbfolgekrieg (Wikipedia)]]"
+- '[[Wittelsbacher Hausvertrag von Pavia]]'
+- '[[Reichsacht]]'
+- '[[Kölner Schiedsspruch 1505]]'
+- '[[Junge Pfalz]]'
+- '[[Maximilians Gebietsgewinne im Landshuter Erbfolgekrieg]]'
+- '[[Ursachen des Landshuter Erbfolgekriegs]]'
+- '[[Der Kölner Schiedsspruch als territoriale Neuordnung]]'
+- '[[Belagerung von Kufstein 1504]]'
+- '[[Landshuter Erbfolgekrieg (Wikipedia)]]'
 created: 2026-08-08
 updated: 2026-08-09
 ---

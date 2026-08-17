@@ -1,16 +1,16 @@
 ---
 type: narrative
 tags:
-  - Geschichte
+- geisteswissenschaften/geschichte
 sources:
-  - "[[Landshuter Erbfolgekrieg]]"
+- '[[Landshuter Erbfolgekrieg]]'
 related:
-  - "[[Wittelsbacher Hausvertrag von Pavia]]"
-  - "[[Reichsacht]]"
-  - "[[Kölner Schiedsspruch 1505]]"
-  - "[[Junge Pfalz]]"
-  - "[[Maximilians Gebietsgewinne im Landshuter Erbfolgekrieg]]"
-  - "[[Belagerung von Kufstein 1504]]"
+- '[[Wittelsbacher Hausvertrag von Pavia]]'
+- '[[Reichsacht]]'
+- '[[Kölner Schiedsspruch 1505]]'
+- '[[Junge Pfalz]]'
+- '[[Maximilians Gebietsgewinne im Landshuter Erbfolgekrieg]]'
+- '[[Belagerung von Kufstein 1504]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

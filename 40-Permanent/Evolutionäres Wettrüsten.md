@@ -1,11 +1,11 @@
 ---
 type: permanent
 tags:
-  - Paläontologie
+- geowissenschaften/palaeontologie
 related:
-  - "[[Trilobiten]]"
-  - "[[Enrollierung]]"
-  - "[[Ordovizium-Silur-Extinktion]]"
+- '[[Trilobiten]]'
+- '[[Enrollierung]]'
+- '[[Ordovizium-Silur-Extinktion]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

@@ -1,14 +1,14 @@
 ---
 type: permanent
 tags:
-  - Geschichte
-  - Militärgeschichte
-  - Tirol
+- geisteswissenschaften/geschichte
+- geisteswissenschaften/geschichte/militaergeschichte
+- geowissenschaften/regionen/tirol
 related:
-  - "[[Plätten und Schiffszug]]"
-  - "[[Hall in Tirol als Zentrum der Militärschifffahrt]]"
-  - "[[Belagerung von Kufstein 1504]]"
-  - "[[Truppendurchzüge und Plünderungen]]"
+- '[[Plätten und Schiffszug]]'
+- '[[Hall in Tirol als Zentrum der Militärschifffahrt]]'
+- '[[Belagerung von Kufstein 1504]]'
+- '[[Truppendurchzüge und Plünderungen]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

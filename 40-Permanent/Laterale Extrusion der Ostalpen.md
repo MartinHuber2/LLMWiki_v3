@@ -1,13 +1,13 @@
 ---
 type: permanent
 tags:
-  - Geologie
+- geowissenschaften/geologie
 related:
-  - "[[Tauernfenster]]"
-  - "[[Brenner-Normalverwerfung]]"
-  - "[[Slab Breakoff und Exhumation]]"
-  - "[[Alpine Deckentektonik]]"
-  - "[[Entstehung der Ostalpen entlang des TRANSALP-Profils]]"
+- '[[Tauernfenster]]'
+- '[[Brenner-Normalverwerfung]]'
+- '[[Slab Breakoff und Exhumation]]'
+- '[[Alpine Deckentektonik]]'
+- '[[Entstehung der Ostalpen entlang des TRANSALP-Profils]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

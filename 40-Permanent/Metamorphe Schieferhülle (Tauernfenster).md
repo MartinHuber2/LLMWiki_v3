@@ -1,14 +1,15 @@
 ---
 type: permanent
 tags:
-  - Geologie
+- geowissenschaften/geologie
 related:
-  - "[[Tauernfenster]]"
-  - "[[Alpine Metamorphose]]"
-  - "[[Brenner-Normalverwerfung]]"
-  - "[[Reissenschuh-Rutschung]]"
-  - "[[Quellhydrochemie des Tauernfensters]]"
-summary: "Kalkglimmerschiefer, Phyllite und Greiner Schiefer — das weiche Fundament des Schmirntals, das aus den Resten des Penninischen Ozeans hervorging."
+- '[[Tauernfenster]]'
+- '[[Alpine Metamorphose]]'
+- '[[Brenner-Normalverwerfung]]'
+- '[[Reissenschuh-Rutschung]]'
+- '[[Quellhydrochemie des Tauernfensters]]'
+summary: Kalkglimmerschiefer, Phyllite und Greiner Schiefer — das weiche Fundament
+  des Schmirntals, das aus den Resten des Penninischen Ozeans hervorging.
 provenance:
   extracted: 0.9
   inferred: 0.1

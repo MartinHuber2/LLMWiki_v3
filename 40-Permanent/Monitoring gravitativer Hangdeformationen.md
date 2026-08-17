@@ -1,11 +1,11 @@
 ---
 type: permanent
 tags:
-  - Geologie
+- geowissenschaften/geologie
 related:
-  - "[[Reissenschuh-Rutschung]]"
-  - "[[Metamorphe Schieferhülle (Tauernfenster)]]"
-  - "[[EMOD-SLAP]]"
+- '[[Reissenschuh-Rutschung]]'
+- '[[Metamorphe Schieferhülle (Tauernfenster)]]'
+- '[[EMOD-SLAP]]'
 created: 2026-08-09
 updated: 2026-08-10
 status: auto

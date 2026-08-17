@@ -1,12 +1,12 @@
 ---
 type: permanent
 tags:
-  - Geologie
+- geowissenschaften/geologie
 related:
-  - "[[Tauernfenster]]"
-  - "[[Alpine Metamorphose]]"
-  - "[[Laterale Extrusion der Ostalpen]]"
-  - "[[Die Brenner-Normalverwerfung und die Exhumation der Ostalpen]]"
+- '[[Tauernfenster]]'
+- '[[Alpine Metamorphose]]'
+- '[[Laterale Extrusion der Ostalpen]]'
+- '[[Die Brenner-Normalverwerfung und die Exhumation der Ostalpen]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

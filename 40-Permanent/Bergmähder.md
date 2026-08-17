@@ -1,12 +1,12 @@
 ---
 type: permanent
 tags:
-  - Botanik
-  - Tirol
+- biowissenschaften/botanik
+- geowissenschaften/regionen/tirol
 related:
-  - "[[Schwaighöfe]]"
-  - "[[Tiroler Grauvieh]]"
-  - "[[Ethnobotanik im Schmirntal]]"
+- '[[Schwaighöfe]]'
+- '[[Tiroler Grauvieh]]'
+- '[[Ethnobotanik im Schmirntal]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

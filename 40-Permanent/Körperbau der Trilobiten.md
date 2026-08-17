@@ -1,12 +1,12 @@
 ---
 type: permanent
 tags:
-  - Paläontologie
+- geowissenschaften/palaeontologie
 related:
-  - "[[Trilobiten]]"
-  - "[[Facettenaugen der Trilobiten]]"
-  - "[[Gesichtsnaht und Häutung der Trilobiten]]"
-  - "[[Verwandtschaft der Trilobiten]]"
+- '[[Trilobiten]]'
+- '[[Facettenaugen der Trilobiten]]'
+- '[[Gesichtsnaht und Häutung der Trilobiten]]'
+- '[[Verwandtschaft der Trilobiten]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

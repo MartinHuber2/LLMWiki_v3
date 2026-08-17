@@ -1,12 +1,12 @@
 ---
 type: permanent
 tags:
-  - Botanik
-  - Tirol
+- biowissenschaften/botanik
+- geowissenschaften/regionen/tirol
 related:
-  - "[[Ethnobotanik im Schmirntal]]"
-  - "[[Bergmähder]]"
-  - "[[Bergsteigerdorf]]"
+- '[[Ethnobotanik im Schmirntal]]'
+- '[[Bergmähder]]'
+- '[[Bergsteigerdorf]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

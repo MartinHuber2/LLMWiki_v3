@@ -1,18 +1,20 @@
 ---
 type: narrative
 tags:
-  - Geologie
+- geowissenschaften/geologie
 sources:
-  - "[[Tauernfenster (Exkursion Pfitschtal)]]"
-summary: "Die Deformationsgeschichte des Tauernfensters als 4-Phasen-Ablauf von Überschiebung über Versenkung bis zur Caterpillar-Verschlebung — mit der quantitativen Methodik dahinter."
+- '[[Tauernfenster (Exkursion Pfitschtal)]]'
+summary: Die Deformationsgeschichte des Tauernfensters als 4-Phasen-Ablauf von Überschiebung
+  über Versenkung bis zur Caterpillar-Verschlebung — mit der quantitativen Methodik
+  dahinter.
 related:
-  - "[[Tauernfenster]]"
-  - "[[Das Tauernfenster als tektonisches Exhumationsfenster]]"
-  - "[[Alpine Deckentektonik]]"
-  - "[[Alpine Metamorphose]]"
-  - "[[Laterale Extrusion der Ostalpen]]"
-  - "[[Slab Breakoff und Exhumation]]"
-  - "[[Geothermobarometrie]]"
+- '[[Tauernfenster]]'
+- '[[Das Tauernfenster als tektonisches Exhumationsfenster]]'
+- '[[Alpine Deckentektonik]]'
+- '[[Alpine Metamorphose]]'
+- '[[Laterale Extrusion der Ostalpen]]'
+- '[[Slab Breakoff und Exhumation]]'
+- '[[Geothermobarometrie]]'
 created: 2026-08-10
 updated: 2026-08-10
 status: auto

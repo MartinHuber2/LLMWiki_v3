@@ -1,30 +1,30 @@
 ---
 type: moc
 tags:
-  - Tirol
-  - Geschichte
-  - Geologie
+- geowissenschaften/regionen/tirol
+- geisteswissenschaften/geschichte
+- geowissenschaften/geologie
 related:
-  - "[[Schmirn Podcasts]]"
-  - "[[Metamorphe Schieferhülle (Tauernfenster)]]"
-  - "[[Reissenschuh-Rutschung]]"
-  - "[[Monitoring gravitativer Hangdeformationen]]"
-  - "[[Quellhydrochemie des Tauernfensters]]"
-  - "[[Bergkristallbergbau am Riepenkar]]"
-  - "[[Bergkristallstraße]]"
-  - "[[Tuxer Joch]]"
-  - "[[Schwaighöfe]]"
-  - "[[Totenweg über das Tuxer Joch]]"
-  - "[[Sakrale Landschaft des Schmirntals]]"
-  - "[[Bergmähder]]"
-  - "[[Ethnobotanik im Schmirntal]]"
-  - "[[Alpenblumen- und Kräutergarten Toldern]]"
-  - "[[Molybdänbergwerk Alpeiner Scharte]]"
-  - "[[Tiroler Grauvieh]]"
-  - "[[Bergsteigerdorf]]"
-  - "[[Tauernfenster und Ostalpen]]"
-  - "[[EMOD-SLAP]]"
-  - "[[Reissenschuh (NotebookLM 2)]]"
+- '[[Schmirn Podcasts]]'
+- '[[Metamorphe Schieferhülle (Tauernfenster)]]'
+- '[[Reissenschuh-Rutschung]]'
+- '[[Monitoring gravitativer Hangdeformationen]]'
+- '[[Quellhydrochemie des Tauernfensters]]'
+- '[[Bergkristallbergbau am Riepenkar]]'
+- '[[Bergkristallstraße]]'
+- '[[Tuxer Joch]]'
+- '[[Schwaighöfe]]'
+- '[[Totenweg über das Tuxer Joch]]'
+- '[[Sakrale Landschaft des Schmirntals]]'
+- '[[Bergmähder]]'
+- '[[Ethnobotanik im Schmirntal]]'
+- '[[Alpenblumen- und Kräutergarten Toldern]]'
+- '[[Molybdänbergwerk Alpeiner Scharte]]'
+- '[[Tiroler Grauvieh]]'
+- '[[Bergsteigerdorf]]'
+- '[[Tauernfenster und Ostalpen]]'
+- '[[EMOD-SLAP]]'
+- '[[Reissenschuh (NotebookLM 2)]]'
 created: 2026-08-09
 updated: 2026-08-10
 ---

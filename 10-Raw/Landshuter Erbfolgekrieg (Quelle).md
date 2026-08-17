@@ -1,13 +1,13 @@
 ---
-title: "Landshuter Erbfolgekrieg"
-source: "https://de.wikipedia.org/wiki/Landshuter_Erbfolgekrieg"
+title: Landshuter Erbfolgekrieg
+source: https://de.wikipedia.org/wiki/Landshuter_Erbfolgekrieg
 author:
-  - "[[Wikipedia]]"
+- '[[Wikipedia]]'
 published: 2003-12-24
 created: 2026-08-08
-description:
+description: null
 tags:
-  - "clippings"
+- meta/clippings
 ---
 Der **Landshuter Erbfolgekrieg** 1504/05 (auch *Bairische/Bayerische Fehde* oder **bairisch-pfälzischer Erbfolgekrieg** genannt) wurde von einem Streit um die [Erbfolge](https://de.wikipedia.org/wiki/Erbfolge "Erbfolge") in [Bayern-Landshut](https://de.wikipedia.org/wiki/Bayern-Landshut "Bayern-Landshut") ausgelöst, als der letzte dortige [Herzog](https://de.wikipedia.org/wiki/Herzog "Herzog") ohne männliche Nachkommen starb.
 

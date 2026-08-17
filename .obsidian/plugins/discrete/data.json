@@ -1,0 +1,13 @@
+{
+  "filters": [
+    {
+      "key": "tags",
+      "value": "Bildung",
+      "operator": "includes",
+      "type": "string"
+    }
+  ],
+  "hideMatches": true,
+  "combineWithAnd": false,
+  "enableExplorerFilter": true
+}

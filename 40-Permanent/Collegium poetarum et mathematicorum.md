@@ -1,10 +1,10 @@
 ---
 type: permanent
 tags:
-  - Geschichte
+- geisteswissenschaften/geschichte
 related:
-  - "[[Maximilians Selbstinszenierung]]"
-  - "[[Maximilians Selbstinszenierung als letzter Ritter]]"
+- '[[Maximilians Selbstinszenierung]]'
+- '[[Maximilians Selbstinszenierung als letzter Ritter]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

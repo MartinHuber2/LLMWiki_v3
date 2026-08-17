@@ -1,25 +1,25 @@
 ---
 type: literature
 tags:
-  - Geologie
+- geowissenschaften/geologie
 source-type: artikel
-source-ref: "10-Raw/Field trip to the Tauern Window.pdf"
-author: "Lammerer, B., Selverstone, J., Franz, G."
-year: "2011"
+source-ref: 10-Raw/Field trip to the Tauern Window.pdf
+author: Lammerer, B., Selverstone, J., Franz, G.
+year: '2011'
 related:
-  - "[[Tauernfenster]]"
-  - "[[Alpine Deckentektonik]]"
-  - "[[Alpine Metamorphose]]"
-  - "[[Brenner-Normalverwerfung]]"
-  - "[[Slab Breakoff und Exhumation]]"
-  - "[[Laterale Extrusion der Ostalpen]]"
-  - "[[Penninisch-Ligurischer Ozean]]"
-  - "[[Eoalpine Orogenese]]"
-  - "[[Wilson-Zyklus]]"
-  - "[[Kontinentaldrift]]"
-  - "[[Entstehung der Ostalpen entlang des TRANSALP-Profils]]"
-  - "[[Das Tauernfenster als tektonisches Exhumationsfenster]]"
-  - "[[Die Brenner-Normalverwerfung und die Exhumation der Ostalpen]]"
+- '[[Tauernfenster]]'
+- '[[Alpine Deckentektonik]]'
+- '[[Alpine Metamorphose]]'
+- '[[Brenner-Normalverwerfung]]'
+- '[[Slab Breakoff und Exhumation]]'
+- '[[Laterale Extrusion der Ostalpen]]'
+- '[[Penninisch-Ligurischer Ozean]]'
+- '[[Eoalpine Orogenese]]'
+- '[[Wilson-Zyklus]]'
+- '[[Kontinentaldrift]]'
+- '[[Entstehung der Ostalpen entlang des TRANSALP-Profils]]'
+- '[[Das Tauernfenster als tektonisches Exhumationsfenster]]'
+- '[[Die Brenner-Normalverwerfung und die Exhumation der Ostalpen]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

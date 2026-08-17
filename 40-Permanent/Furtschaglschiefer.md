@@ -1,12 +1,13 @@
 ---
 type: permanent
 tags:
-  - Geologie
-summary: ">700 Mio. Jahre alte Schwarzschiefer der Greiner Serie — abgelagert in einem schlecht durchlüfteten Meeresbecken zwischen Festland und Inselbogen."
+- geowissenschaften/geologie
+summary: '>700 Mio. Jahre alte Schwarzschiefer der Greiner Serie — abgelagert in einem
+  schlecht durchlüfteten Meeresbecken zwischen Festland und Inselbogen.'
 tier: supporting
 related:
-  - "[[Tauernfenster]]"
-  - "[[Metamorphe Schieferhülle (Tauernfenster)]]"
+- '[[Tauernfenster]]'
+- '[[Metamorphe Schieferhülle (Tauernfenster)]]'
 provenance:
   extracted: 0.9
   inferred: 0.1

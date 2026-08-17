@@ -1,8 +1,8 @@
 ---
 type: ai_instruction
 tags:
-  - meta
-  - skill
+- meta/instruction
+- meta/skill
 created: 2026-08-08
 updated: 2026-08-10
 ---
@@ -17,6 +17,8 @@ updated: 2026-08-10
 
 Verarbeitung von Quelldateien (PDF, Markdown-Clipping, DOCX, KI-Chatlog, Video-Transkript) aus dem Ordner `10-Raw/Waiting_For_Ingestion/` in den molekularen Zettelkasten (`20-Literature/`, `30-Narrative/`, `40-Permanent/`, `50-MOC/`).
 
+> **Model- und Chat-Portabilität**: Diese Skill-Anweisung ist als **portable Ingest-Policy** zu verstehen. Sie ist bewusst so formuliert, dass sie ohne Verluste in ein anderes Modell, einen anderen KI-Chat oder eine andere Umgebung kopiert werden kann. In jedem Fall gilt dieselbe Reihenfolge: Stoffvollständigkeit, Belegpflicht, Lernpfad, Vernetzung, Ingest-Architektur und keine weichen Ausweichregeln. Ein anderes Modell darf nicht „eigene Standards“ einführen, wenn dadurch die Ingest-Qualität in diesem Vault oder in einer abgeleiteten Version sinkt.
+
 ---
 
 ## Vor dem Start
@@ -24,7 +26,8 @@ Verarbeitung von Quelldateien (PDF, Markdown-Clipping, DOCX, KI-Chatlog, Video-T
 1. **`.manifest.json` lesen**: Prüfen, welche Quellen bereits ingestiert wurden (Datei-Hash, Zeitstempel, erzeugte Seiten). Kein Ingest doppelt ablaufen lassen.
 2. **`index.md` lesen**: Inventar aller Inhaltsseiten. Dient der Duplikaterkennung und dem Finden passender Zieldateien für `[[Wikilinks]]`.
 3. **`hot.md` lesen**: Aktuelle Aktivität, offene Threads, Kontradiktionen. Bei der Ingestierung ggf. im Auge behalten.
-4. **PDF-vorbereitung**: Wenn die Rohquelle eine PDF-Datei ist, muss vor dem eigentlichen Ingest das Skript `60-PARA/Resources/Skripte/pdf_to_markdown.py` aufgerufen werden. Das Skript erzeugt aus dem PDF eine Markdown-Datei mit gleichem Basisnamen und der Endung `.md` im selben Raw-Ordner. Dadurch werden die Seitenzahlen als Information in der Rohquelle erhalten und die spätere Q-Referenzierung wird präziser und wiederverwendbar.
+4. **`70-Meta/Tag-Taxonomie.md` lesen**: Kanonisches Tag-Register laden. Hierarchische Domain-Tags primär aus der Taxonomie übernehmen. Bekannte `u/`-Nutzer-Tags bei passendem Kontext proaktiv wiederverwenden.
+5. **PDF-vorbereitung**: Wenn die Rohquelle eine PDF-Datei ist, muss vor dem eigentlichen Ingest das Skript `60-PARA/Resources/Skripte/pdf_to_markdown.py` aufgerufen werden. Das Skript erzeugt aus dem PDF eine Markdown-Datei mit gleichem Basisnamen und der Endung `.md` im selben Raw-Ordner. Dadurch werden die Seitenzahlen als Information in der Rohquelle erhalten und die spätere Q-Referenzierung wird präziser und wiederverwendbar.
 
 **Vorgang**:
 - PDF eingeben: `python 60-PARA/Resources/Skripte/pdf_to_markdown.py "10-Raw/Waiting_For_Ingestion/datei.pdf"`
@@ -278,6 +281,7 @@ updated: YYYY-MM-DD
 - **Lernpfad-Regel**: Die KI bewertet jede neue Notiz nicht bloß nach Wichtigkeit, sondern auch im Sinne eines didaktischen Lernpfads. Die Reihenfolge `Rel_AI = 1` zuerst, dann `2`, dann `3`, danach `4`, schließlich `5` ist für Lernenden verbindlich. Notizen mit `Rel_AI = 1` sind die Startbasis; nur nach deren Sicherung dürfen die feineren Detailstufen im Ingest und in der Wiederholung folgen.
 - **Allgemeine Vault-Gültigkeit**: Die in diesem Skill beschriebenen Regeln sind verbindlicher Standard für den gesamten Vault und nicht nur eine temporäre Gesprächsvereinbarung.
 - **Experten-Standard**: Kausalität und Tiefe statt oberflächlicher Zusammenfassungen.
+- **Zeit- und Ortsangaben im Fließtext**: Wann immer die Quelle sie nennt oder sie gesichert sind, werden Zeitpunkte und Zeiträume — Jahreszahlen sowie geologische Zeitangaben (z.B. Perm mit zugehörigen Jahresangaben) — und geographische Lokalitäten direkt im Fließtext in Klammern ergänzt, z.B. `(Perm, 298,9–251,9 Mio. Jahre)` oder `(Tauernfenster, Ostalpen, Tirol)`. Notizen müssen ohne Nachschlagen zeitlich und räumlich verortbar sein.
 - **Kollisionsfreiheit der Dateinamen**: Basisnamen von Dateien müssen im gesamten Vault eindeutig sein, damit bare `[[Wikilinks]]` eindeutig auflösen. Kollidiert der Basisname einer Rohquelle mit einer bestehenden Inhaltsseite (`20-Literature/`, `30-Narrative/`, `40-Permanent/`, `50-MOC/`), erhält die Rohquelle das Suffix ` (Quelle)` (z.B. `10-Raw/Trilobiten (Quelle).md`). Kollidiert der Basisname einer Literature Note mit einem MOC, erhält die Literature Note ein Herkunfts-Suffix (z.B. ` (Wikipedia)`). Bei jedem Ingest: Basisnamen der neuen Dateien gegen den Bestand prüfen.
 - **Tier-Aware Updates**: Beim Aktualisieren bestehender Seiten mit einer neuen Quelle:
   - `tier: core` — immer updaten, auch bei marginalem Bezug

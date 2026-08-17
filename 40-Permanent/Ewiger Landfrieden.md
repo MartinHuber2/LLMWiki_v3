@@ -1,13 +1,13 @@
 ---
 type: permanent
 tags:
-  - Geschichte
-  - Rechtsgeschichte
+- geisteswissenschaften/geschichte
+- geisteswissenschaften/geschichte/rechtsgeschichte
 related:
-  - "[[Reichsreform von 1495]]"
-  - "[[Reichskammergericht]]"
-  - "[[Reichsacht]]"
-  - "[[Die Reichsreform von 1495]]"
+- '[[Reichsreform von 1495]]'
+- '[[Reichskammergericht]]'
+- '[[Reichsacht]]'
+- '[[Die Reichsreform von 1495]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

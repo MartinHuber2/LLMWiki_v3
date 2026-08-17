@@ -1,10 +1,10 @@
 ---
 type: permanent
 tags:
-  - Paläontologie
+- geowissenschaften/palaeontologie
 related:
-  - "[[Trilobiten]]"
-  - "[[Trilobiten als Zeugen der Evolution]]"
+- '[[Trilobiten]]'
+- '[[Trilobiten als Zeugen der Evolution]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

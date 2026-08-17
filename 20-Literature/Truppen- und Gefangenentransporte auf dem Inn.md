@@ -1,22 +1,22 @@
 ---
 type: literature
 tags:
-  - Geschichte
-  - Militärgeschichte
-  - Tirol
+- geisteswissenschaften/geschichte
+- geisteswissenschaften/geschichte/militaergeschichte
+- geowissenschaften/regionen/tirol
 source-type: pdf
-source-ref: "10-Raw/Inn Truppentransport.pdf"
-author: "Florian Messner"
+source-ref: 10-Raw/Inn Truppentransport.pdf
+author: Florian Messner
 related:
-  - "[[Innschifffahrt als militärischer Transportweg]]"
-  - "[[Plätten und Schiffszug]]"
-  - "[[Hall in Tirol als Zentrum der Militärschifffahrt]]"
-  - "[[Truppendurchzüge und Plünderungen]]"
-  - "[[Belagerung von Kufstein 1504]]"
-  - "[[Galeerenstrafe]]"
-  - "[[Wilhelm Biener]]"
-  - "[[Der Inn als militärischer Transportweg]]"
-  - "[[Gefangene und Galeeren auf dem Inn]]"
+- '[[Innschifffahrt als militärischer Transportweg]]'
+- '[[Plätten und Schiffszug]]'
+- '[[Hall in Tirol als Zentrum der Militärschifffahrt]]'
+- '[[Truppendurchzüge und Plünderungen]]'
+- '[[Belagerung von Kufstein 1504]]'
+- '[[Galeerenstrafe]]'
+- '[[Wilhelm Biener]]'
+- '[[Der Inn als militärischer Transportweg]]'
+- '[[Gefangene und Galeeren auf dem Inn]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

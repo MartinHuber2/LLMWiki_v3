@@ -1,13 +1,13 @@
 ---
 type: permanent
 tags:
-  - Archäologie
-  - Geschichte
-  - Tirol
+- geisteswissenschaften/archaeologie
+- geisteswissenschaften/geschichte
+- geowissenschaften/regionen/tirol
 related:
-  - "[[Bergkristallstraße]]"
-  - "[[Bergkristallbergbau am Riepenkar]]"
-  - "[[Totenweg über das Tuxer Joch]]"
+- '[[Bergkristallstraße]]'
+- '[[Bergkristallbergbau am Riepenkar]]'
+- '[[Totenweg über das Tuxer Joch]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

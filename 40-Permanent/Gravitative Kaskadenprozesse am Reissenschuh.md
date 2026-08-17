@@ -1,12 +1,12 @@
 ---
 type: permanent
 tags:
-  - Geologie
-  - Tirol
+- geowissenschaften/geologie
+- geowissenschaften/regionen/tirol
 related:
-  - "[[Reissenschuh-Rutschung]]"
-  - "[[Monitoring gravitativer Hangdeformationen]]"
-  - "[[Reissenschuh (NotebookLM)]]"
+- '[[Reissenschuh-Rutschung]]'
+- '[[Monitoring gravitativer Hangdeformationen]]'
+- '[[Reissenschuh (NotebookLM)]]'
 created: 2026-08-10
 updated: 2026-08-10
 status: auto

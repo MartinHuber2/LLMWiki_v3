@@ -1,16 +1,16 @@
 ---
 type: narrative
 tags:
-  - Paläontologie
-  - Geologie
+- geowissenschaften/palaeontologie
+- geowissenschaften/geologie
 sources:
-  - "[[There's An Invisible Ocean Between These Fossils]]"
+- '[[There''s An Invisible Ocean Between These Fossils]]'
 related:
-  - "[[Atlantische und Pazifische Faunen]]"
-  - "[[Kontinentaldrift]]"
-  - "[[Iapetus-Sutur]]"
-  - "[[John Tuzo Wilson]]"
-  - "[[Wilson-Zyklus]]"
+- '[[Atlantische und Pazifische Faunen]]'
+- '[[Kontinentaldrift]]'
+- '[[Iapetus-Sutur]]'
+- '[[John Tuzo Wilson]]'
+- '[[Wilson-Zyklus]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

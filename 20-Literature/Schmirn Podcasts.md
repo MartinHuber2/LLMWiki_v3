@@ -1,35 +1,35 @@
 ---
 type: literature
 tags:
-  - Geologie
-  - Geschichte
-  - Archäologie
-  - Botanik
-  - Tirol
+- geowissenschaften/geologie
+- geisteswissenschaften/geschichte
+- geisteswissenschaften/archaeologie
+- biowissenschaften/botanik
+- geowissenschaften/regionen/tirol
 source-type: ai-chat
-source-ref: "10-Raw/Schmirn Podcasts (Quelle).md"
-author: "NotebookLM (Auftrag: Nutzer)"
+source-ref: 10-Raw/Schmirn Podcasts (Quelle).md
+author: 'NotebookLM (Auftrag: Nutzer)'
 year: 2026
 related:
-  - "[[Tauernfenster]]"
-  - "[[Brenner-Normalverwerfung]]"
-  - "[[Alpine Metamorphose]]"
-  - "[[Reissenschuh-Rutschung]]"
-  - "[[Metamorphe Schieferhülle (Tauernfenster)]]"
-  - "[[Monitoring gravitativer Hangdeformationen]]"
-  - "[[Quellhydrochemie des Tauernfensters]]"
-  - "[[Bergkristallbergbau am Riepenkar]]"
-  - "[[Bergkristallstraße]]"
-  - "[[Tuxer Joch]]"
-  - "[[Schwaighöfe]]"
-  - "[[Totenweg über das Tuxer Joch]]"
-  - "[[Sakrale Landschaft des Schmirntals]]"
-  - "[[Bergmähder]]"
-  - "[[Ethnobotanik im Schmirntal]]"
-  - "[[Alpenblumen- und Kräutergarten Toldern]]"
-  - "[[Molybdänbergwerk Alpeiner Scharte]]"
-  - "[[Tiroler Grauvieh]]"
-  - "[[Bergsteigerdorf]]"
+- '[[Tauernfenster]]'
+- '[[Brenner-Normalverwerfung]]'
+- '[[Alpine Metamorphose]]'
+- '[[Reissenschuh-Rutschung]]'
+- '[[Metamorphe Schieferhülle (Tauernfenster)]]'
+- '[[Monitoring gravitativer Hangdeformationen]]'
+- '[[Quellhydrochemie des Tauernfensters]]'
+- '[[Bergkristallbergbau am Riepenkar]]'
+- '[[Bergkristallstraße]]'
+- '[[Tuxer Joch]]'
+- '[[Schwaighöfe]]'
+- '[[Totenweg über das Tuxer Joch]]'
+- '[[Sakrale Landschaft des Schmirntals]]'
+- '[[Bergmähder]]'
+- '[[Ethnobotanik im Schmirntal]]'
+- '[[Alpenblumen- und Kräutergarten Toldern]]'
+- '[[Molybdänbergwerk Alpeiner Scharte]]'
+- '[[Tiroler Grauvieh]]'
+- '[[Bergsteigerdorf]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

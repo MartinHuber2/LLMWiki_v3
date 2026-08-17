@@ -1,16 +1,16 @@
 ---
 type: narrative
 tags:
-  - Geologie
+- geowissenschaften/geologie
 sources:
-  - "[[20-Literature/Reissenschuh (NotebookLM 2)]]"
+- '[[20-Literature/Reissenschuh (NotebookLM 2)]]'
 related:
-  - "[[Reissenschuh-Rutschung]]"
-  - "[[Monitoring gravitativer Hangdeformationen]]"
-  - "[[EMOD-SLAP]]"
-  - "[[Tauernfenster]]"
-  - "[[Metamorphe Schieferhülle (Tauernfenster)]]"
-  - "[[Das Schmirntal als geologisches Labor des Tauernfensters]]"
+- '[[Reissenschuh-Rutschung]]'
+- '[[Monitoring gravitativer Hangdeformationen]]'
+- '[[EMOD-SLAP]]'
+- '[[Tauernfenster]]'
+- '[[Metamorphe Schieferhülle (Tauernfenster)]]'
+- '[[Das Schmirntal als geologisches Labor des Tauernfensters]]'
 created: 2026-08-10
 updated: 2026-08-10
 status: auto

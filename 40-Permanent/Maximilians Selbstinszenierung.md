@@ -1,12 +1,12 @@
 ---
 type: permanent
 tags:
-  - Geschichte
+- geisteswissenschaften/geschichte
 related:
-  - "[[Erwählter Römischer Kaiser]]"
-  - "[[Collegium poetarum et mathematicorum]]"
-  - "[[Schulden Maximilians I.]]"
-  - "[[Maximilians Selbstinszenierung als letzter Ritter]]"
+- '[[Erwählter Römischer Kaiser]]'
+- '[[Collegium poetarum et mathematicorum]]'
+- '[[Schulden Maximilians I.]]'
+- '[[Maximilians Selbstinszenierung als letzter Ritter]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

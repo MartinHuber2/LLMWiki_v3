@@ -1,7 +1,7 @@
 ---
 type: meta
 tags:
-  - meta
+- meta/instruction
 created: 2026-08-08
 updated: 2026-08-09
 ---
@@ -11,6 +11,8 @@ updated: 2026-08-09
 ## Was ist dieses Wiki?
 
 Ein **molekularer Zettelkasten** für gemischte Wissensquellen (PDFs, Videos, Bücher, KI-Chats, Urlaubs-Notizen, Transkripte), kombiniert mit PARA-Projektverwaltung. Alle Notizen werden **KI-generiert** und vom Nutzer nach Bedarf überarbeitet oder ergänzt.
+
+> **Architektur-Basis & Herkunft**: Die Grundstruktur und das Systemkonzept dieses Vaults basieren auf dem Open-Source-Template [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) (Obsidian AI Wiki Framework).
 
 ---
 

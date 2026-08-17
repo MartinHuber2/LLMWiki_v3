@@ -1,7 +1,7 @@
 ---
 type: ai_instruction
 created: 2026-08-08
-updated: 2026-08-10
+updated: 2026-08-17 13:23:10
 ---
 
 # KI-Anweisungen — LLMWiki_V4
@@ -23,12 +23,25 @@ Bei **Widersprüchen** zwischen Anweisungen: Widerspruch dem Nutzer klar benenne
 
 ## Grundprinzipien
 
+### Modell-portabilität und Chat-Übergabe
+Diese Datei ist **nicht nur für den aktuellen Chat oder das aktuelle Modell**, sondern als **portable Ingest-Policy** zu verstehen. Jede andere KI, jedes andere Modell und jeder andere Chat, der mit diesem Vault oder mit einer Ableitung davon arbeitet, muss dieselben Verhaltensregeln anwenden:
+- gleiche Prioritätshierarchie,
+- gleiche Lernpfad- und Relevanzlogik (`Rel_AI: 1` bis `5`),
+- gleiche Belegpflicht und Q/V-Referenzierung,
+- gleiche Anforderungen an Vollständigkeit, Vernetzung und Ingest-Qualität,
+- gleiche Ablehnung von Sonderbehandlungen oder weicherer Interpretation.
+
+Die Regeln sind daher als **modellneutrale, wiederverwendbare Anweisungen** zu behandeln. Sie dürfen nicht davon abhängen, dass ein bestimmtes Modell genauer oder „intelligenter“ ist. Wenn ein anderes Modell oder ein anderer KI-Chat die gleiche Aufgabe übernimmt, muss es dieselbe Arbeitslogik, dieselbe Abfolge und dieselben Kriterien anwenden. Es ist keine Ermessensentscheidung, sondern eine verbindliche Verhaltensvorschrift.
+
+Eine KI darf kein anderes Verhalten wählen, nur weil sie ein anderes Modell ist, ein anderer Chat ist oder weil der Kontext „kurzer“ ist. Wenn eine Aufgabe im Vault nicht mit dieser Policy umzusetzen ist, muss die KI die Lücke klar benennen und konkret aufzeigen, welche Regel verletzt würde – nicht ihr Verhalten zu einem weicheren Standard herabstufen.
+
 ### Experten-Skript-Standard
 Notizen sind **keine oberflächlichen Zusammenfassungen**. Sie müssen:
 - **Kausalitätsketten** explizit ausformulieren: Warum geschah X? Was folgte daraus?
 - **Fachbegriffe** bei Ersterwähnung präzise definieren und konsistent verwenden
 - Querverbindungen zu anderen Inhalten des Vaults aufzeigen
 - Inhalte so aufbereiten, dass sie eigenständig lesbar und lehrbar sind
+- **Zeit- und Ortsangaben im Fließtext**: Wann immer die Quelle sie nennt oder sie gesichert sind, werden Zeitpunkte und Zeiträume — Jahreszahlen sowie geologische Zeitangaben (z.B. Perm mit zugehörigen Jahresangaben) — und geographische Lokalitäten direkt im Fließtext in Klammern ergänzt, z.B. `(Perm, 298,9–251,9 Mio. Jahre)` oder `(Tauernfenster, Ostalpen, Tirol)`. Notizen müssen ohne Nachschlagen zeitlich und räumlich verortbar sein
 
 ### Prüfungslern-Standard
 Notizen müssen nicht nur wichtige Kernaussagen, sondern den **vollen Stoffumfang** einer Quelle über einen abgestuften Lernpfad abbilden. Dafür gilt:
@@ -119,9 +132,11 @@ Bevor die KI eine Note erstellt, muss sie intern prüfen und bei Bedarf bestäti
 ## Verlinkungsregeln
 
 - **Vernetzungspflicht**: Jedes bekannte Konzept und jede bekannte Entität, die im Fließtext vorkommt, wird als Wikilink gesetzt: `[[dateiname|grammatikalisch angepasster Anzeigetext]]`
-- **Zusätzliche Kontext-Verlinkungen im Fließtext**: Zusätzlich zu den Q- und V-Verweisen müssen thematisch passende Verknüpfungen zu anderen Notizen im Fließtext mit passenden Alias-Wikilinks erfolgen, sofern der Satzfluss dies sinnvoll erlaubt. Das gilt für alle Notiztypen: Literature, Narrative, Permanent und MOC. Die Verknüpfung dient der inhaltlichen Vernetzung und muss im Text nicht künstlich wirken; sie ist dann erforderlich, wenn ein bereits bekannter Fachbegriff, ein Thema oder eine inhaltliche Referenz im Fließtext erwähnt wird und ein passender interner Zusammenhang besteht.
+- **Starke Fließtext-Verlinkung**: Eine Notiz gilt als unzureichend vernetzt, wenn sie im Fließtext nur wenige oder gar keine Verbindungen zu fachlich benachbarten Notizen herstellt. Bei jedem Ingest muss die KI deshalb im Text mindestens zwei bis vier thematisch sinnvolle Verknüpfungen zu bereits bestehenden Notizen einbauen, sofern solche Nachbarbegriffe im Abschnitt vorkommen. Die Verknüpfung muss nicht künstlich wirken, sondern im natürlichen Satzfluss plausibel bleiben.
+- **Kontext-Verlinkung im Fließtext**: Zusätzlich zu den Q- und V-Verweisen müssen thematisch passende Verknüpfungen zu anderen Notizen im Fließtext mit passenden Alias-Wikilinks erfolgen, sofern der Satzfluss dies sinnvoll erlaubt. Das gilt für alle Notiztypen: Literature, Narrative, Permanent und MOC. Die Verknüpfung dient der inhaltlichen Vernetzung und muss im Text nicht künstlich wirken; sie ist dann erforderlich, wenn ein bereits bekannter Fachbegriff, ein Thema oder eine inhaltliche Referenz im Fließtext erwähnt wird und ein passender interner Zusammenhang besteht.
 - **No Broken Links**: Es werden **ausschließlich** Links auf tatsächlich existierende Dateien gesetzt. Ist eine Zieldatei noch nicht vorhanden, bleibt der Begriff Klartext (kein Link)
 - **Entitäten-Schwelle**: Eine eigene Permanent Note für eine Entität entsteht nur, wenn ausreichend Substanz vorhanden ist (Richtwert: ~150 Wörter eigenständiger Inhalt). Beiläufige Erwähnungen bleiben Klartext
+- **Netzwerk-Standard**: Eine Note darf nicht als isolierte Einzelnotiz enden. Wenn der Inhalt auf bereits bekannte Nachbarbegriffe verweist, muss die KI diese als Wikilinks im Text etablieren; sie darf nicht bloß die „related“-Liste am Frontmatter füllen. Frontmatter-Linkliste allein genügt nicht dem Vernetzungsstandard.
 - **Kollisionsfreiheit der Dateinamen**: Basisnamen von Dateien müssen im gesamten Vault eindeutig sein, damit bare `[[Wikilinks]]` eindeutig auflösen. Kollidiert der Basisname einer Rohquelle mit einer bestehenden Inhaltsseite (`20-Literature/`, `30-Narrative/`, `40-Permanent/`, `50-MOC/`), erhält die Rohquelle das Suffix ` (Quelle)`. Kollidiert der Basisname einer Literature Note mit einem MOC, erhält die Literature Note ein Herkunfts-Suffix (z.B. ` (Wikipedia)`). Bestehende Kollisionen werden bei einer Lint-Lauf behoben
 
 ---
@@ -130,7 +145,9 @@ Bevor die KI eine Note erstellt, muss sie intern prüfen und bei Bedarf bestäti
 
 - **`status`**: Immer `auto` bei KI-Erstellung. `confirmed` und `review` werden **ausschließlich vom Nutzer** vergeben. Ein bestehender `confirmed`- oder `review`-Status darf von der KI **niemals** auf `auto` zurückgesetzt werden
 - **Datums- und Zeitformat**: Ausnahmslos `YYYY-MM-DD hh:mm:ss` (z.B. `2026-08-15 14:32:18`). Diese Vorgabe gilt **für alle neuen und aktualisierten Notizen im ganzen Vault** — nicht nur für die aktuelle Quelle oder das aktuelle Gespräch.
-- **`tags`**: Ohne `#`-Zeichen (z.B. `- Geologie`, nicht `- #Geologie`)
+- **`tags`**: Ohne `#`-Zeichen (z.B. `- geowissenschaften/geologie`, nicht `- #geowissenschaften/geologie`). Ausnahmslos Kleinschreibung (`lower-kebab-case`). Ausrichtung an [`70-Meta/Tag-Taxonomie.md`](file:///g:/Meine%20Ablage/Hidden/Synch/Obsidian/LLMWiki_V4/70-Meta/Tag-Taxonomie.md).
+  - **Hierarchische Domain-Tags**: Zur systematischen Einordnung des Wissensinhalts (z. B. `- geowissenschaften/geologie/tektonik`). Die KI muss primär bestehende Pfade aus `70-Meta/Tag-Taxonomie.md` verwenden.
+  - **Nutzer-Tags (`u/`)**: Tags mit dem Präfix `u/` (z. B. `- u/urlaub/2026`, `- u/projekt-x`) sind Nutzer-Tags (flach oder hierarchisch). Sie stehen unter **KI-Löschschutz** (werden niemals gelöscht) und werden im Nutzer-Tag-Register von `70-Meta/Tag-Taxonomie.md` erfasst und bei passendem Ingest-Kontext proaktiv wiederverwendet.
 - **`related`**: Nur Links auf existierende Dateien
 - **`Rel_AI`** (kanonisches Feld; es gibt keine `Rel_KI`-Variante mehr): Zahlenwert von `1` bis `5`, nur von der KI gesetzt. Die Rel-Einschätzung dient nicht nur der Wichtigkeit, sondern als feste Lernreihenfolge: `1 = zentraler Grundbaustein / erster Lernschritt`, `2 = sehr relevant / wichtige Verbindung`, `3 = vertiefende, aber bereits bekannte Schicht`, `4 = eher Detail / Zusatzwissen`, `5 = marginales Detail / nur im Anschluss`. Die Reihenfolge ist verbindlich: Der Benutzer soll mit `Rel_AI = 1` starten, danach `2`, dann `3`, danach `4` und erst zuletzt `5`.
 - **`Rel_User`**: Analoges Feld, ebenfalls `1` bis `5`, aber von der KI **leer gelassen**. Der Nutzer kann es nach eigenem Urteil befüllen. Die Reihenfolge der Lernrelevanz gilt hier ebenfalls als Empfehlung: Der Nutzer kann gezielt zwischen Kernwissen und Detailniveau wechseln.

@@ -1,12 +1,12 @@
 ---
 type: permanent
 tags:
-  - Geschichte
-  - Rechtsgeschichte
+- geisteswissenschaften/geschichte
+- geisteswissenschaften/geschichte/rechtsgeschichte
 related:
-  - "[[Habsburgische Heiratspolitik]]"
-  - "[[Wiener Doppelhochzeit 1515]]"
-  - "[[Aufstieg des Hauses Habsburg durch Heiratspolitik]]"
+- '[[Habsburgische Heiratspolitik]]'
+- '[[Wiener Doppelhochzeit 1515]]'
+- '[[Aufstieg des Hauses Habsburg durch Heiratspolitik]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

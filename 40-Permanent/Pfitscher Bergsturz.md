@@ -1,16 +1,17 @@
 ---
 type: permanent
 tags:
-  - Geologie
-  - Tirol
-summary: "Nacheiszeitlicher Bergsturz von der Überseilspitze: 150-m-Talverriegelung, 8-km-Stausee, um 1100 n. Chr. katastrophale Entleerung mit 70 Mio m³ Flut."
+- geowissenschaften/geologie
+- geowissenschaften/regionen/tirol
+summary: 'Nacheiszeitlicher Bergsturz von der Überseilspitze: 150-m-Talverriegelung,
+  8-km-Stausee, um 1100 n. Chr. katastrophale Entleerung mit 70 Mio m³ Flut.'
 tier: supporting
 related:
-  - "[[Tauernfenster]]"
-  - "[[Metamorphe Schieferhülle (Tauernfenster)]]"
+- '[[Tauernfenster]]'
+- '[[Metamorphe Schieferhülle (Tauernfenster)]]'
 relationships:
-  - target: "[[Der Pfitscher Bergsturz und der verschwundene Stausee]]"
-    type: related_to
+- target: '[[Der Pfitscher Bergsturz und der verschwundene Stausee]]'
+  type: related_to
 provenance:
   extracted: 0.9
   inferred: 0.1

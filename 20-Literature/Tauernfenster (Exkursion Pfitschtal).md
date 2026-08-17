@@ -1,21 +1,22 @@
 ---
 type: literature
 tags:
-  - Geologie
-  - Tirol
+- geowissenschaften/geologie
+- geowissenschaften/regionen/tirol
 source-type: buch
-source-ref: "10-Raw/Tauernfenster (Quelle).md"
-author: "unbekannt (Exkursionsführer)"
-year: ""
-summary: "Exkursionsführer-Kapitel durchs Pfitschtal: Deckenbau, 4-Phasen-Deformationsgeschichte und quantitative Methodik des Tauernfensters."
+source-ref: 10-Raw/Tauernfenster (Quelle).md
+author: unbekannt (Exkursionsführer)
+year: ''
+summary: 'Exkursionsführer-Kapitel durchs Pfitschtal: Deckenbau, 4-Phasen-Deformationsgeschichte
+  und quantitative Methodik des Tauernfensters.'
 tier: supporting
 related:
-  - "[[Tauernfenster]]"
-  - "[[Tauern Window (Field Guide)]]"
-  - "[[Das Tauernfenster als tektonisches Exhumationsfenster]]"
-  - "[[Metamorphe Schieferhülle (Tauernfenster)]]"
-  - "[[Alpine Metamorphose]]"
-  - "[[Laterale Extrusion der Ostalpen]]"
+- '[[Tauernfenster]]'
+- '[[Tauern Window (Field Guide)]]'
+- '[[Das Tauernfenster als tektonisches Exhumationsfenster]]'
+- '[[Metamorphe Schieferhülle (Tauernfenster)]]'
+- '[[Alpine Metamorphose]]'
+- '[[Laterale Extrusion der Ostalpen]]'
 provenance:
   extracted: 0.8
   inferred: 0.15

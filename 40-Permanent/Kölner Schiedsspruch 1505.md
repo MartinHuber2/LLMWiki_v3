@@ -1,13 +1,13 @@
 ---
 type: permanent
 tags:
-  - Geschichte
-  - Rechtsgeschichte
+- geisteswissenschaften/geschichte
+- geisteswissenschaften/geschichte/rechtsgeschichte
 related:
-  - "[[Landshuter Erbfolgekrieg]]"
-  - "[[Junge Pfalz]]"
-  - "[[Maximilians Gebietsgewinne im Landshuter Erbfolgekrieg]]"
-  - "[[Der Kölner Schiedsspruch als territoriale Neuordnung]]"
+- '[[Landshuter Erbfolgekrieg]]'
+- '[[Junge Pfalz]]'
+- '[[Maximilians Gebietsgewinne im Landshuter Erbfolgekrieg]]'
+- '[[Der Kölner Schiedsspruch als territoriale Neuordnung]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

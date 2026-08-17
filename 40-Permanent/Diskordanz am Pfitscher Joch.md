@@ -1,16 +1,18 @@
 ---
 type: permanent
 tags:
-  - Geologie
-summary: "Am Pfitscher Joch überspringt man die Diskordanz: die Grenze zwischen metamorphem variszischem Grundgebirge und ungefaltetem Deckgebirge — ein Sprung von ~250 Mio. Jahren."
+- geowissenschaften/geologie
+summary: 'Am Pfitscher Joch überspringt man die Diskordanz: die Grenze zwischen metamorphem
+  variszischem Grundgebirge und ungefaltetem Deckgebirge — ein Sprung von ~250 Mio.
+  Jahren.'
 tier: supporting
 related:
-  - "[[Tauernfenster]]"
-  - "[[Alpine Deckentektonik]]"
-  - "[[Geothermobarometrie]]"
+- '[[Tauernfenster]]'
+- '[[Alpine Deckentektonik]]'
+- '[[Geothermobarometrie]]'
 relationships:
-  - target: "[[Tauernfenster]]"
-    type: related_to
+- target: '[[Tauernfenster]]'
+  type: related_to
 provenance:
   extracted: 0.9
   inferred: 0.1

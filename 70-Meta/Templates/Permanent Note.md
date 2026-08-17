@@ -1,13 +1,12 @@
 ---
 type: permanent
 tags: []
-summary: ""
 tier: supporting
 related: []
 relationships: []
 Rel_AI: 2
 Rel_User:
-# Lernpfad: 1 = zentraler Grundbaustein; 2 = wichtige Verbindung; 3 = vertiefende Wiederholung; 4 = Detail; 5 = Randaspekt
+# Siehe [[KI-Instruktionen]]
 provenance:
   extracted: 0.0
   inferred: 0.0

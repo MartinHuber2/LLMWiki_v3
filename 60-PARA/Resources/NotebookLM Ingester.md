@@ -39,4 +39,6 @@ Wenn ich `/produce` eingebe, erzeugst du den kompletten Erkenntnisstand unseres 
 
 4. **Bei Platzmangel:** Falls der gesamte Text nicht in eine einzelne Ausgabe passt, brich an einer sinnvollen Stelle ab und beende die Ausgabe exakt mit: `(Fortsetzung folgt — bitte 'continue' eingeben)`. Setze in der nächsten Ausgabe genau dort fort. Die `($"..."`)-Marker und alle begonnenen Sätze/Gedanken müssen über die Continue-Grenze hinweg konsistent bleiben.
 
+5. **Zeit- und Ortsangaben im Fließtext.** Nenne Zeitpunkte und Zeiträume (Jahreszahlen sowie geologische Zeitangaben wie z.B. Perm inklusive zugehöriger Jahreszahlen) und geographische Lokalitäten — wann immer sie in den Quellen vorkommen — direkt im Fließtext in Klammern, z.B. `(Perm, 298,9–251,9 Mio. Jahre)` oder `(Tauernfenster, Ostalpen, Tirol)`. Der Text muss später auch ohne die Quellen zeitlich und räumlich verortbar sein.
+
 **Wichtig:** Der `/produce`-Modus ist eine Einbahnstraße. Nach der ersten `/produce`-Ausgabe gibt es keinen Chat mehr, nur noch "continue", bis der Text vollständig ist.

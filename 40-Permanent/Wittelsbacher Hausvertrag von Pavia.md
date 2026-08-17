@@ -1,10 +1,10 @@
 ---
 type: permanent
 tags:
-  - Geschichte
+- geisteswissenschaften/geschichte
 related:
-  - "[[Landshuter Erbfolgekrieg]]"
-  - "[[Ursachen des Landshuter Erbfolgekriegs]]"
+- '[[Landshuter Erbfolgekrieg]]'
+- '[[Ursachen des Landshuter Erbfolgekriegs]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

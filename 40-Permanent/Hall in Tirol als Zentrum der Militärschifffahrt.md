@@ -1,13 +1,13 @@
 ---
 type: permanent
 tags:
-  - Geschichte
-  - Tirol
-  - Inn
+- geisteswissenschaften/geschichte
+- geowissenschaften/regionen/tirol
+- geowissenschaften/hydrologie
 related:
-  - "[[Innschifffahrt als militärischer Transportweg]]"
-  - "[[Plätten und Schiffszug]]"
-  - "[[Truppendurchzüge und Plünderungen]]"
+- '[[Innschifffahrt als militärischer Transportweg]]'
+- '[[Plätten und Schiffszug]]'
+- '[[Truppendurchzüge und Plünderungen]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto

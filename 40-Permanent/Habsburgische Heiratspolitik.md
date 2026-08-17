@@ -1,13 +1,13 @@
 ---
 type: permanent
 tags:
-  - Geschichte
+- geisteswissenschaften/geschichte
 related:
-  - "[[Burgundisches Erbe Maximilians]]"
-  - "[[Habsburgisch-französischer Gegensatz]]"
-  - "[[Pressburger Vertrag 1491]]"
-  - "[[Wiener Doppelhochzeit 1515]]"
-  - "[[Aufstieg des Hauses Habsburg durch Heiratspolitik]]"
+- '[[Burgundisches Erbe Maximilians]]'
+- '[[Habsburgisch-französischer Gegensatz]]'
+- '[[Pressburger Vertrag 1491]]'
+- '[[Wiener Doppelhochzeit 1515]]'
+- '[[Aufstieg des Hauses Habsburg durch Heiratspolitik]]'
 created: 2026-08-09
 updated: 2026-08-09
 status: auto

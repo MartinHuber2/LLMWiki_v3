@@ -1,11 +1,11 @@
 ---
 type: permanent
 tags:
-  - Geschichte
-  - Tirol
+- geisteswissenschaften/geschichte
+- geowissenschaften/regionen/tirol
 related:
-  - "[[Galeerenstrafe]]"
-  - "[[Innschifffahrt als militärischer Transportweg]]"
+- '[[Galeerenstrafe]]'
+- '[[Innschifffahrt als militärischer Transportweg]]'
 created: 2026-08-08
 updated: 2026-08-08
 status: auto
